@@ -6,7 +6,20 @@
       {
         "id": "folder-streaming-netflix",
         "title": "Netflix",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.nfx",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.nfx",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -32,7 +45,20 @@
       {
         "id": "folder-streaming-prime-video",
         "title": "Prime Video",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.amp",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.amp",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -58,7 +84,20 @@
       {
         "id": "folder-streaming-disneyplus",
         "title": "Disney+",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.dnp",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.dnp",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -84,7 +123,20 @@
       {
         "id": "folder-streaming-max",
         "title": "Max",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.hbm",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.hbm",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -110,7 +162,20 @@
       {
         "id": "folder-streaming-apple-tvplus",
         "title": "Apple TV+",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.atp",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.atp",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -270,7 +335,14 @@
       {
         "id": "folder-filmes-recentes",
         "title": "Filmes recentes — 40",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "new-and-upcoming-movies",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -291,7 +363,14 @@
       {
         "id": "folder-filmes-populares",
         "title": "Filmes populares — 40",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-movies",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -312,7 +391,14 @@
       {
         "id": "folder-filmes-em-breve",
         "title": "Filmes em breve — 20",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "new-and-upcoming-movies",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -333,7 +419,14 @@
       {
         "id": "folder-series-recentes",
         "title": "Séries recentes — 40",
-        "sources": [],
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "new-and-returning-series",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -354,7 +447,14 @@
       {
         "id": "folder-series-populares",
         "title": "Séries populares — 40",
-        "sources": [],
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-series",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -375,7 +475,14 @@
       {
         "id": "folder-series-em-breve",
         "title": "Séries em breve — 20",
-        "sources": [],
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "new-and-returning-series",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -404,7 +511,22 @@
       {
         "id": "folder-categoria-acao",
         "title": "Ação",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-movies",
+            "genre": "Action",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-series",
+            "genre": "Action",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -432,7 +554,22 @@
       {
         "id": "folder-categoria-aventura",
         "title": "Aventura",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-movies",
+            "genre": "Adventure",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-series",
+            "genre": "Adventure",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -460,7 +597,22 @@
       {
         "id": "folder-categoria-animacao",
         "title": "Animação",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-movies",
+            "genre": "Animation",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-series",
+            "genre": "Animation",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -488,7 +640,22 @@
       {
         "id": "folder-categoria-comedia",
         "title": "Comédia",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-movies",
+            "genre": "Comedy",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-series",
+            "genre": "Comedy",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -516,7 +683,22 @@
       {
         "id": "folder-categoria-crime",
         "title": "Crime",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-movies",
+            "genre": "Crime",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-series",
+            "genre": "Crime",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -544,7 +726,22 @@
       {
         "id": "folder-categoria-documentario",
         "title": "Documentário",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-movies",
+            "genre": "Documentary",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-series",
+            "genre": "Documentary",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -572,7 +769,22 @@
       {
         "id": "folder-categoria-drama",
         "title": "Drama",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-movies",
+            "genre": "Drama",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-series",
+            "genre": "Drama",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -600,7 +812,22 @@
       {
         "id": "folder-categoria-fantasia",
         "title": "Fantasia",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-movies",
+            "genre": "Fantasy",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-series",
+            "genre": "Fantasy",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -628,7 +855,22 @@
       {
         "id": "folder-categoria-ficcao-cientifica",
         "title": "Ficção científica",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-movies",
+            "genre": "Science Fiction",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-series",
+            "genre": "Science Fiction",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -656,7 +898,22 @@
       {
         "id": "folder-categoria-guerra",
         "title": "Guerra",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-movies",
+            "genre": "War",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-series",
+            "genre": "War",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -684,7 +941,22 @@
       {
         "id": "folder-categoria-historia",
         "title": "História",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-movies",
+            "genre": "History",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-series",
+            "genre": "History",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -712,7 +984,22 @@
       {
         "id": "folder-categoria-misterio",
         "title": "Mistério",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-movies",
+            "genre": "Mystery",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-series",
+            "genre": "Mystery",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -740,7 +1027,22 @@
       {
         "id": "folder-categoria-romance",
         "title": "Romance",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-movies",
+            "genre": "Romance",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-series",
+            "genre": "Romance",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -768,7 +1070,22 @@
       {
         "id": "folder-categoria-terror",
         "title": "Terror",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-movies",
+            "genre": "Horror",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-series",
+            "genre": "Horror",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -796,7 +1113,22 @@
       {
         "id": "folder-categoria-thriller",
         "title": "Thriller",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-movies",
+            "genre": "Thriller",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "popular-series",
+            "genre": "Thriller",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -832,7 +1164,20 @@
       {
         "id": "folder-tendencias-semana",
         "title": "Tendências desta semana — 40",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "trending-movies",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "trending-series",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -858,7 +1203,20 @@
       {
         "id": "folder-mais-bem-avaliados",
         "title": "Mais bem avaliados — 40",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "critically-acclaimed-movies",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "critically-acclaimed-series",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -982,7 +1340,14 @@
       {
         "id": "folder-cinema-internacional",
         "title": "Cinema internacional",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "international-cinema",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -1866,7 +2231,20 @@
       {
         "id": "folder-familia",
         "title": "Para ver em família",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "family-movies",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "family-series",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
@@ -1892,7 +2270,20 @@
       {
         "id": "folder-sem-adultos",
         "title": "Sem conteúdos adultos",
-        "sources": [],
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "family-movies",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "catalogId": "family-series",
+            "provider": "addon"
+          }
+        ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
