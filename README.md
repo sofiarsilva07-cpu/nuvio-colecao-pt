@@ -2,14 +2,8 @@
 
 Pacote nativo para o Nuvio, configurado para Portugal.
 
-Inclui capas tituladas, streaming sem limite artificial de resultados, filtros por categoria e ano dentro de cada serviço, filtros por ano nas categorias, descoberta, tendências, idiomas, décadas, sagas, anime, família e faixas adicionais.
+Os serviços de streaming têm apenas as duas abas pedidas: Filmes e Séries. As fontes base não têm limite artificial de resultados.
 
-As fontes base de Netflix, Prime Video, Disney+, Max, Apple TV+, SkyShowtime, Filmin e RTP Play não têm `voteCountGte` nem limite de itens: o Nuvio/TMDB pode continuar a paginar os resultados disponíveis.
+As capas de Descobrir e Mais faixas incluem o título. O modo TABBED_GRID fica activo e a aba Tudo fica desactivada.
 
-O modo `TABBED_GRID` e a aba `Tudo` ficam definidos nas quatro colecções. No Nuvio, as fontes são apresentadas como abas; o JSON nativo não cria controlos dropdown personalizados.
-
-## Actualização periódica
-
-As faixas recentes, em breve, tendências e novidades usam datas fixas no JSON e devem ser actualizadas periodicamente.
-
-A faixa `Recomendados para ti` usa uma selecção de fallback; personalização real depende do histórico do Nuvio/Trakt quando essa integração estiver disponível.
+O JSON nativo do Nuvio não define dropdowns personalizados de Ano/Categoria. Para dropdowns reais, os filtros devem ser configurados no construtor do catálogo/add-on (por exemplo, Xperience ou AIOMetadata), não dentro de collections.json.
