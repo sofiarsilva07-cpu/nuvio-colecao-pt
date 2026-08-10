@@ -9,8 +9,8 @@
         "sources": [
           {
             "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "streaming.nfx",
+            "addonId": "community.tmdb.discover.plus.stable",
+            "catalogId": "tmdb-c9da3deb-1477-4f01-a443-8a8f7ccec664",
             "provider": "addon"
           },
           {
@@ -30,8 +30,8 @@
         "catalogSources": [
           {
             "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "streaming.nfx"
+            "addonId": "community.tmdb.discover.plus.stable",
+            "catalogId": "tmdb-c9da3deb-1477-4f01-a443-8a8f7ccec664"
           },
           {
             "type": "series",

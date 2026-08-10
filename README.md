@@ -11,6 +11,12 @@ Instalar no Nuvio:
 
 Os catálogos addon são pagináveis e não têm o limite artificial de 20/40 itens que existia nas fontes estáticas. As pastas de streaming têm apenas duas fontes: Filmes e Séries.
 
+O catálogo personalizado `Netflix — Filmes` foi criado no TMDB Discover+ e expõe o dropdown Ano. Instalar este manifest no Nuvio antes de importar a coleção:
+
+`https://tmdb-discover-plus.elfhosted.com/L-J4ODhqZx/manifest.json`
+
+Sem esse add-on o Nuvio não consegue resolver essa fonte.
+
 O filtro dinâmico Ano/Categoria é fornecido pelo catálogo/add-on, não pelo ficheiro `collections.json`. O Nuvio mostra os filtros disponíveis no catálogo instalado. Para filtros simultâneos de serviço + ano + género, é necessário instalar/configurar um catálogo TMDB Discover+ ou equivalente; o ZIP não contém uma chave TMDB.
 
 Os serviços SkyShowtime, Filmin e RTP Play permanecem com as fontes TMDB originais porque o AIO Metadata não publica IDs estáveis verificados para esses três catálogos.
