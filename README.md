@@ -1,22 +1,19 @@
-# Nuvio Coleção Portugal — catálogos
+# Nuvio Coleção Portugal — catálogos com filtros de streaming
 
-Esta versão usa `catalogSources` do Nuvio para permitir paginação normal dos add-ons.
+Esta versão usa fontes TMDB Discover para que cada serviço de streaming tenha as opções de filmes e séries filtradas por categoria e ano, mantendo a paginação normal.
+
+## Streaming
+
+Dentro de cada serviço existem:
+
+- `Filmes` e `Séries` sem filtro de ano ou categoria;
+- opções por categoria, como `Filmes — Ação` e `Séries — Ação`;
+- opções por ano, de 2010 a 2026, além de `antes de 2010`.
+
+O Nuvio apresenta as fontes como abas/opções nativas. O ficheiro de coleções não consegue criar controlos HTML personalizados; dependendo da versão do Nuvio, estas opções podem aparecer como abas ou num selector.
 
 ## Importante
 
-Instalar no Nuvio:
+Instalar no Nuvio o `Nuvio Catalog Addon`, usado pelas coleções de descoberta, categorias e extras. As fontes de streaming desta versão usam directamente os filtros TMDB Discover e já não dependem do `AIO Metadata`.
 
-1. `AIO Metadata`, para os catálogos de Netflix, Prime Video, Disney+, Max e Apple TV+.
-2. `Nuvio Catalog Addon`, para categorias, descoberta, tendências, avaliações e família.
-
-Os catálogos addon são pagináveis e não têm o limite artificial de 20/40 itens que existia nas fontes estáticas. As pastas de streaming têm apenas duas fontes: Filmes e Séries.
-
-O catálogo personalizado `Netflix — Filmes` foi criado no TMDB Discover+ e expõe o dropdown Ano. Instalar este manifest no Nuvio antes de importar a coleção:
-
-`https://tmdb-discover-plus.elfhosted.com/L-J4ODhqZx/manifest.json`
-
-Sem esse add-on o Nuvio não consegue resolver essa fonte.
-
-O filtro dinâmico Ano/Categoria é fornecido pelo catálogo/add-on, não pelo ficheiro `collections.json`. O Nuvio mostra os filtros disponíveis no catálogo instalado. Para filtros simultâneos de serviço + ano + género, é necessário instalar/configurar um catálogo TMDB Discover+ ou equivalente; o ZIP não contém uma chave TMDB.
-
-Os serviços SkyShowtime, Filmin e RTP Play permanecem com as fontes TMDB originais porque o AIO Metadata não publica IDs estáveis verificados para esses três catálogos.
+Todos os serviços estão limitados à região `PT` e excluem conteúdos adultos. O ZIP não contém qualquer chave TMDB.
