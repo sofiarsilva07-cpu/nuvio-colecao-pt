@@ -40,10 +40,10 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/netflix.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/netflix.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       },
       {
         "id": "folder-streaming-prime-video",
@@ -82,13 +82,13 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/prime-video.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/prime-video.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       },
       {
-        "id": "folder-streaming-disney-plus",
+        "id": "folder-streaming-disneyplus",
         "title": "Disney+",
         "sources": [
           {
@@ -124,14 +124,14 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/disney-plus.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/disney-plus.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       },
       {
-        "id": "folder-streaming-hbo-max",
-        "title": "HBO Max",
+        "id": "folder-streaming-max",
+        "title": "Max",
         "sources": [
           {
             "title": "Filmes",
@@ -166,13 +166,13 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/hbo-max.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/hbo-max.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       },
       {
-        "id": "folder-streaming-apple-tv-plus",
+        "id": "folder-streaming-apple-tvplus",
         "title": "Apple TV+",
         "sources": [
           {
@@ -208,10 +208,10 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/apple-tv-plus.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/apple-tv-plus.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       },
       {
         "id": "folder-streaming-skyshowtime",
@@ -250,10 +250,10 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/skyshowtime.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/skyshowtime.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       },
       {
         "id": "folder-streaming-filmin",
@@ -292,94 +292,10 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/filmin.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/filmin.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
-      },
-      {
-        "id": "folder-streaming-mubi",
-        "title": "MUBI",
-        "sources": [
-          {
-            "title": "Filmes",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "watchRegion": "PT",
-              "withWatchProviders": "11",
-              "voteCountGte": 5
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
-          },
-          {
-            "title": "Séries",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "watchRegion": "PT",
-              "withWatchProviders": "11",
-              "voteCountGte": 5
-            },
-            "provider": "tmdb",
-            "mediaType": "TV",
-            "tmdbSourceType": "DISCOVER"
-          }
-        ],
-        "hideTitle": true,
-        "tileShape": "LANDSCAPE",
-        "coverEmoji": "",
-        "focusGifUrl": "",
-        "heroVideoUrl": "",
-        "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/mubi.png",
-        "catalogSources": [],
-        "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
-      },
-      {
-        "id": "folder-streaming-crunchyroll",
-        "title": "Crunchyroll",
-        "sources": [
-          {
-            "title": "Filmes",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "watchRegion": "PT",
-              "withWatchProviders": "283",
-              "voteCountGte": 5
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
-          },
-          {
-            "title": "Séries",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "watchRegion": "PT",
-              "withWatchProviders": "283",
-              "voteCountGte": 5
-            },
-            "provider": "tmdb",
-            "mediaType": "TV",
-            "tmdbSourceType": "DISCOVER"
-          }
-        ],
-        "hideTitle": true,
-        "tileShape": "LANDSCAPE",
-        "coverEmoji": "",
-        "focusGifUrl": "",
-        "heroVideoUrl": "",
-        "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/crunchyroll.png",
-        "catalogSources": [],
-        "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       },
       {
         "id": "folder-streaming-rtp-play",
@@ -418,31 +334,27 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/rtp-play.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/rtp-play.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       }
-    ],
-    "pinToTop": true,
-    "viewMode": "TABBED_GRID",
-    "showAllTab": false,
-    "backdropImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png",
-    "focusGlowEnabled": true
+    ]
   },
   {
-    "id": "collection-descobrir",
+    "id": "collection-descobrir-pt",
     "title": "Descobrir",
     "folders": [
       {
         "id": "folder-filmes-recentes",
-        "title": "Filmes recentes",
+        "title": "Filmes recentes — 40",
         "sources": [
           {
-            "title": "Filmes recentes",
+            "title": "Filmes",
             "sortBy": "primary_release_date.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "releaseDateGte": "2026-05-01",
               "releaseDateLte": "2026-08-10",
               "voteCountGte": 5
@@ -458,20 +370,21 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/filmes-recentes.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       },
       {
         "id": "folder-filmes-populares",
-        "title": "Filmes populares",
+        "title": "Filmes populares — 40",
         "sources": [
           {
-            "title": "Filmes populares",
+            "title": "Filmes",
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "voteCountGte": 100
             },
             "provider": "tmdb",
@@ -485,20 +398,21 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/filmes-populares.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       },
       {
         "id": "folder-filmes-em-breve",
-        "title": "Filmes em breve",
+        "title": "Filmes em breve — 20",
         "sources": [
           {
-            "title": "Filmes em breve",
-            "sortBy": "popularity.desc",
+            "title": "Filmes",
+            "sortBy": "primary_release_date.asc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "releaseDateGte": "2026-08-11",
               "releaseDateLte": "2027-03-31",
               "voteCountGte": 0
@@ -514,20 +428,21 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/filmes-em-breve.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       },
       {
         "id": "folder-series-recentes",
-        "title": "Séries recentes",
+        "title": "Séries recentes — 40",
         "sources": [
           {
-            "title": "Séries recentes",
-            "sortBy": "first_air_date.desc",
+            "title": "Séries",
+            "sortBy": "primary_release_date.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "releaseDateGte": "2026-05-01",
               "releaseDateLte": "2026-08-10",
               "voteCountGte": 5
@@ -543,20 +458,21 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/series-recentes.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       },
       {
         "id": "folder-series-populares",
-        "title": "Séries populares",
+        "title": "Séries populares — 40",
         "sources": [
           {
-            "title": "Séries populares",
+            "title": "Séries",
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "voteCountGte": 100
             },
             "provider": "tmdb",
@@ -570,20 +486,21 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/series-populares.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       },
       {
         "id": "folder-series-em-breve",
-        "title": "Séries em breve",
+        "title": "Séries em breve — 20",
         "sources": [
           {
-            "title": "Séries em breve",
-            "sortBy": "popularity.desc",
+            "title": "Séries",
+            "sortBy": "primary_release_date.asc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "releaseDateGte": "2026-08-11",
               "releaseDateLte": "2027-03-31",
               "voteCountGte": 0
@@ -599,20 +516,15 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/series-em-breve.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       }
-    ],
-    "pinToTop": false,
-    "viewMode": "TABBED_GRID",
-    "showAllTab": false,
-    "backdropImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png",
-    "focusGlowEnabled": true
+    ]
   },
   {
-    "id": "collection-categorias",
+    "id": "collection-categorias-pt",
     "title": "Explorar por categoria",
     "folders": [
       {
@@ -624,6 +536,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "28",
               "voteCountGte": 20
             },
@@ -636,6 +549,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "28",
               "voteCountGte": 20
             },
@@ -650,10 +564,10 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/categoria-acao.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-acao.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       },
       {
         "id": "folder-categoria-aventura",
@@ -664,6 +578,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "12",
               "voteCountGte": 20
             },
@@ -676,6 +591,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "12",
               "voteCountGte": 20
             },
@@ -690,10 +606,10 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/categoria-aventura.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-aventura.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       },
       {
         "id": "folder-categoria-animacao",
@@ -704,6 +620,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "16",
               "voteCountGte": 20
             },
@@ -716,6 +633,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "16",
               "voteCountGte": 20
             },
@@ -730,10 +648,10 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/categoria-animacao.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-animacao.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       },
       {
         "id": "folder-categoria-comedia",
@@ -744,6 +662,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "35",
               "voteCountGte": 20
             },
@@ -756,6 +675,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "35",
               "voteCountGte": 20
             },
@@ -770,10 +690,10 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/categoria-comedia.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-comedia.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       },
       {
         "id": "folder-categoria-crime",
@@ -784,6 +704,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "80",
               "voteCountGte": 20
             },
@@ -796,6 +717,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "80",
               "voteCountGte": 20
             },
@@ -810,10 +732,10 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/categoria-crime.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-crime.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       },
       {
         "id": "folder-categoria-documentario",
@@ -824,6 +746,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "99",
               "voteCountGte": 20
             },
@@ -836,6 +759,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "99",
               "voteCountGte": 20
             },
@@ -850,10 +774,10 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/categoria-documentario.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-documentario.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       },
       {
         "id": "folder-categoria-drama",
@@ -864,6 +788,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "18",
               "voteCountGte": 20
             },
@@ -876,6 +801,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "18",
               "voteCountGte": 20
             },
@@ -890,50 +816,10 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/categoria-drama.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-drama.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
-      },
-      {
-        "id": "folder-categoria-familia",
-        "title": "Família",
-        "sources": [
-          {
-            "title": "Filmes",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "withGenres": "10751",
-              "voteCountGte": 20
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
-          },
-          {
-            "title": "Séries",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "withGenres": "10751",
-              "voteCountGte": 20
-            },
-            "provider": "tmdb",
-            "mediaType": "TV",
-            "tmdbSourceType": "DISCOVER"
-          }
-        ],
-        "hideTitle": true,
-        "tileShape": "LANDSCAPE",
-        "coverEmoji": "",
-        "focusGifUrl": "",
-        "heroVideoUrl": "",
-        "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/categoria-familia.png",
-        "catalogSources": [],
-        "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       },
       {
         "id": "folder-categoria-fantasia",
@@ -944,6 +830,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "14",
               "voteCountGte": 20
             },
@@ -956,6 +843,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "14",
               "voteCountGte": 20
             },
@@ -970,10 +858,10 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/categoria-fantasia.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-fantasia.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       },
       {
         "id": "folder-categoria-ficcao-cientifica",
@@ -984,6 +872,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "878",
               "voteCountGte": 20
             },
@@ -996,6 +885,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "878",
               "voteCountGte": 20
             },
@@ -1010,10 +900,10 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/categoria-ficcao-cientifica.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-ficcao-cientifica.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       },
       {
         "id": "folder-categoria-guerra",
@@ -1024,6 +914,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "10752",
               "voteCountGte": 20
             },
@@ -1036,6 +927,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "10752",
               "voteCountGte": 20
             },
@@ -1050,10 +942,10 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/categoria-guerra.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-guerra.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       },
       {
         "id": "folder-categoria-historia",
@@ -1064,6 +956,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "36",
               "voteCountGte": 20
             },
@@ -1076,6 +969,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "36",
               "voteCountGte": 20
             },
@@ -1090,10 +984,10 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/categoria-historia.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-historia.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       },
       {
         "id": "folder-categoria-misterio",
@@ -1104,6 +998,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "9648",
               "voteCountGte": 20
             },
@@ -1116,6 +1011,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "9648",
               "voteCountGte": 20
             },
@@ -1130,10 +1026,10 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/categoria-misterio.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-misterio.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       },
       {
         "id": "folder-categoria-romance",
@@ -1144,6 +1040,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "10749",
               "voteCountGte": 20
             },
@@ -1156,6 +1053,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "10749",
               "voteCountGte": 20
             },
@@ -1170,10 +1068,10 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/categoria-romance.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-romance.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       },
       {
         "id": "folder-categoria-terror",
@@ -1184,6 +1082,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "27",
               "voteCountGte": 20
             },
@@ -1196,6 +1095,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "27",
               "voteCountGte": 20
             },
@@ -1210,10 +1110,10 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/categoria-terror.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-terror.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       },
       {
         "id": "folder-categoria-thriller",
@@ -1224,6 +1124,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "53",
               "voteCountGte": 20
             },
@@ -1236,6 +1137,7 @@
             "sortBy": "popularity.desc",
             "tmdbId": null,
             "filters": {
+              "watchRegion": "PT",
               "withGenres": "53",
               "voteCountGte": 20
             },
@@ -1250,16 +1152,1234 @@
         "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/categoria-thriller.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-thriller.png",
         "catalogSources": [],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
       }
-    ],
-    "pinToTop": false,
-    "viewMode": "TABBED_GRID",
-    "showAllTab": false,
-    "backdropImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/principal/base.png",
-    "focusGlowEnabled": true
+    ]
+  },
+  {
+    "id": "collection-extras-pt",
+    "title": "Mais faixas",
+    "folders": [
+      {
+        "id": "folder-tendencias-semana",
+        "title": "Tendências desta semana — 40",
+        "sources": [
+          {
+            "title": "Filmes",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "releaseDateGte": "2026-07-27",
+              "releaseDateLte": "2026-08-10",
+              "voteCountGte": 5
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Séries",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "releaseDateGte": "2026-07-27",
+              "releaseDateLte": "2026-08-10",
+              "voteCountGte": 5
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
+      },
+      {
+        "id": "folder-mais-bem-avaliados",
+        "title": "Mais bem avaliados — 40",
+        "sources": [
+          {
+            "title": "Filmes",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "voteCountGte": 200,
+              "voteAverageGte": 7
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Séries",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "voteCountGte": 200,
+              "voteAverageGte": 7
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
+      },
+      {
+        "id": "folder-recomendados",
+        "title": "Recomendados para ti",
+        "sources": [
+          {
+            "title": "Filmes",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "voteCountGte": 50
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Séries",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "voteCountGte": 50
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
+      },
+      {
+        "id": "folder-cinema-portugues",
+        "title": "Cinema português — 30",
+        "sources": [
+          {
+            "title": "Filmes",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withOriginalLanguage": "pt",
+              "voteCountGte": 5
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
+      },
+      {
+        "id": "folder-series-portuguesas",
+        "title": "Séries portuguesas — 30",
+        "sources": [
+          {
+            "title": "Séries",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withOriginalLanguage": "pt",
+              "voteCountGte": 5
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
+      },
+      {
+        "id": "folder-cinema-internacional",
+        "title": "Cinema internacional",
+        "sources": [
+          {
+            "title": "Filmes",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "voteCountGte": 20
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
+      },
+      {
+        "id": "folder-coreano",
+        "title": "Coreano",
+        "sources": [
+          {
+            "title": "Filmes",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withOriginalLanguage": "ko",
+              "voteCountGte": 5
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Séries",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withOriginalLanguage": "ko",
+              "voteCountGte": 5
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
+      },
+      {
+        "id": "folder-japones",
+        "title": "Japonês",
+        "sources": [
+          {
+            "title": "Filmes",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withOriginalLanguage": "ja",
+              "voteCountGte": 5
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Séries",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withOriginalLanguage": "ja",
+              "voteCountGte": 5
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
+      },
+      {
+        "id": "folder-chines",
+        "title": "Chinês",
+        "sources": [
+          {
+            "title": "Filmes",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withOriginalLanguage": "zh",
+              "voteCountGte": 5
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Séries",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withOriginalLanguage": "zh",
+              "voteCountGte": 5
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
+      },
+      {
+        "id": "folder-indiano",
+        "title": "Indiano",
+        "sources": [
+          {
+            "title": "Filmes",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
+              "voteCountGte": 5
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Séries",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
+              "voteCountGte": 5
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
+      },
+      {
+        "id": "folder-espanhol",
+        "title": "Espanhol",
+        "sources": [
+          {
+            "title": "Filmes",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withOriginalLanguage": "es",
+              "voteCountGte": 5
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Séries",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withOriginalLanguage": "es",
+              "voteCountGte": 5
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
+      },
+      {
+        "id": "folder-frances",
+        "title": "Francês",
+        "sources": [
+          {
+            "title": "Filmes",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withOriginalLanguage": "fr",
+              "voteCountGte": 5
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Séries",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withOriginalLanguage": "fr",
+              "voteCountGte": 5
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
+      },
+      {
+        "id": "folder-nordico",
+        "title": "Nórdico",
+        "sources": [
+          {
+            "title": "Filmes",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withOriginalLanguage": "da|fi|is|no|sv",
+              "voteCountGte": 5
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Séries",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withOriginalLanguage": "da|fi|is|no|sv",
+              "voteCountGte": 5
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
+      },
+      {
+        "id": "folder-award-oscares",
+        "title": "Óscares",
+        "sources": [
+          {
+            "title": "Vencedores e nomeados",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "voteCountGte": 300,
+              "voteAverageGte": 7.2
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
+      },
+      {
+        "id": "folder-award-emmys",
+        "title": "Emmys",
+        "sources": [
+          {
+            "title": "Vencedores e nomeados",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "voteCountGte": 300,
+              "voteAverageGte": 7.2
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
+      },
+      {
+        "id": "folder-award-globos-de-ouro",
+        "title": "Globos de Ouro",
+        "sources": [
+          {
+            "title": "Vencedores e nomeados",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "voteCountGte": 300,
+              "voteAverageGte": 7.2
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
+      },
+      {
+        "id": "folder-award-cannes",
+        "title": "Cannes",
+        "sources": [
+          {
+            "title": "Vencedores e nomeados",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "voteCountGte": 300,
+              "voteAverageGte": 7.2
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
+      },
+      {
+        "id": "folder-award-bafta",
+        "title": "BAFTA",
+        "sources": [
+          {
+            "title": "Vencedores e nomeados",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "voteCountGte": 300,
+              "voteAverageGte": 7.2
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
+      },
+      {
+        "id": "folder-classicos-decada",
+        "title": "Clássicos por década",
+        "sources": [
+          {
+            "title": "Anos 1950",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "releaseDateGte": "1950-01-01",
+              "releaseDateLte": "1959-12-31",
+              "voteCountGte": 100
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Anos 1960",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "releaseDateGte": "1960-01-01",
+              "releaseDateLte": "1969-12-31",
+              "voteCountGte": 100
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Anos 1970",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "releaseDateGte": "1970-01-01",
+              "releaseDateLte": "1979-12-31",
+              "voteCountGte": 100
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Anos 1980",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "releaseDateGte": "1980-01-01",
+              "releaseDateLte": "1989-12-31",
+              "voteCountGte": 100
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Anos 1990",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "releaseDateGte": "1990-01-01",
+              "releaseDateLte": "1999-12-31",
+              "voteCountGte": 100
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Anos 2000",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "releaseDateGte": "2000-01-01",
+              "releaseDateLte": "2009-12-31",
+              "voteCountGte": 100
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Anos 2010",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "releaseDateGte": "2010-01-01",
+              "releaseDateLte": "2019-12-31",
+              "voteCountGte": 100
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Anos 2020",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "releaseDateGte": "2020-01-01",
+              "releaseDateLte": "2029-12-31",
+              "voteCountGte": 100
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
+      },
+      {
+        "id": "folder-duracao",
+        "title": "Escolher pela duração",
+        "sources": [
+          {
+            "title": "Filmes até 90 minutos",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withRuntimeLte": 90,
+              "voteCountGte": 20
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Filmes entre 90 e 120 minutos",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withRuntimeGte": 90,
+              "withRuntimeLte": 120,
+              "voteCountGte": 20
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Filmes épicos",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withRuntimeGte": 150,
+              "voteCountGte": 20
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Minisséries",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "voteCountGte": 20
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
+      },
+      {
+        "id": "folder-universos-sagas",
+        "title": "Universos e sagas",
+        "sources": [
+          {
+            "title": "Marvel",
+            "sortBy": "popularity.desc",
+            "tmdbId": 529892,
+            "filters": {
+              "watchRegion": "PT",
+              "includeAdult": false
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "COLLECTION"
+          },
+          {
+            "title": "DC",
+            "sortBy": "popularity.desc",
+            "tmdbId": 9485,
+            "filters": {
+              "watchRegion": "PT",
+              "includeAdult": false
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "COLLECTION"
+          },
+          {
+            "title": "Star Wars",
+            "sortBy": "popularity.desc",
+            "tmdbId": 10,
+            "filters": {
+              "watchRegion": "PT",
+              "includeAdult": false
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "COLLECTION"
+          },
+          {
+            "title": "Harry Potter",
+            "sortBy": "popularity.desc",
+            "tmdbId": 1241,
+            "filters": {
+              "watchRegion": "PT",
+              "includeAdult": false
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "COLLECTION"
+          },
+          {
+            "title": "Senhor dos Anéis",
+            "sortBy": "popularity.desc",
+            "tmdbId": 119,
+            "filters": {
+              "watchRegion": "PT",
+              "includeAdult": false
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "COLLECTION"
+          },
+          {
+            "title": "Jurassic Park",
+            "sortBy": "popularity.desc",
+            "tmdbId": 328,
+            "filters": {
+              "watchRegion": "PT",
+              "includeAdult": false
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "COLLECTION"
+          },
+          {
+            "title": "James Bond",
+            "sortBy": "popularity.desc",
+            "tmdbId": 645,
+            "filters": {
+              "watchRegion": "PT",
+              "includeAdult": false
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "COLLECTION"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
+      },
+      {
+        "id": "folder-anime",
+        "title": "Anime",
+        "sources": [
+          {
+            "title": "Filmes",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withGenres": "16",
+              "withOriginalLanguage": "ja",
+              "voteCountGte": 20
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Séries",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withGenres": "16",
+              "withOriginalLanguage": "ja",
+              "voteCountGte": 20
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
+      },
+      {
+        "id": "folder-novidades",
+        "title": "Novidades",
+        "sources": [
+          {
+            "title": "Filmes",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "releaseDateGte": "2026-07-01",
+              "releaseDateLte": "2026-08-10",
+              "voteCountGte": 5
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Séries",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "releaseDateGte": "2026-07-01",
+              "releaseDateLte": "2026-08-10",
+              "voteCountGte": 5
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
+      },
+      {
+        "id": "folder-populares",
+        "title": "Populares",
+        "sources": [
+          {
+            "title": "Filmes",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "voteCountGte": 100
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Séries",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "voteCountGte": 100
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
+      },
+      {
+        "id": "folder-familia",
+        "title": "Para ver em família",
+        "sources": [
+          {
+            "title": "Infantil — Filmes",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withGenres": "16",
+              "includeAdult": false,
+              "voteCountGte": 20
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Infantil — Séries",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withGenres": "16",
+              "includeAdult": false,
+              "voteCountGte": 20
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Família — Filmes",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withGenres": "10751",
+              "includeAdult": false,
+              "voteCountGte": 20
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Família — Séries",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withGenres": "10751",
+              "includeAdult": false,
+              "voteCountGte": 20
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Animação — Filmes",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withGenres": "16",
+              "includeAdult": false,
+              "voteCountGte": 20
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Animação — Séries",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "withGenres": "16",
+              "includeAdult": false,
+              "voteCountGte": 20
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
+      },
+      {
+        "id": "folder-sem-adultos",
+        "title": "Sem conteúdos adultos",
+        "sources": [
+          {
+            "title": "Filmes",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "includeAdult": false,
+              "voteCountGte": 5
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "Séries",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "watchRegion": "PT",
+              "includeAdult": false,
+              "voteCountGte": 5
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.png"
+      }
+    ]
   }
 ]
