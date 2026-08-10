@@ -1,9 +1,16 @@
-# Coleção Nuvio Portugal
+# Nuvio Coleção Portugal — catálogos
 
-Pacote nativo para o Nuvio, configurado para Portugal.
+Esta versão usa `catalogSources` do Nuvio para permitir paginação normal dos add-ons.
 
-Os serviços de streaming têm apenas as duas abas pedidas: Filmes e Séries. As fontes base não têm limite artificial de resultados.
+## Importante
 
-As capas de Descobrir e Mais faixas incluem o título. O modo TABBED_GRID fica activo e a aba Tudo fica desactivada.
+Instalar no Nuvio:
 
-O JSON nativo do Nuvio não define dropdowns personalizados de Ano/Categoria. Para dropdowns reais, os filtros devem ser configurados no construtor do catálogo/add-on (por exemplo, Xperience ou AIOMetadata), não dentro de collections.json.
+1. `AIO Metadata`, para os catálogos de Netflix, Prime Video, Disney+, Max e Apple TV+.
+2. `Nuvio Catalog Addon`, para categorias, descoberta, tendências, avaliações e família.
+
+Os catálogos addon são pagináveis e não têm o limite artificial de 20/40 itens que existia nas fontes estáticas. As pastas de streaming têm apenas duas fontes: Filmes e Séries.
+
+O filtro dinâmico Ano/Categoria é fornecido pelo catálogo/add-on, não pelo ficheiro `collections.json`. O Nuvio mostra os filtros disponíveis no catálogo instalado. Para filtros simultâneos de serviço + ano + género, é necessário instalar/configurar um catálogo TMDB Discover+ ou equivalente; o ZIP não contém uma chave TMDB.
+
+Os serviços SkyShowtime, Filmin e RTP Play permanecem com as fontes TMDB originais porque o AIO Metadata não publica IDs estáveis verificados para esses três catálogos.
