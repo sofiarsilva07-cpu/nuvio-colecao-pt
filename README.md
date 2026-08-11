@@ -14,6 +14,8 @@ O Nuvio apresenta as fontes como abas/opções nativas. O ficheiro de coleções
 
 As restantes coleções também usam ordenação por data descendente, para mostrar primeiro o conteúdo mais recente. A pasta `Em breve` usa data ascendente, mostrando primeiro o lançamento mais próximo.
 
+Foram acrescentadas as coleções `Explorar Filmes por ano` e `Explorar Séries por ano`, com pastas para cada ano de 2027 a 2000 e pastas por década de 1990 a 1950. Cada pasta usa um intervalo de datas exacto.
+
 ## Importante
 
 Não é necessário instalar o `Nuvio Catalog Addon` nem o `AIO Metadata` para resolver as fontes deste pacote.
