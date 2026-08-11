@@ -1,6 +1,6 @@
-# Nuvio Coleção Portugal — catálogos com filtros de streaming
+# Nuvio Coleção Portugal — catálogos completos
 
-Esta versão usa fontes TMDB Discover para que cada serviço de streaming tenha as opções de filmes e séries filtradas por categoria e ano, mantendo a paginação normal.
+Esta versão usa fontes TMDB Discover em todas as coleções, para que o conteúdo não dependa de um catálogo/add-on adicional e para manter a paginação normal.
 
 ## Streaming
 
@@ -12,8 +12,10 @@ Dentro de cada serviço existem:
 
 O Nuvio apresenta as fontes como abas/opções nativas. O ficheiro de coleções não consegue criar controlos HTML personalizados; dependendo da versão do Nuvio, estas opções podem aparecer como abas ou num selector.
 
+As restantes coleções também usam ordenação por data descendente, para mostrar primeiro o conteúdo mais recente. A pasta `Em breve` usa data ascendente, mostrando primeiro o lançamento mais próximo.
+
 ## Importante
 
-Instalar no Nuvio o `Nuvio Catalog Addon`, usado pelas coleções de descoberta, categorias e extras. As fontes de streaming desta versão usam directamente os filtros TMDB Discover e já não dependem do `AIO Metadata`.
+Não é necessário instalar o `Nuvio Catalog Addon` nem o `AIO Metadata` para resolver as fontes deste pacote.
 
 Todos os serviços estão limitados à região `PT` e excluem conteúdos adultos. O ZIP não contém qualquer chave TMDB.
