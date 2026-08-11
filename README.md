@@ -28,6 +28,10 @@ As fontes TMDB Discover das secções e filtros foram separadas por ano: 2027–
 
 `Mais faixas` ficou reservado para conteúdos gerais. Os prémios e os países estão apenas nas coleções próprias `Explorar por Prémios` e `Ver conteúdo por País`.
 
+## Fundos compatíveis com a TV
+
+Os fundos têm URLs directos e cache-busting no JSON: `destaques-background.png`, `premios-background.png` e `descobrir-background.jpg`.
+
 ## Importante
 
 Não é necessário instalar o `Nuvio Catalog Addon` nem o `AIO Metadata` para resolver as fontes deste pacote.
