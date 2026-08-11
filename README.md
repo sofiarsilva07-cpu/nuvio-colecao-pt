@@ -26,6 +26,8 @@ As coleções `Explorar por categoria` e `Descobrir` também têm agora fundos p
 
 As fontes TMDB Discover das secções e filtros foram separadas por ano: 2027–2000 e, depois, por décadas até 1950. A ordem das opções é da mais recente para a mais antiga, evitando resultados de anos misturados.
 
+`Mais faixas` ficou reservado para conteúdos gerais. Os prémios e os países estão apenas nas coleções próprias `Explorar por Prémios` e `Ver conteúdo por País`.
+
 ## Importante
 
 Não é necessário instalar o `Nuvio Catalog Addon` nem o `AIO Metadata` para resolver as fontes deste pacote.
