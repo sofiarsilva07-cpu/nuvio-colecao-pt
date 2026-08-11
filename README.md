@@ -16,6 +16,16 @@ As restantes coleções também usam ordenação por data descendente, para most
 
 Foram acrescentadas as coleções `Explorar Filmes por ano` e `Explorar Séries por ano`, com pastas para cada ano de 2027 a 2000 e pastas por década de 1990 a 1950. Cada pasta usa um intervalo de datas exacto.
 
+Foi também acrescentada a coleção `Explorar por Prémios`, com pastas para Óscares, Emmys, Globos de Ouro, Cannes e BAFTA.
+
+Foi acrescentada a coleção `Ver conteúdo por País`, com opções separadas de `Filmes` e `Séries` para Japão, China, Coreia do Sul, Índia, Espanha, França, Países Nórdicos e Portugal. Todas são ordenadas pela data de lançamento mais recente.
+
+A coleção `Mais faixas` usa agora um fundo cinematográfico próprio (`mais-faixas-background.jpg`).
+
+As coleções `Explorar por categoria` e `Descobrir` também têm agora fundos próprios: `explorar-categorias-background.jpg` e `descobrir-background.jpg`.
+
+As fontes TMDB Discover das secções e filtros foram separadas por ano: 2027–2000 e, depois, por décadas até 1950. A ordem das opções é da mais recente para a mais antiga, evitando resultados de anos misturados.
+
 ## Importante
 
 Não é necessário instalar o `Nuvio Catalog Addon` nem o `AIO Metadata` para resolver as fontes deste pacote.
