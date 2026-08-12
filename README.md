@@ -44,6 +44,8 @@ Foram ainda adicionados iQIYI, Syfy, Starz, Showcase, Hulu, TVE e Atreseries.
 
 Foram também adicionados Youku, WeTV, Tencent Video, YouTube, ZDF, Das Erste, BBC One e BBC Two.
 
+O ficheiro `collections-github-main.js` é a cópia pronta para substituir a versão antiga no GitHub. A TV deve usar esse ficheiro atualizado; ele já aponta para JPG, usa UTF-8 correto e inclui os 42 serviços/redes.
+
 ## Importante
 
 Não é necessário instalar o `Nuvio Catalog Addon` nem o `AIO Metadata` para resolver as fontes deste pacote.
