@@ -30,7 +30,11 @@ As fontes TMDB Discover das secções e filtros foram separadas por ano: 2027–
 
 ## Fundos compatíveis com a TV
 
-Os fundos têm URLs directos e cache-busting no JSON: `destaques-background.png`, `premios-background.png` e `descobrir-background.jpg`.
+Os fundos têm URLs directos e cache-busting no JSON: `destaques-background.jpg`, `premios-background.jpg` e `descobrir-background.jpg`.
+
+As imagens dos cartões foram convertidas de PNG para JPG para compatibilidade com televisores que não apresentam PNG remoto.
+
+As listas de recentes, populares, em breve, tendências e mais bem avaliados não têm limite artificial de 20 ou 40 itens. Esses números foram removidos dos títulos; a navegação usa a paginação normal do TMDB.
 
 ## Importante
 
