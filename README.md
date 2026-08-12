@@ -31,7 +31,7 @@ As opções detalhadas por ano, década e categoria continuam disponíveis nas c
 
 As pastas usam fundos próprios para as secções `Descobrir`, `Explorar por categoria`, `Mais faixas` e `Explorar por Prémios`. Os fundos com cache-busting usam `?v=20260812`.
 
-As imagens referenciadas pelo catálogo são JPG e estão incluídas no pacote. Não são incluídos PNG não utilizados.
+As imagens referenciadas pelo catálogo são JPG e estão incluídas no pacote. As capas foram actualizadas com fundos cinematográficos e mantêm os títulos legíveis. Não são incluídos PNG não utilizados.
 
 ## Ficheiros do catálogo
 
