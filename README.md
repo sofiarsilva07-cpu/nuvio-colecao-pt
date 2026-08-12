@@ -4,10 +4,11 @@ Pacote declarativo de colecções para o Nuvio. O catálogo usa fontes TMDB Disc
 
 ## Conteúdo
 
-- 8 colecções, 153 pastas e 4 568 fontes sem duplicados exactos;
+- 9 colecções, 155 pastas e 4 570 fontes sem duplicados exactos;
 - 42 serviços e redes na colecção `Explorar por streaming`;
 - filtros de filmes e séries por serviço, categoria, ano, década, país e prémio;
-- fontes com `includeAdult: false` para excluir conteúdos adultos;
+- fontes com `includeAdult: false` no catálogo geral para excluir conteúdos adultos;
+- uma colecção separada `Conteúdo adulto (18+)`, com duas fontes TMDB e `includeAdult: true`;
 - cartões e fundos em JPG, para melhor compatibilidade com televisores.
 
 As colecções usam `TABBED_GRID`. O Nuvio apresenta as fontes como abas ou num selector, dependendo da versão instalada.
@@ -27,11 +28,15 @@ As oito plataformas principais (`Netflix`, `Prime Video`, `Disney+`, `Max`, `App
 
 As opções detalhadas por ano, década e categoria continuam disponíveis nas colecções globais `Explorar por categoria`, `Explorar Filmes por ano` e `Explorar Séries por ano`.
 
+## Conteúdo adulto
+
+A colecção `Conteúdo adulto (18+)` está separada do catálogo geral. As fontes usam `includeAdult: true`, que permite ao TMDB devolver títulos marcados como adultos. Este parâmetro é permissivo e não é um filtro exclusivo: a fonte pode também devolver títulos normais. A disponibilidade de resultados depende da definição de conteúdo adulto da conta TMDB e dos addons instalados no Nuvio.
+
 ## Fundos e imagens
 
 As pastas usam fundos próprios para as secções `Descobrir`, `Explorar por categoria`, `Mais faixas` e `Explorar por Prémios`. Os fundos com cache-busting usam `?v=20260812`.
 
-As imagens referenciadas pelo catálogo são JPG e estão incluídas no pacote. As capas foram actualizadas com fundos cinematográficos e mantêm os títulos legíveis. Não são incluídos PNG não utilizados.
+As imagens referenciadas pelo catálogo são JPG e PNG utilizados e estão incluídas no pacote. As capas foram actualizadas com fundos cinematográficos e mantêm os títulos legíveis. Não são incluídos ficheiros de imagem não utilizados.
 
 ## Ficheiros do catálogo
 

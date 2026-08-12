@@ -21638,7 +21638,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/filmes-recentes.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/descobrir-background.jpg?v=20260811"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/descobrir-background.jpg?v=20260812-descobrir-v2"
             },
             {
                 "id": "folder-filmes-populares",
@@ -22177,7 +22177,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/filmes-populares.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/descobrir-background.jpg?v=20260811"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/descobrir-background.jpg?v=20260812-descobrir-v2"
             },
             {
                 "id": "folder-filmes-em-breve",
@@ -22225,7 +22225,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/filmes-em-breve.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/descobrir-background.jpg?v=20260811"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/descobrir-background.jpg?v=20260812-descobrir-v2"
             },
             {
                 "id": "folder-series-recentes",
@@ -22257,7 +22257,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/series-recentes.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/descobrir-background.jpg?v=20260811"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/descobrir-background.jpg?v=20260812-descobrir-v2"
             },
             {
                 "id": "folder-series-populares",
@@ -22796,7 +22796,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/series-populares.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/descobrir-background.jpg?v=20260811"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/descobrir-background.jpg?v=20260812-descobrir-v2"
             },
             {
                 "id": "folder-series-em-breve",
@@ -22844,7 +22844,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/series-em-breve.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/descobrir-background.jpg?v=20260811"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/descobrir-background.jpg?v=20260812-descobrir-v2"
             }
         ],
         "showAllTab": true,
@@ -47328,7 +47328,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-tendencias-desta-semana-40.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/mais-faixas-background.jpg?v=20260812"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/destaques-background.png?v=20260812-destaques-v2"
             },
             {
                 "id": "folder-mais-bem-avaliados",
@@ -48456,7 +48456,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-mais-bem-avaliados-40.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/mais-faixas-background.jpg?v=20260812"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/destaques-background.png?v=20260812-destaques-v2"
             },
             {
                 "id": "folder-recomendados",
@@ -49518,7 +49518,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-recomendados-para-ti.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/mais-faixas-background.jpg?v=20260812"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/destaques-background.png?v=20260812-destaques-v2"
             },
             {
                 "id": "folder-classicos-decada",
@@ -50057,7 +50057,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-classicos-por-decada.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/mais-faixas-background.jpg?v=20260812"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/destaques-background.png?v=20260812-destaques-v2"
             },
             {
                 "id": "folder-duracao",
@@ -52297,7 +52297,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-escolher-pela-duracao.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/mais-faixas-background.jpg?v=20260812"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/destaques-background.png?v=20260812-destaques-v2"
             },
             {
                 "id": "folder-universos-sagas",
@@ -55743,7 +55743,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-universos-e-sagas.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/mais-faixas-background.jpg?v=20260812"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/destaques-background.png?v=20260812-destaques-v2"
             },
             {
                 "id": "folder-anime",
@@ -56937,7 +56937,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-anime.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/mais-faixas-background.jpg?v=20260812"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/destaques-background.png?v=20260812-destaques-v2"
             },
             {
                 "id": "folder-novidades",
@@ -56985,7 +56985,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-novidades.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/mais-faixas-background.jpg?v=20260812"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/destaques-background.png?v=20260812-destaques-v2"
             },
             {
                 "id": "folder-populares",
@@ -58047,7 +58047,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-populares.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/mais-faixas-background.jpg?v=20260812"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/destaques-background.png?v=20260812-destaques-v2"
             },
             {
                 "id": "folder-familia",
@@ -61399,7 +61399,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-para-ver-em-familia.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/mais-faixas-background.jpg?v=20260812"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/destaques-background.png?v=20260812-destaques-v2"
             },
             {
                 "id": "folder-sem-adultos",
@@ -62461,7 +62461,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-sem-conteudos-adultos.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/mais-faixas-background.jpg?v=20260812"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/destaques-background.png?v=20260812-destaques-v2"
             }
         ],
         "showAllTab": true,
@@ -65093,7 +65093,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-oscares.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/premios-background.jpg?v=20260811"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/premios-background.jpg?v=20260812-premios-v2"
             },
             {
                 "id": "folder-premio-emmys",
@@ -65665,7 +65665,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-emmys.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/premios-background.jpg?v=20260811"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/premios-background.jpg?v=20260812-premios-v2"
             },
             {
                 "id": "folder-premio-globos-de-ouro",
@@ -66237,7 +66237,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-globos-de-ouro.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/premios-background.jpg?v=20260811"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/premios-background.jpg?v=20260812-premios-v2"
             },
             {
                 "id": "folder-premio-cannes",
@@ -66809,7 +66809,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-cannes.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/premios-background.jpg?v=20260811"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/premios-background.jpg?v=20260812-premios-v2"
             },
             {
                 "id": "folder-premio-bafta",
@@ -67381,7 +67381,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-bafta.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/premios-background.jpg?v=20260811"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/premios-background.jpg?v=20260812-premios-v2"
             }
         ],
         "showAllTab": false,
@@ -76414,6 +76414,68 @@
                 "catalogSources": null,
                 "focusGifEnabled": false,
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+            }
+        ],
+        "showAllTab": false,
+        "viewMode": "TABBED_GRID"
+    },
+    {
+        "id": "collection-adulto-pt",
+        "title": "Conteúdo adulto (18+)",
+        "folders": [
+            {
+                "id": "folder-adulto-filmes",
+                "title": "Filmes — adultos permitidos",
+                "sources": [
+                    {
+                        "title": "Filmes — conteúdo adulto permitido",
+                        "sortBy": "popularity.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "includeAdult": true
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    }
+                ],
+                "hideTitle": false,
+                "tileShape": "LANDSCAPE",
+                "coverEmoji": "🔞",
+                "focusGifUrl": "",
+                "heroVideoUrl": "",
+                "titleLogoUrl": "",
+                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260812-adulto-v1",
+                "catalogSources": null,
+                "focusGifEnabled": false,
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260812-adulto-v1"
+            },
+            {
+                "id": "folder-adulto-series",
+                "title": "Séries — adultos permitidos",
+                "sources": [
+                    {
+                        "title": "Séries — conteúdo adulto permitido",
+                        "sortBy": "popularity.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "includeAdult": true
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    }
+                ],
+                "hideTitle": false,
+                "tileShape": "LANDSCAPE",
+                "coverEmoji": "🔞",
+                "focusGifUrl": "",
+                "heroVideoUrl": "",
+                "titleLogoUrl": "",
+                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260812-adulto-v1",
+                "catalogSources": null,
+                "focusGifEnabled": false,
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260812-adulto-v1"
             }
         ],
         "showAllTab": false,
