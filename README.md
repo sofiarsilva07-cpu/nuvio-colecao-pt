@@ -36,6 +36,14 @@ As imagens dos cartões foram convertidas de PNG para JPG para compatibilidade c
 
 As listas de recentes, populares, em breve, tendências e mais bem avaliados não têm limite artificial de 20 ou 40 itens. Esses números foram removidos dos títulos; a navegação usa a paginação normal do TMDB.
 
+Foram adicionadas à secção de streaming as redes CCTV, CBS, FOX, Channel 4, Fuji TV, ESPN, E!, The CW, Showtime, History e Discovery. Cada uma tem filtros de séries por ano e por década, ordenados da mais recente para a mais antiga.
+
+Foram também adicionados Animal Planet, FX, TVI, SIC, AMC, Viki, Paramount+ e Crunchyroll, com cartões JPG compatíveis com televisores.
+
+Foram ainda adicionados iQIYI, Syfy, Starz, Showcase, Hulu, TVE e Atreseries.
+
+Foram também adicionados Youku, WeTV, Tencent Video, YouTube, ZDF, Das Erste, BBC One e BBC Two.
+
 ## Importante
 
 Não é necessário instalar o `Nuvio Catalog Addon` nem o `AIO Metadata` para resolver as fontes deste pacote.
