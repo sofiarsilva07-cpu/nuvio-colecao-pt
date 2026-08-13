@@ -4,11 +4,10 @@ Pacote declarativo de colecções para o Nuvio. O catálogo usa fontes TMDB Disc
 
 ## Conteúdo
 
-- 9 colecções, 155 pastas e 4 570 fontes sem duplicados exactos;
+- 8 colecções, 153 pastas e 4 568 fontes sem duplicados exactos;
 - 42 serviços e redes na colecção `Explorar por streaming`;
 - filtros de filmes e séries por serviço, categoria, ano, década, país e prémio;
 - fontes com `includeAdult: false` no catálogo geral para excluir conteúdos adultos;
-- uma colecção separada `Conteúdo adulto (18+)`, com duas fontes TMDB e `includeAdult: true`;
 - cartões e fundos em JPG, para melhor compatibilidade com televisores.
 
 As colecções usam `TABBED_GRID`. O Nuvio apresenta as fontes como abas ou num selector, dependendo da versão instalada.
@@ -27,10 +26,6 @@ A pasta `Crunchyroll` usa o ID de fornecedor TMDB `283`; o ID `30` corresponde a
 As oito plataformas principais (`Netflix`, `Prime Video`, `Disney+`, `Max`, `Apple TV+`, `SkyShowtime`, `Filmin` e `RTP Play`) têm apenas duas fontes leves por pasta: `Filmes` e `Séries`. Esta organização evita que a aplicação tente carregar mais de mil abas ao abrir uma plataforma.
 
 As opções detalhadas por ano, década e categoria continuam disponíveis nas colecções globais `Explorar por categoria`, `Explorar Filmes por ano` e `Explorar Séries por ano`.
-
-## Conteúdo adulto
-
-A colecção `Conteúdo adulto (18+)` está separada do catálogo geral. As fontes usam `includeAdult: true`, que permite ao TMDB devolver títulos marcados como adultos. Este parâmetro é permissivo e não é um filtro exclusivo: a fonte pode também devolver títulos normais. A disponibilidade de resultados depende da definição de conteúdo adulto da conta TMDB e dos addons instalados no Nuvio.
 
 ## Fundos e imagens
 
