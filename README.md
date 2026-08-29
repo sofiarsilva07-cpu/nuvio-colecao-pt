@@ -4,9 +4,10 @@ Pacote declarativo de colecções para o Nuvio. O catálogo usa fontes TMDB Disc
 
 ## Conteúdo
 
-- 8 colecções, 153 pastas e 4 568 fontes sem duplicados exactos;
+- 9 colecções, 168 pastas e 4 568 fontes sem duplicados exactos;
 - 42 serviços e redes na colecção `Explorar por streaming`;
 - filtros de filmes e séries por serviço, categoria, ano, década, país e prémio;
+- secções separadas `Explorar Filmes por categoria` e `Explorar Séries por categoria`, com 15 géneros cada;
 - fontes com `includeAdult: false` no catálogo geral para excluir conteúdos adultos;
 - cartões e fundos em JPG, para melhor compatibilidade com televisores.
 
@@ -25,7 +26,7 @@ A pasta `Crunchyroll` usa o ID de fornecedor TMDB `283`; o ID `30` corresponde a
 
 As oito plataformas principais (`Netflix`, `Prime Video`, `Disney+`, `Max`, `Apple TV+`, `SkyShowtime`, `Filmin` e `RTP Play`) têm apenas duas fontes leves por pasta: `Filmes` e `Séries`. Esta organização evita que a aplicação tente carregar mais de mil abas ao abrir uma plataforma.
 
-As opções detalhadas por ano, década e categoria continuam disponíveis nas colecções globais `Explorar por categoria`, `Explorar Filmes por ano` e `Explorar Séries por ano`.
+As opções detalhadas por ano, década e categoria continuam disponíveis nas colecções globais `Explorar Filmes por categoria`, `Explorar Séries por categoria`, `Explorar Filmes por ano` e `Explorar Séries por ano`.
 
 ## Fundos e imagens
 
