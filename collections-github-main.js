@@ -23671,7 +23671,7 @@
                 "focusGifUrl": "",
                 "heroVideoUrl": "",
                 "titleLogoUrl": "",
-                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-acao.jpg?v=20260812-capas-v2",
+                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-acao.jpg?v=20260902-series-tv-genres",
                 "catalogSources": null,
                 "focusGifEnabled": false,
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
@@ -24493,7 +24493,7 @@
                 "focusGifUrl": "",
                 "heroVideoUrl": "",
                 "titleLogoUrl": "",
-                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-aventura.jpg?v=20260812-capas-v2",
+                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-aventura.jpg?v=20260902-series-tv-genres",
                 "catalogSources": null,
                 "focusGifEnabled": false,
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
@@ -25315,7 +25315,7 @@
                 "focusGifUrl": "",
                 "heroVideoUrl": "",
                 "titleLogoUrl": "",
-                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-animacao.jpg?v=20260812-capas-v2",
+                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-animacao.jpg?v=20260902-series-tv-genres",
                 "catalogSources": null,
                 "focusGifEnabled": false,
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
@@ -26137,7 +26137,7 @@
                 "focusGifUrl": "",
                 "heroVideoUrl": "",
                 "titleLogoUrl": "",
-                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-comedia.jpg?v=20260812-capas-v2",
+                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-comedia.jpg?v=20260902-series-tv-genres",
                 "catalogSources": null,
                 "focusGifEnabled": false,
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
@@ -26959,7 +26959,7 @@
                 "focusGifUrl": "",
                 "heroVideoUrl": "",
                 "titleLogoUrl": "",
-                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-crime.jpg?v=20260812-capas-v2",
+                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-crime.jpg?v=20260902-series-tv-genres",
                 "catalogSources": null,
                 "focusGifEnabled": false,
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
@@ -27781,7 +27781,7 @@
                 "focusGifUrl": "",
                 "heroVideoUrl": "",
                 "titleLogoUrl": "",
-                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-documentario.jpg?v=20260812-capas-v2",
+                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-documentario.jpg?v=20260902-series-tv-genres",
                 "catalogSources": null,
                 "focusGifEnabled": false,
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
@@ -28603,7 +28603,829 @@
                 "focusGifUrl": "",
                 "heroVideoUrl": "",
                 "titleLogoUrl": "",
-                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-drama.jpg?v=20260812-capas-v2",
+                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-drama.jpg?v=20260902-series-tv-genres",
+                "catalogSources": null,
+                "focusGifEnabled": false,
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
+            },
+            {
+                "id": "folder-categoria-familia",
+                "title": "Família",
+                "sources": [
+                    {
+                        "title": "Filmes — 2027",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2027,
+                            "releaseDateGte": "2027-01-01",
+                            "releaseDateLte": "2027-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2026",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2026,
+                            "releaseDateGte": "2026-01-01",
+                            "releaseDateLte": "2026-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2025",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2025,
+                            "releaseDateGte": "2025-01-01",
+                            "releaseDateLte": "2025-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2024",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2024,
+                            "releaseDateGte": "2024-01-01",
+                            "releaseDateLte": "2024-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2023",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2023,
+                            "releaseDateGte": "2023-01-01",
+                            "releaseDateLte": "2023-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2022",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2022,
+                            "releaseDateGte": "2022-01-01",
+                            "releaseDateLte": "2022-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2021",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2021,
+                            "releaseDateGte": "2021-01-01",
+                            "releaseDateLte": "2021-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2020",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2020,
+                            "releaseDateGte": "2020-01-01",
+                            "releaseDateLte": "2020-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2019",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2019,
+                            "releaseDateGte": "2019-01-01",
+                            "releaseDateLte": "2019-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2018",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2018,
+                            "releaseDateGte": "2018-01-01",
+                            "releaseDateLte": "2018-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2017",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2017,
+                            "releaseDateGte": "2017-01-01",
+                            "releaseDateLte": "2017-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2016",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2016,
+                            "releaseDateGte": "2016-01-01",
+                            "releaseDateLte": "2016-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2015",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2015,
+                            "releaseDateGte": "2015-01-01",
+                            "releaseDateLte": "2015-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2014",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2014,
+                            "releaseDateGte": "2014-01-01",
+                            "releaseDateLte": "2014-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2013",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2013,
+                            "releaseDateGte": "2013-01-01",
+                            "releaseDateLte": "2013-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2012",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2012,
+                            "releaseDateGte": "2012-01-01",
+                            "releaseDateLte": "2012-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2011",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2011,
+                            "releaseDateGte": "2011-01-01",
+                            "releaseDateLte": "2011-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2010",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2010,
+                            "releaseDateGte": "2010-01-01",
+                            "releaseDateLte": "2010-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2009",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2009,
+                            "releaseDateGte": "2009-01-01",
+                            "releaseDateLte": "2009-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2008",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2008,
+                            "releaseDateGte": "2008-01-01",
+                            "releaseDateLte": "2008-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2007",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2007,
+                            "releaseDateGte": "2007-01-01",
+                            "releaseDateLte": "2007-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2006",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2006,
+                            "releaseDateGte": "2006-01-01",
+                            "releaseDateLte": "2006-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2005",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2005,
+                            "releaseDateGte": "2005-01-01",
+                            "releaseDateLte": "2005-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2004",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2004,
+                            "releaseDateGte": "2004-01-01",
+                            "releaseDateLte": "2004-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2003",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2003,
+                            "releaseDateGte": "2003-01-01",
+                            "releaseDateLte": "2003-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2002",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2002,
+                            "releaseDateGte": "2002-01-01",
+                            "releaseDateLte": "2002-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2001",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2001,
+                            "releaseDateGte": "2001-01-01",
+                            "releaseDateLte": "2001-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2000",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "year": 2000,
+                            "releaseDateGte": "2000-01-01",
+                            "releaseDateLte": "2000-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1990",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1990-01-01",
+                            "releaseDateLte": "1999-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1980",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1980-01-01",
+                            "releaseDateLte": "1989-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1970",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1970-01-01",
+                            "releaseDateLte": "1979-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1960",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1960-01-01",
+                            "releaseDateLte": "1969-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1950",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1950-01-01",
+                            "releaseDateLte": "1959-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2009",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2009-12-31",
+                            "year": 2009,
+                            "releaseDateGte": "2009-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2008",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2008-12-31",
+                            "year": 2008,
+                            "releaseDateGte": "2008-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2007",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2007-12-31",
+                            "year": 2007,
+                            "releaseDateGte": "2007-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2006",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2006-12-31",
+                            "year": 2006,
+                            "releaseDateGte": "2006-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2005",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2005-12-31",
+                            "year": 2005,
+                            "releaseDateGte": "2005-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2004",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2004-12-31",
+                            "year": 2004,
+                            "releaseDateGte": "2004-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2003",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2003-12-31",
+                            "year": 2003,
+                            "releaseDateGte": "2003-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2002",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2002-12-31",
+                            "year": 2002,
+                            "releaseDateGte": "2002-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2001",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2001-12-31",
+                            "year": 2001,
+                            "releaseDateGte": "2001-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2000",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2000-12-31",
+                            "year": 2000,
+                            "releaseDateGte": "2000-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1990",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1999-12-31",
+                            "releaseDateGte": "1990-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1980",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1989-12-31",
+                            "releaseDateGte": "1980-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1970",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1979-12-31",
+                            "releaseDateGte": "1970-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1960",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1969-12-31",
+                            "releaseDateGte": "1960-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1950",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10751",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1959-12-31",
+                            "releaseDateGte": "1950-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    }
+                ],
+                "hideTitle": true,
+                "tileShape": "LANDSCAPE",
+                "coverEmoji": "",
+                "focusGifUrl": "",
+                "heroVideoUrl": "",
+                "titleLogoUrl": "",
+                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-para-ver-em-familia.jpg?v=20260902-series-tv-genres",
                 "catalogSources": null,
                 "focusGifEnabled": false,
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
@@ -29425,1651 +30247,7 @@
                 "focusGifUrl": "",
                 "heroVideoUrl": "",
                 "titleLogoUrl": "",
-                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-fantasia.jpg?v=20260812-capas-v2",
-                "catalogSources": null,
-                "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
-            },
-            {
-                "id": "folder-categoria-ficcao-cientifica",
-                "title": "Ficção científica",
-                "sources": [
-                    {
-                        "title": "Filmes — 2027",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2027,
-                            "releaseDateGte": "2027-01-01",
-                            "releaseDateLte": "2027-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2026",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2026,
-                            "releaseDateGte": "2026-01-01",
-                            "releaseDateLte": "2026-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2025",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2025,
-                            "releaseDateGte": "2025-01-01",
-                            "releaseDateLte": "2025-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2024",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2024,
-                            "releaseDateGte": "2024-01-01",
-                            "releaseDateLte": "2024-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2023",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2023,
-                            "releaseDateGte": "2023-01-01",
-                            "releaseDateLte": "2023-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2022",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2022,
-                            "releaseDateGte": "2022-01-01",
-                            "releaseDateLte": "2022-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2021",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2021,
-                            "releaseDateGte": "2021-01-01",
-                            "releaseDateLte": "2021-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2020",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2020,
-                            "releaseDateGte": "2020-01-01",
-                            "releaseDateLte": "2020-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2019",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2019,
-                            "releaseDateGte": "2019-01-01",
-                            "releaseDateLte": "2019-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2018",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2018,
-                            "releaseDateGte": "2018-01-01",
-                            "releaseDateLte": "2018-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2017",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2017,
-                            "releaseDateGte": "2017-01-01",
-                            "releaseDateLte": "2017-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2016",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2016,
-                            "releaseDateGte": "2016-01-01",
-                            "releaseDateLte": "2016-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2015",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2015,
-                            "releaseDateGte": "2015-01-01",
-                            "releaseDateLte": "2015-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2014",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2014,
-                            "releaseDateGte": "2014-01-01",
-                            "releaseDateLte": "2014-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2013",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2013,
-                            "releaseDateGte": "2013-01-01",
-                            "releaseDateLte": "2013-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2012",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2012,
-                            "releaseDateGte": "2012-01-01",
-                            "releaseDateLte": "2012-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2011",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2011,
-                            "releaseDateGte": "2011-01-01",
-                            "releaseDateLte": "2011-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2010",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2010,
-                            "releaseDateGte": "2010-01-01",
-                            "releaseDateLte": "2010-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2009",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2009,
-                            "releaseDateGte": "2009-01-01",
-                            "releaseDateLte": "2009-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2008",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2008,
-                            "releaseDateGte": "2008-01-01",
-                            "releaseDateLte": "2008-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2007",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2007,
-                            "releaseDateGte": "2007-01-01",
-                            "releaseDateLte": "2007-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2006",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2006,
-                            "releaseDateGte": "2006-01-01",
-                            "releaseDateLte": "2006-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2005",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2005,
-                            "releaseDateGte": "2005-01-01",
-                            "releaseDateLte": "2005-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2004",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2004,
-                            "releaseDateGte": "2004-01-01",
-                            "releaseDateLte": "2004-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2003",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2003,
-                            "releaseDateGte": "2003-01-01",
-                            "releaseDateLte": "2003-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2002",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2002,
-                            "releaseDateGte": "2002-01-01",
-                            "releaseDateLte": "2002-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2001",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2001,
-                            "releaseDateGte": "2001-01-01",
-                            "releaseDateLte": "2001-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2000",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "year": 2000,
-                            "releaseDateGte": "2000-01-01",
-                            "releaseDateLte": "2000-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — Anos 1990",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "releaseDateGte": "1990-01-01",
-                            "releaseDateLte": "1999-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — Anos 1980",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "releaseDateGte": "1980-01-01",
-                            "releaseDateLte": "1989-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — Anos 1970",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "releaseDateGte": "1970-01-01",
-                            "releaseDateLte": "1979-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — Anos 1960",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "releaseDateGte": "1960-01-01",
-                            "releaseDateLte": "1969-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — Anos 1950",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "releaseDateGte": "1950-01-01",
-                            "releaseDateLte": "1959-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2009",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2009-12-31",
-                            "year": 2009,
-                            "releaseDateGte": "2009-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2008",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2008-12-31",
-                            "year": 2008,
-                            "releaseDateGte": "2008-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2007",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2007-12-31",
-                            "year": 2007,
-                            "releaseDateGte": "2007-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2006",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2006-12-31",
-                            "year": 2006,
-                            "releaseDateGte": "2006-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2005",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2005-12-31",
-                            "year": 2005,
-                            "releaseDateGte": "2005-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2004",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2004-12-31",
-                            "year": 2004,
-                            "releaseDateGte": "2004-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2003",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2003-12-31",
-                            "year": 2003,
-                            "releaseDateGte": "2003-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2002",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2002-12-31",
-                            "year": 2002,
-                            "releaseDateGte": "2002-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2001",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2001-12-31",
-                            "year": 2001,
-                            "releaseDateGte": "2001-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2000",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2000-12-31",
-                            "year": 2000,
-                            "releaseDateGte": "2000-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — Anos 1990",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "1999-12-31",
-                            "releaseDateGte": "1990-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — Anos 1980",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "1989-12-31",
-                            "releaseDateGte": "1980-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — Anos 1970",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "1979-12-31",
-                            "releaseDateGte": "1970-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — Anos 1960",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "1969-12-31",
-                            "releaseDateGte": "1960-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — Anos 1950",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "878",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "1959-12-31",
-                            "releaseDateGte": "1950-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    }
-                ],
-                "hideTitle": true,
-                "tileShape": "LANDSCAPE",
-                "coverEmoji": "",
-                "focusGifUrl": "",
-                "heroVideoUrl": "",
-                "titleLogoUrl": "",
-                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-ficcao-cientifica.jpg?v=20260812-capas-v2",
-                "catalogSources": null,
-                "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
-            },
-            {
-                "id": "folder-categoria-guerra",
-                "title": "Guerra",
-                "sources": [
-                    {
-                        "title": "Filmes — 2027",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2027,
-                            "releaseDateGte": "2027-01-01",
-                            "releaseDateLte": "2027-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2026",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2026,
-                            "releaseDateGte": "2026-01-01",
-                            "releaseDateLte": "2026-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2025",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2025,
-                            "releaseDateGte": "2025-01-01",
-                            "releaseDateLte": "2025-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2024",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2024,
-                            "releaseDateGte": "2024-01-01",
-                            "releaseDateLte": "2024-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2023",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2023,
-                            "releaseDateGte": "2023-01-01",
-                            "releaseDateLte": "2023-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2022",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2022,
-                            "releaseDateGte": "2022-01-01",
-                            "releaseDateLte": "2022-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2021",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2021,
-                            "releaseDateGte": "2021-01-01",
-                            "releaseDateLte": "2021-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2020",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2020,
-                            "releaseDateGte": "2020-01-01",
-                            "releaseDateLte": "2020-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2019",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2019,
-                            "releaseDateGte": "2019-01-01",
-                            "releaseDateLte": "2019-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2018",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2018,
-                            "releaseDateGte": "2018-01-01",
-                            "releaseDateLte": "2018-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2017",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2017,
-                            "releaseDateGte": "2017-01-01",
-                            "releaseDateLte": "2017-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2016",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2016,
-                            "releaseDateGte": "2016-01-01",
-                            "releaseDateLte": "2016-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2015",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2015,
-                            "releaseDateGte": "2015-01-01",
-                            "releaseDateLte": "2015-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2014",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2014,
-                            "releaseDateGte": "2014-01-01",
-                            "releaseDateLte": "2014-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2013",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2013,
-                            "releaseDateGte": "2013-01-01",
-                            "releaseDateLte": "2013-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2012",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2012,
-                            "releaseDateGte": "2012-01-01",
-                            "releaseDateLte": "2012-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2011",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2011,
-                            "releaseDateGte": "2011-01-01",
-                            "releaseDateLte": "2011-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2010",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2010,
-                            "releaseDateGte": "2010-01-01",
-                            "releaseDateLte": "2010-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2009",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2009,
-                            "releaseDateGte": "2009-01-01",
-                            "releaseDateLte": "2009-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2008",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2008,
-                            "releaseDateGte": "2008-01-01",
-                            "releaseDateLte": "2008-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2007",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2007,
-                            "releaseDateGte": "2007-01-01",
-                            "releaseDateLte": "2007-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2006",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2006,
-                            "releaseDateGte": "2006-01-01",
-                            "releaseDateLte": "2006-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2005",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2005,
-                            "releaseDateGte": "2005-01-01",
-                            "releaseDateLte": "2005-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2004",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2004,
-                            "releaseDateGte": "2004-01-01",
-                            "releaseDateLte": "2004-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2003",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2003,
-                            "releaseDateGte": "2003-01-01",
-                            "releaseDateLte": "2003-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2002",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2002,
-                            "releaseDateGte": "2002-01-01",
-                            "releaseDateLte": "2002-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2001",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2001,
-                            "releaseDateGte": "2001-01-01",
-                            "releaseDateLte": "2001-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2000",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "year": 2000,
-                            "releaseDateGte": "2000-01-01",
-                            "releaseDateLte": "2000-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — Anos 1990",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "releaseDateGte": "1990-01-01",
-                            "releaseDateLte": "1999-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — Anos 1980",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "releaseDateGte": "1980-01-01",
-                            "releaseDateLte": "1989-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — Anos 1970",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "releaseDateGte": "1970-01-01",
-                            "releaseDateLte": "1979-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — Anos 1960",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "releaseDateGte": "1960-01-01",
-                            "releaseDateLte": "1969-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — Anos 1950",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "releaseDateGte": "1950-01-01",
-                            "releaseDateLte": "1959-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2009",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2009-12-31",
-                            "year": 2009,
-                            "releaseDateGte": "2009-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2008",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2008-12-31",
-                            "year": 2008,
-                            "releaseDateGte": "2008-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2007",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2007-12-31",
-                            "year": 2007,
-                            "releaseDateGte": "2007-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2006",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2006-12-31",
-                            "year": 2006,
-                            "releaseDateGte": "2006-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2005",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2005-12-31",
-                            "year": 2005,
-                            "releaseDateGte": "2005-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2004",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2004-12-31",
-                            "year": 2004,
-                            "releaseDateGte": "2004-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2003",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2003-12-31",
-                            "year": 2003,
-                            "releaseDateGte": "2003-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2002",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2002-12-31",
-                            "year": 2002,
-                            "releaseDateGte": "2002-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2001",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2001-12-31",
-                            "year": 2001,
-                            "releaseDateGte": "2001-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2000",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2000-12-31",
-                            "year": 2000,
-                            "releaseDateGte": "2000-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — Anos 1990",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "1999-12-31",
-                            "releaseDateGte": "1990-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — Anos 1980",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "1989-12-31",
-                            "releaseDateGte": "1980-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — Anos 1970",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "1979-12-31",
-                            "releaseDateGte": "1970-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — Anos 1960",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "1969-12-31",
-                            "releaseDateGte": "1960-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — Anos 1950",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10752",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "1959-12-31",
-                            "releaseDateGte": "1950-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    }
-                ],
-                "hideTitle": true,
-                "tileShape": "LANDSCAPE",
-                "coverEmoji": "",
-                "focusGifUrl": "",
-                "heroVideoUrl": "",
-                "titleLogoUrl": "",
-                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-guerra.jpg?v=20260812-capas-v2",
+                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-fantasia.jpg?v=20260902-series-tv-genres",
                 "catalogSources": null,
                 "focusGifEnabled": false,
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
@@ -31891,1651 +31069,7 @@
                 "focusGifUrl": "",
                 "heroVideoUrl": "",
                 "titleLogoUrl": "",
-                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-historia.jpg?v=20260812-capas-v2",
-                "catalogSources": null,
-                "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
-            },
-            {
-                "id": "folder-categoria-misterio",
-                "title": "Mistério",
-                "sources": [
-                    {
-                        "title": "Filmes — 2027",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2027,
-                            "releaseDateGte": "2027-01-01",
-                            "releaseDateLte": "2027-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2026",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2026,
-                            "releaseDateGte": "2026-01-01",
-                            "releaseDateLte": "2026-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2025",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2025,
-                            "releaseDateGte": "2025-01-01",
-                            "releaseDateLte": "2025-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2024",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2024,
-                            "releaseDateGte": "2024-01-01",
-                            "releaseDateLte": "2024-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2023",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2023,
-                            "releaseDateGte": "2023-01-01",
-                            "releaseDateLte": "2023-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2022",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2022,
-                            "releaseDateGte": "2022-01-01",
-                            "releaseDateLte": "2022-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2021",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2021,
-                            "releaseDateGte": "2021-01-01",
-                            "releaseDateLte": "2021-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2020",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2020,
-                            "releaseDateGte": "2020-01-01",
-                            "releaseDateLte": "2020-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2019",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2019,
-                            "releaseDateGte": "2019-01-01",
-                            "releaseDateLte": "2019-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2018",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2018,
-                            "releaseDateGte": "2018-01-01",
-                            "releaseDateLte": "2018-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2017",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2017,
-                            "releaseDateGte": "2017-01-01",
-                            "releaseDateLte": "2017-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2016",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2016,
-                            "releaseDateGte": "2016-01-01",
-                            "releaseDateLte": "2016-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2015",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2015,
-                            "releaseDateGte": "2015-01-01",
-                            "releaseDateLte": "2015-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2014",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2014,
-                            "releaseDateGte": "2014-01-01",
-                            "releaseDateLte": "2014-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2013",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2013,
-                            "releaseDateGte": "2013-01-01",
-                            "releaseDateLte": "2013-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2012",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2012,
-                            "releaseDateGte": "2012-01-01",
-                            "releaseDateLte": "2012-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2011",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2011,
-                            "releaseDateGte": "2011-01-01",
-                            "releaseDateLte": "2011-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2010",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2010,
-                            "releaseDateGte": "2010-01-01",
-                            "releaseDateLte": "2010-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2009",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2009,
-                            "releaseDateGte": "2009-01-01",
-                            "releaseDateLte": "2009-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2008",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2008,
-                            "releaseDateGte": "2008-01-01",
-                            "releaseDateLte": "2008-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2007",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2007,
-                            "releaseDateGte": "2007-01-01",
-                            "releaseDateLte": "2007-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2006",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2006,
-                            "releaseDateGte": "2006-01-01",
-                            "releaseDateLte": "2006-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2005",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2005,
-                            "releaseDateGte": "2005-01-01",
-                            "releaseDateLte": "2005-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2004",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2004,
-                            "releaseDateGte": "2004-01-01",
-                            "releaseDateLte": "2004-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2003",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2003,
-                            "releaseDateGte": "2003-01-01",
-                            "releaseDateLte": "2003-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2002",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2002,
-                            "releaseDateGte": "2002-01-01",
-                            "releaseDateLte": "2002-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2001",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2001,
-                            "releaseDateGte": "2001-01-01",
-                            "releaseDateLte": "2001-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2000",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "year": 2000,
-                            "releaseDateGte": "2000-01-01",
-                            "releaseDateLte": "2000-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — Anos 1990",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "releaseDateGte": "1990-01-01",
-                            "releaseDateLte": "1999-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — Anos 1980",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "releaseDateGte": "1980-01-01",
-                            "releaseDateLte": "1989-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — Anos 1970",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "releaseDateGte": "1970-01-01",
-                            "releaseDateLte": "1979-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — Anos 1960",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "releaseDateGte": "1960-01-01",
-                            "releaseDateLte": "1969-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — Anos 1950",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "releaseDateGte": "1950-01-01",
-                            "releaseDateLte": "1959-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2009",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2009-12-31",
-                            "year": 2009,
-                            "releaseDateGte": "2009-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2008",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2008-12-31",
-                            "year": 2008,
-                            "releaseDateGte": "2008-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2007",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2007-12-31",
-                            "year": 2007,
-                            "releaseDateGte": "2007-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2006",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2006-12-31",
-                            "year": 2006,
-                            "releaseDateGte": "2006-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2005",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2005-12-31",
-                            "year": 2005,
-                            "releaseDateGte": "2005-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2004",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2004-12-31",
-                            "year": 2004,
-                            "releaseDateGte": "2004-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2003",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2003-12-31",
-                            "year": 2003,
-                            "releaseDateGte": "2003-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2002",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2002-12-31",
-                            "year": 2002,
-                            "releaseDateGte": "2002-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2001",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2001-12-31",
-                            "year": 2001,
-                            "releaseDateGte": "2001-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2000",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2000-12-31",
-                            "year": 2000,
-                            "releaseDateGte": "2000-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — Anos 1990",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "1999-12-31",
-                            "releaseDateGte": "1990-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — Anos 1980",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "1989-12-31",
-                            "releaseDateGte": "1980-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — Anos 1970",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "1979-12-31",
-                            "releaseDateGte": "1970-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — Anos 1960",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "1969-12-31",
-                            "releaseDateGte": "1960-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — Anos 1950",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "9648",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "1959-12-31",
-                            "releaseDateGte": "1950-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    }
-                ],
-                "hideTitle": true,
-                "tileShape": "LANDSCAPE",
-                "coverEmoji": "",
-                "focusGifUrl": "",
-                "heroVideoUrl": "",
-                "titleLogoUrl": "",
-                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-misterio.jpg?v=20260812-capas-v2",
-                "catalogSources": null,
-                "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
-            },
-            {
-                "id": "folder-categoria-romance",
-                "title": "Romance",
-                "sources": [
-                    {
-                        "title": "Filmes — 2027",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2027,
-                            "releaseDateGte": "2027-01-01",
-                            "releaseDateLte": "2027-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2026",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2026,
-                            "releaseDateGte": "2026-01-01",
-                            "releaseDateLte": "2026-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2025",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2025,
-                            "releaseDateGte": "2025-01-01",
-                            "releaseDateLte": "2025-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2024",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2024,
-                            "releaseDateGte": "2024-01-01",
-                            "releaseDateLte": "2024-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2023",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2023,
-                            "releaseDateGte": "2023-01-01",
-                            "releaseDateLte": "2023-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2022",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2022,
-                            "releaseDateGte": "2022-01-01",
-                            "releaseDateLte": "2022-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2021",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2021,
-                            "releaseDateGte": "2021-01-01",
-                            "releaseDateLte": "2021-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2020",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2020,
-                            "releaseDateGte": "2020-01-01",
-                            "releaseDateLte": "2020-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2019",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2019,
-                            "releaseDateGte": "2019-01-01",
-                            "releaseDateLte": "2019-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2018",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2018,
-                            "releaseDateGte": "2018-01-01",
-                            "releaseDateLte": "2018-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2017",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2017,
-                            "releaseDateGte": "2017-01-01",
-                            "releaseDateLte": "2017-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2016",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2016,
-                            "releaseDateGte": "2016-01-01",
-                            "releaseDateLte": "2016-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2015",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2015,
-                            "releaseDateGte": "2015-01-01",
-                            "releaseDateLte": "2015-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2014",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2014,
-                            "releaseDateGte": "2014-01-01",
-                            "releaseDateLte": "2014-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2013",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2013,
-                            "releaseDateGte": "2013-01-01",
-                            "releaseDateLte": "2013-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2012",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2012,
-                            "releaseDateGte": "2012-01-01",
-                            "releaseDateLte": "2012-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2011",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2011,
-                            "releaseDateGte": "2011-01-01",
-                            "releaseDateLte": "2011-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2010",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2010,
-                            "releaseDateGte": "2010-01-01",
-                            "releaseDateLte": "2010-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2009",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2009,
-                            "releaseDateGte": "2009-01-01",
-                            "releaseDateLte": "2009-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2008",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2008,
-                            "releaseDateGte": "2008-01-01",
-                            "releaseDateLte": "2008-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2007",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2007,
-                            "releaseDateGte": "2007-01-01",
-                            "releaseDateLte": "2007-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2006",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2006,
-                            "releaseDateGte": "2006-01-01",
-                            "releaseDateLte": "2006-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2005",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2005,
-                            "releaseDateGte": "2005-01-01",
-                            "releaseDateLte": "2005-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2004",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2004,
-                            "releaseDateGte": "2004-01-01",
-                            "releaseDateLte": "2004-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2003",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2003,
-                            "releaseDateGte": "2003-01-01",
-                            "releaseDateLte": "2003-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2002",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2002,
-                            "releaseDateGte": "2002-01-01",
-                            "releaseDateLte": "2002-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2001",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2001,
-                            "releaseDateGte": "2001-01-01",
-                            "releaseDateLte": "2001-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — 2000",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "year": 2000,
-                            "releaseDateGte": "2000-01-01",
-                            "releaseDateLte": "2000-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — Anos 1990",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "releaseDateGte": "1990-01-01",
-                            "releaseDateLte": "1999-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — Anos 1980",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "releaseDateGte": "1980-01-01",
-                            "releaseDateLte": "1989-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — Anos 1970",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "releaseDateGte": "1970-01-01",
-                            "releaseDateLte": "1979-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — Anos 1960",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "releaseDateGte": "1960-01-01",
-                            "releaseDateLte": "1969-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — Anos 1950",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "releaseDateGte": "1950-01-01",
-                            "releaseDateLte": "1959-12-31",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2009",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2009-12-31",
-                            "year": 2009,
-                            "releaseDateGte": "2009-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2008",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2008-12-31",
-                            "year": 2008,
-                            "releaseDateGte": "2008-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2007",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2007-12-31",
-                            "year": 2007,
-                            "releaseDateGte": "2007-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2006",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2006-12-31",
-                            "year": 2006,
-                            "releaseDateGte": "2006-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2005",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2005-12-31",
-                            "year": 2005,
-                            "releaseDateGte": "2005-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2004",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2004-12-31",
-                            "year": 2004,
-                            "releaseDateGte": "2004-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2003",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2003-12-31",
-                            "year": 2003,
-                            "releaseDateGte": "2003-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2002",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2002-12-31",
-                            "year": 2002,
-                            "releaseDateGte": "2002-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2001",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2001-12-31",
-                            "year": 2001,
-                            "releaseDateGte": "2001-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — 2000",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "2000-12-31",
-                            "year": 2000,
-                            "releaseDateGte": "2000-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — Anos 1990",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "1999-12-31",
-                            "releaseDateGte": "1990-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — Anos 1980",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "1989-12-31",
-                            "releaseDateGte": "1980-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — Anos 1970",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "1979-12-31",
-                            "releaseDateGte": "1970-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — Anos 1960",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "1969-12-31",
-                            "releaseDateGte": "1960-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    },
-                    {
-                        "title": "Filmes — antes de 2010 — Anos 1950",
-                        "sortBy": "primary_release_date.desc",
-                        "tmdbId": null,
-                        "filters": {
-                            "watchRegion": "PT",
-                            "withGenres": "10749",
-                            "voteCountGte": 20,
-                            "releaseDateLte": "1959-12-31",
-                            "releaseDateGte": "1950-01-01",
-                            "includeAdult": false
-                        },
-                        "provider": "tmdb",
-                        "mediaType": "MOVIE",
-                        "tmdbSourceType": "DISCOVER"
-                    }
-                ],
-                "hideTitle": true,
-                "tileShape": "LANDSCAPE",
-                "coverEmoji": "",
-                "focusGifUrl": "",
-                "heroVideoUrl": "",
-                "titleLogoUrl": "",
-                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-romance.jpg?v=20260812-capas-v2",
+                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-historia.jpg?v=20260902-series-tv-genres",
                 "catalogSources": null,
                 "focusGifEnabled": false,
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
@@ -34357,7 +31891,4117 @@
                 "focusGifUrl": "",
                 "heroVideoUrl": "",
                 "titleLogoUrl": "",
-                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-terror.jpg?v=20260812-capas-v2",
+                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-terror.jpg?v=20260902-series-tv-genres",
+                "catalogSources": null,
+                "focusGifEnabled": false,
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
+            },
+            {
+                "id": "folder-categoria-musica",
+                "title": "Música",
+                "sources": [
+                    {
+                        "title": "Filmes — 2027",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2027,
+                            "releaseDateGte": "2027-01-01",
+                            "releaseDateLte": "2027-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2026",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2026,
+                            "releaseDateGte": "2026-01-01",
+                            "releaseDateLte": "2026-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2025",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2025,
+                            "releaseDateGte": "2025-01-01",
+                            "releaseDateLte": "2025-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2024",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2024,
+                            "releaseDateGte": "2024-01-01",
+                            "releaseDateLte": "2024-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2023",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2023,
+                            "releaseDateGte": "2023-01-01",
+                            "releaseDateLte": "2023-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2022",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2022,
+                            "releaseDateGte": "2022-01-01",
+                            "releaseDateLte": "2022-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2021",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2021,
+                            "releaseDateGte": "2021-01-01",
+                            "releaseDateLte": "2021-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2020",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2020,
+                            "releaseDateGte": "2020-01-01",
+                            "releaseDateLte": "2020-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2019",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2019,
+                            "releaseDateGte": "2019-01-01",
+                            "releaseDateLte": "2019-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2018",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2018,
+                            "releaseDateGte": "2018-01-01",
+                            "releaseDateLte": "2018-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2017",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2017,
+                            "releaseDateGte": "2017-01-01",
+                            "releaseDateLte": "2017-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2016",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2016,
+                            "releaseDateGte": "2016-01-01",
+                            "releaseDateLte": "2016-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2015",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2015,
+                            "releaseDateGte": "2015-01-01",
+                            "releaseDateLte": "2015-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2014",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2014,
+                            "releaseDateGte": "2014-01-01",
+                            "releaseDateLte": "2014-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2013",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2013,
+                            "releaseDateGte": "2013-01-01",
+                            "releaseDateLte": "2013-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2012",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2012,
+                            "releaseDateGte": "2012-01-01",
+                            "releaseDateLte": "2012-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2011",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2011,
+                            "releaseDateGte": "2011-01-01",
+                            "releaseDateLte": "2011-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2010",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2010,
+                            "releaseDateGte": "2010-01-01",
+                            "releaseDateLte": "2010-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2009",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2009,
+                            "releaseDateGte": "2009-01-01",
+                            "releaseDateLte": "2009-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2008",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2008,
+                            "releaseDateGte": "2008-01-01",
+                            "releaseDateLte": "2008-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2007",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2007,
+                            "releaseDateGte": "2007-01-01",
+                            "releaseDateLte": "2007-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2006",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2006,
+                            "releaseDateGte": "2006-01-01",
+                            "releaseDateLte": "2006-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2005",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2005,
+                            "releaseDateGte": "2005-01-01",
+                            "releaseDateLte": "2005-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2004",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2004,
+                            "releaseDateGte": "2004-01-01",
+                            "releaseDateLte": "2004-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2003",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2003,
+                            "releaseDateGte": "2003-01-01",
+                            "releaseDateLte": "2003-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2002",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2002,
+                            "releaseDateGte": "2002-01-01",
+                            "releaseDateLte": "2002-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2001",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2001,
+                            "releaseDateGte": "2001-01-01",
+                            "releaseDateLte": "2001-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2000",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "year": 2000,
+                            "releaseDateGte": "2000-01-01",
+                            "releaseDateLte": "2000-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1990",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1990-01-01",
+                            "releaseDateLte": "1999-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1980",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1980-01-01",
+                            "releaseDateLte": "1989-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1970",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1970-01-01",
+                            "releaseDateLte": "1979-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1960",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1960-01-01",
+                            "releaseDateLte": "1969-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1950",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1950-01-01",
+                            "releaseDateLte": "1959-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2009",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2009-12-31",
+                            "year": 2009,
+                            "releaseDateGte": "2009-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2008",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2008-12-31",
+                            "year": 2008,
+                            "releaseDateGte": "2008-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2007",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2007-12-31",
+                            "year": 2007,
+                            "releaseDateGte": "2007-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2006",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2006-12-31",
+                            "year": 2006,
+                            "releaseDateGte": "2006-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2005",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2005-12-31",
+                            "year": 2005,
+                            "releaseDateGte": "2005-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2004",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2004-12-31",
+                            "year": 2004,
+                            "releaseDateGte": "2004-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2003",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2003-12-31",
+                            "year": 2003,
+                            "releaseDateGte": "2003-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2002",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2002-12-31",
+                            "year": 2002,
+                            "releaseDateGte": "2002-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2001",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2001-12-31",
+                            "year": 2001,
+                            "releaseDateGte": "2001-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2000",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2000-12-31",
+                            "year": 2000,
+                            "releaseDateGte": "2000-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1990",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1999-12-31",
+                            "releaseDateGte": "1990-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1980",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1989-12-31",
+                            "releaseDateGte": "1980-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1970",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1979-12-31",
+                            "releaseDateGte": "1970-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1960",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1969-12-31",
+                            "releaseDateGte": "1960-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1950",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10402",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1959-12-31",
+                            "releaseDateGte": "1950-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    }
+                ],
+                "hideTitle": true,
+                "tileShape": "LANDSCAPE",
+                "coverEmoji": "",
+                "focusGifUrl": "",
+                "heroVideoUrl": "",
+                "titleLogoUrl": "",
+                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260902-series-tv-genres",
+                "catalogSources": null,
+                "focusGifEnabled": false,
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
+            },
+            {
+                "id": "folder-categoria-misterio",
+                "title": "Mistério",
+                "sources": [
+                    {
+                        "title": "Filmes — 2027",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2027,
+                            "releaseDateGte": "2027-01-01",
+                            "releaseDateLte": "2027-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2026",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2026,
+                            "releaseDateGte": "2026-01-01",
+                            "releaseDateLte": "2026-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2025",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2025,
+                            "releaseDateGte": "2025-01-01",
+                            "releaseDateLte": "2025-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2024",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2024,
+                            "releaseDateGte": "2024-01-01",
+                            "releaseDateLte": "2024-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2023",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2023,
+                            "releaseDateGte": "2023-01-01",
+                            "releaseDateLte": "2023-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2022",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2022,
+                            "releaseDateGte": "2022-01-01",
+                            "releaseDateLte": "2022-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2021",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2021,
+                            "releaseDateGte": "2021-01-01",
+                            "releaseDateLte": "2021-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2020",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2020,
+                            "releaseDateGte": "2020-01-01",
+                            "releaseDateLte": "2020-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2019",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2019,
+                            "releaseDateGte": "2019-01-01",
+                            "releaseDateLte": "2019-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2018",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2018,
+                            "releaseDateGte": "2018-01-01",
+                            "releaseDateLte": "2018-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2017",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2017,
+                            "releaseDateGte": "2017-01-01",
+                            "releaseDateLte": "2017-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2016",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2016,
+                            "releaseDateGte": "2016-01-01",
+                            "releaseDateLte": "2016-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2015",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2015,
+                            "releaseDateGte": "2015-01-01",
+                            "releaseDateLte": "2015-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2014",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2014,
+                            "releaseDateGte": "2014-01-01",
+                            "releaseDateLte": "2014-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2013",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2013,
+                            "releaseDateGte": "2013-01-01",
+                            "releaseDateLte": "2013-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2012",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2012,
+                            "releaseDateGte": "2012-01-01",
+                            "releaseDateLte": "2012-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2011",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2011,
+                            "releaseDateGte": "2011-01-01",
+                            "releaseDateLte": "2011-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2010",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2010,
+                            "releaseDateGte": "2010-01-01",
+                            "releaseDateLte": "2010-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2009",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2009,
+                            "releaseDateGte": "2009-01-01",
+                            "releaseDateLte": "2009-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2008",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2008,
+                            "releaseDateGte": "2008-01-01",
+                            "releaseDateLte": "2008-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2007",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2007,
+                            "releaseDateGte": "2007-01-01",
+                            "releaseDateLte": "2007-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2006",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2006,
+                            "releaseDateGte": "2006-01-01",
+                            "releaseDateLte": "2006-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2005",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2005,
+                            "releaseDateGte": "2005-01-01",
+                            "releaseDateLte": "2005-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2004",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2004,
+                            "releaseDateGte": "2004-01-01",
+                            "releaseDateLte": "2004-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2003",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2003,
+                            "releaseDateGte": "2003-01-01",
+                            "releaseDateLte": "2003-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2002",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2002,
+                            "releaseDateGte": "2002-01-01",
+                            "releaseDateLte": "2002-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2001",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2001,
+                            "releaseDateGte": "2001-01-01",
+                            "releaseDateLte": "2001-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2000",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "year": 2000,
+                            "releaseDateGte": "2000-01-01",
+                            "releaseDateLte": "2000-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1990",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1990-01-01",
+                            "releaseDateLte": "1999-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1980",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1980-01-01",
+                            "releaseDateLte": "1989-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1970",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1970-01-01",
+                            "releaseDateLte": "1979-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1960",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1960-01-01",
+                            "releaseDateLte": "1969-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1950",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1950-01-01",
+                            "releaseDateLte": "1959-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2009",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2009-12-31",
+                            "year": 2009,
+                            "releaseDateGte": "2009-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2008",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2008-12-31",
+                            "year": 2008,
+                            "releaseDateGte": "2008-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2007",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2007-12-31",
+                            "year": 2007,
+                            "releaseDateGte": "2007-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2006",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2006-12-31",
+                            "year": 2006,
+                            "releaseDateGte": "2006-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2005",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2005-12-31",
+                            "year": 2005,
+                            "releaseDateGte": "2005-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2004",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2004-12-31",
+                            "year": 2004,
+                            "releaseDateGte": "2004-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2003",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2003-12-31",
+                            "year": 2003,
+                            "releaseDateGte": "2003-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2002",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2002-12-31",
+                            "year": 2002,
+                            "releaseDateGte": "2002-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2001",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2001-12-31",
+                            "year": 2001,
+                            "releaseDateGte": "2001-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2000",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2000-12-31",
+                            "year": 2000,
+                            "releaseDateGte": "2000-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1990",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1999-12-31",
+                            "releaseDateGte": "1990-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1980",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1989-12-31",
+                            "releaseDateGte": "1980-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1970",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1979-12-31",
+                            "releaseDateGte": "1970-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1960",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1969-12-31",
+                            "releaseDateGte": "1960-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1950",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "9648",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1959-12-31",
+                            "releaseDateGte": "1950-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    }
+                ],
+                "hideTitle": true,
+                "tileShape": "LANDSCAPE",
+                "coverEmoji": "",
+                "focusGifUrl": "",
+                "heroVideoUrl": "",
+                "titleLogoUrl": "",
+                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-misterio.jpg?v=20260902-series-tv-genres",
+                "catalogSources": null,
+                "focusGifEnabled": false,
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
+            },
+            {
+                "id": "folder-categoria-romance",
+                "title": "Romance",
+                "sources": [
+                    {
+                        "title": "Filmes — 2027",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2027,
+                            "releaseDateGte": "2027-01-01",
+                            "releaseDateLte": "2027-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2026",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2026,
+                            "releaseDateGte": "2026-01-01",
+                            "releaseDateLte": "2026-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2025",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2025,
+                            "releaseDateGte": "2025-01-01",
+                            "releaseDateLte": "2025-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2024",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2024,
+                            "releaseDateGte": "2024-01-01",
+                            "releaseDateLte": "2024-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2023",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2023,
+                            "releaseDateGte": "2023-01-01",
+                            "releaseDateLte": "2023-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2022",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2022,
+                            "releaseDateGte": "2022-01-01",
+                            "releaseDateLte": "2022-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2021",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2021,
+                            "releaseDateGte": "2021-01-01",
+                            "releaseDateLte": "2021-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2020",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2020,
+                            "releaseDateGte": "2020-01-01",
+                            "releaseDateLte": "2020-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2019",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2019,
+                            "releaseDateGte": "2019-01-01",
+                            "releaseDateLte": "2019-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2018",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2018,
+                            "releaseDateGte": "2018-01-01",
+                            "releaseDateLte": "2018-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2017",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2017,
+                            "releaseDateGte": "2017-01-01",
+                            "releaseDateLte": "2017-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2016",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2016,
+                            "releaseDateGte": "2016-01-01",
+                            "releaseDateLte": "2016-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2015",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2015,
+                            "releaseDateGte": "2015-01-01",
+                            "releaseDateLte": "2015-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2014",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2014,
+                            "releaseDateGte": "2014-01-01",
+                            "releaseDateLte": "2014-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2013",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2013,
+                            "releaseDateGte": "2013-01-01",
+                            "releaseDateLte": "2013-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2012",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2012,
+                            "releaseDateGte": "2012-01-01",
+                            "releaseDateLte": "2012-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2011",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2011,
+                            "releaseDateGte": "2011-01-01",
+                            "releaseDateLte": "2011-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2010",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2010,
+                            "releaseDateGte": "2010-01-01",
+                            "releaseDateLte": "2010-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2009",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2009,
+                            "releaseDateGte": "2009-01-01",
+                            "releaseDateLte": "2009-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2008",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2008,
+                            "releaseDateGte": "2008-01-01",
+                            "releaseDateLte": "2008-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2007",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2007,
+                            "releaseDateGte": "2007-01-01",
+                            "releaseDateLte": "2007-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2006",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2006,
+                            "releaseDateGte": "2006-01-01",
+                            "releaseDateLte": "2006-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2005",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2005,
+                            "releaseDateGte": "2005-01-01",
+                            "releaseDateLte": "2005-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2004",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2004,
+                            "releaseDateGte": "2004-01-01",
+                            "releaseDateLte": "2004-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2003",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2003,
+                            "releaseDateGte": "2003-01-01",
+                            "releaseDateLte": "2003-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2002",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2002,
+                            "releaseDateGte": "2002-01-01",
+                            "releaseDateLte": "2002-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2001",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2001,
+                            "releaseDateGte": "2001-01-01",
+                            "releaseDateLte": "2001-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2000",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "year": 2000,
+                            "releaseDateGte": "2000-01-01",
+                            "releaseDateLte": "2000-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1990",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1990-01-01",
+                            "releaseDateLte": "1999-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1980",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1980-01-01",
+                            "releaseDateLte": "1989-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1970",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1970-01-01",
+                            "releaseDateLte": "1979-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1960",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1960-01-01",
+                            "releaseDateLte": "1969-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1950",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1950-01-01",
+                            "releaseDateLte": "1959-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2009",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2009-12-31",
+                            "year": 2009,
+                            "releaseDateGte": "2009-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2008",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2008-12-31",
+                            "year": 2008,
+                            "releaseDateGte": "2008-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2007",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2007-12-31",
+                            "year": 2007,
+                            "releaseDateGte": "2007-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2006",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2006-12-31",
+                            "year": 2006,
+                            "releaseDateGte": "2006-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2005",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2005-12-31",
+                            "year": 2005,
+                            "releaseDateGte": "2005-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2004",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2004-12-31",
+                            "year": 2004,
+                            "releaseDateGte": "2004-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2003",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2003-12-31",
+                            "year": 2003,
+                            "releaseDateGte": "2003-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2002",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2002-12-31",
+                            "year": 2002,
+                            "releaseDateGte": "2002-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2001",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2001-12-31",
+                            "year": 2001,
+                            "releaseDateGte": "2001-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2000",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2000-12-31",
+                            "year": 2000,
+                            "releaseDateGte": "2000-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1990",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1999-12-31",
+                            "releaseDateGte": "1990-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1980",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1989-12-31",
+                            "releaseDateGte": "1980-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1970",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1979-12-31",
+                            "releaseDateGte": "1970-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1960",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1969-12-31",
+                            "releaseDateGte": "1960-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1950",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10749",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1959-12-31",
+                            "releaseDateGte": "1950-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    }
+                ],
+                "hideTitle": true,
+                "tileShape": "LANDSCAPE",
+                "coverEmoji": "",
+                "focusGifUrl": "",
+                "heroVideoUrl": "",
+                "titleLogoUrl": "",
+                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-romance.jpg?v=20260902-series-tv-genres",
+                "catalogSources": null,
+                "focusGifEnabled": false,
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
+            },
+            {
+                "id": "folder-categoria-ficcao-cientifica",
+                "title": "Ficção científica",
+                "sources": [
+                    {
+                        "title": "Filmes — 2027",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2027,
+                            "releaseDateGte": "2027-01-01",
+                            "releaseDateLte": "2027-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2026",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2026,
+                            "releaseDateGte": "2026-01-01",
+                            "releaseDateLte": "2026-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2025",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2025,
+                            "releaseDateGte": "2025-01-01",
+                            "releaseDateLte": "2025-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2024",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2024,
+                            "releaseDateGte": "2024-01-01",
+                            "releaseDateLte": "2024-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2023",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2023,
+                            "releaseDateGte": "2023-01-01",
+                            "releaseDateLte": "2023-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2022",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2022,
+                            "releaseDateGte": "2022-01-01",
+                            "releaseDateLte": "2022-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2021",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2021,
+                            "releaseDateGte": "2021-01-01",
+                            "releaseDateLte": "2021-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2020",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2020,
+                            "releaseDateGte": "2020-01-01",
+                            "releaseDateLte": "2020-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2019",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2019,
+                            "releaseDateGte": "2019-01-01",
+                            "releaseDateLte": "2019-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2018",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2018,
+                            "releaseDateGte": "2018-01-01",
+                            "releaseDateLte": "2018-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2017",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2017,
+                            "releaseDateGte": "2017-01-01",
+                            "releaseDateLte": "2017-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2016",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2016,
+                            "releaseDateGte": "2016-01-01",
+                            "releaseDateLte": "2016-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2015",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2015,
+                            "releaseDateGte": "2015-01-01",
+                            "releaseDateLte": "2015-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2014",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2014,
+                            "releaseDateGte": "2014-01-01",
+                            "releaseDateLte": "2014-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2013",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2013,
+                            "releaseDateGte": "2013-01-01",
+                            "releaseDateLte": "2013-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2012",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2012,
+                            "releaseDateGte": "2012-01-01",
+                            "releaseDateLte": "2012-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2011",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2011,
+                            "releaseDateGte": "2011-01-01",
+                            "releaseDateLte": "2011-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2010",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2010,
+                            "releaseDateGte": "2010-01-01",
+                            "releaseDateLte": "2010-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2009",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2009,
+                            "releaseDateGte": "2009-01-01",
+                            "releaseDateLte": "2009-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2008",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2008,
+                            "releaseDateGte": "2008-01-01",
+                            "releaseDateLte": "2008-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2007",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2007,
+                            "releaseDateGte": "2007-01-01",
+                            "releaseDateLte": "2007-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2006",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2006,
+                            "releaseDateGte": "2006-01-01",
+                            "releaseDateLte": "2006-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2005",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2005,
+                            "releaseDateGte": "2005-01-01",
+                            "releaseDateLte": "2005-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2004",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2004,
+                            "releaseDateGte": "2004-01-01",
+                            "releaseDateLte": "2004-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2003",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2003,
+                            "releaseDateGte": "2003-01-01",
+                            "releaseDateLte": "2003-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2002",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2002,
+                            "releaseDateGte": "2002-01-01",
+                            "releaseDateLte": "2002-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2001",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2001,
+                            "releaseDateGte": "2001-01-01",
+                            "releaseDateLte": "2001-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2000",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "year": 2000,
+                            "releaseDateGte": "2000-01-01",
+                            "releaseDateLte": "2000-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1990",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1990-01-01",
+                            "releaseDateLte": "1999-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1980",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1980-01-01",
+                            "releaseDateLte": "1989-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1970",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1970-01-01",
+                            "releaseDateLte": "1979-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1960",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1960-01-01",
+                            "releaseDateLte": "1969-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1950",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1950-01-01",
+                            "releaseDateLte": "1959-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2009",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2009-12-31",
+                            "year": 2009,
+                            "releaseDateGte": "2009-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2008",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2008-12-31",
+                            "year": 2008,
+                            "releaseDateGte": "2008-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2007",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2007-12-31",
+                            "year": 2007,
+                            "releaseDateGte": "2007-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2006",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2006-12-31",
+                            "year": 2006,
+                            "releaseDateGte": "2006-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2005",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2005-12-31",
+                            "year": 2005,
+                            "releaseDateGte": "2005-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2004",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2004-12-31",
+                            "year": 2004,
+                            "releaseDateGte": "2004-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2003",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2003-12-31",
+                            "year": 2003,
+                            "releaseDateGte": "2003-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2002",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2002-12-31",
+                            "year": 2002,
+                            "releaseDateGte": "2002-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2001",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2001-12-31",
+                            "year": 2001,
+                            "releaseDateGte": "2001-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2000",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2000-12-31",
+                            "year": 2000,
+                            "releaseDateGte": "2000-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1990",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1999-12-31",
+                            "releaseDateGte": "1990-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1980",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1989-12-31",
+                            "releaseDateGte": "1980-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1970",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1979-12-31",
+                            "releaseDateGte": "1970-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1960",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1969-12-31",
+                            "releaseDateGte": "1960-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1950",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "878",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1959-12-31",
+                            "releaseDateGte": "1950-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    }
+                ],
+                "hideTitle": true,
+                "tileShape": "LANDSCAPE",
+                "coverEmoji": "",
+                "focusGifUrl": "",
+                "heroVideoUrl": "",
+                "titleLogoUrl": "",
+                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-ficcao-cientifica.jpg?v=20260902-series-tv-genres",
+                "catalogSources": null,
+                "focusGifEnabled": false,
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
+            },
+            {
+                "id": "folder-categoria-filme-televisivo",
+                "title": "Filme televisivo",
+                "sources": [
+                    {
+                        "title": "Filmes — 2027",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2027,
+                            "releaseDateGte": "2027-01-01",
+                            "releaseDateLte": "2027-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2026",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2026,
+                            "releaseDateGte": "2026-01-01",
+                            "releaseDateLte": "2026-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2025",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2025,
+                            "releaseDateGte": "2025-01-01",
+                            "releaseDateLte": "2025-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2024",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2024,
+                            "releaseDateGte": "2024-01-01",
+                            "releaseDateLte": "2024-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2023",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2023,
+                            "releaseDateGte": "2023-01-01",
+                            "releaseDateLte": "2023-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2022",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2022,
+                            "releaseDateGte": "2022-01-01",
+                            "releaseDateLte": "2022-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2021",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2021,
+                            "releaseDateGte": "2021-01-01",
+                            "releaseDateLte": "2021-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2020",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2020,
+                            "releaseDateGte": "2020-01-01",
+                            "releaseDateLte": "2020-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2019",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2019,
+                            "releaseDateGte": "2019-01-01",
+                            "releaseDateLte": "2019-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2018",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2018,
+                            "releaseDateGte": "2018-01-01",
+                            "releaseDateLte": "2018-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2017",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2017,
+                            "releaseDateGte": "2017-01-01",
+                            "releaseDateLte": "2017-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2016",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2016,
+                            "releaseDateGte": "2016-01-01",
+                            "releaseDateLte": "2016-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2015",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2015,
+                            "releaseDateGte": "2015-01-01",
+                            "releaseDateLte": "2015-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2014",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2014,
+                            "releaseDateGte": "2014-01-01",
+                            "releaseDateLte": "2014-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2013",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2013,
+                            "releaseDateGte": "2013-01-01",
+                            "releaseDateLte": "2013-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2012",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2012,
+                            "releaseDateGte": "2012-01-01",
+                            "releaseDateLte": "2012-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2011",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2011,
+                            "releaseDateGte": "2011-01-01",
+                            "releaseDateLte": "2011-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2010",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2010,
+                            "releaseDateGte": "2010-01-01",
+                            "releaseDateLte": "2010-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2009",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2009,
+                            "releaseDateGte": "2009-01-01",
+                            "releaseDateLte": "2009-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2008",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2008,
+                            "releaseDateGte": "2008-01-01",
+                            "releaseDateLte": "2008-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2007",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2007,
+                            "releaseDateGte": "2007-01-01",
+                            "releaseDateLte": "2007-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2006",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2006,
+                            "releaseDateGte": "2006-01-01",
+                            "releaseDateLte": "2006-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2005",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2005,
+                            "releaseDateGte": "2005-01-01",
+                            "releaseDateLte": "2005-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2004",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2004,
+                            "releaseDateGte": "2004-01-01",
+                            "releaseDateLte": "2004-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2003",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2003,
+                            "releaseDateGte": "2003-01-01",
+                            "releaseDateLte": "2003-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2002",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2002,
+                            "releaseDateGte": "2002-01-01",
+                            "releaseDateLte": "2002-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2001",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2001,
+                            "releaseDateGte": "2001-01-01",
+                            "releaseDateLte": "2001-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2000",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "year": 2000,
+                            "releaseDateGte": "2000-01-01",
+                            "releaseDateLte": "2000-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1990",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1990-01-01",
+                            "releaseDateLte": "1999-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1980",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1980-01-01",
+                            "releaseDateLte": "1989-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1970",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1970-01-01",
+                            "releaseDateLte": "1979-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1960",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1960-01-01",
+                            "releaseDateLte": "1969-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1950",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1950-01-01",
+                            "releaseDateLte": "1959-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2009",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2009-12-31",
+                            "year": 2009,
+                            "releaseDateGte": "2009-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2008",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2008-12-31",
+                            "year": 2008,
+                            "releaseDateGte": "2008-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2007",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2007-12-31",
+                            "year": 2007,
+                            "releaseDateGte": "2007-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2006",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2006-12-31",
+                            "year": 2006,
+                            "releaseDateGte": "2006-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2005",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2005-12-31",
+                            "year": 2005,
+                            "releaseDateGte": "2005-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2004",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2004-12-31",
+                            "year": 2004,
+                            "releaseDateGte": "2004-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2003",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2003-12-31",
+                            "year": 2003,
+                            "releaseDateGte": "2003-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2002",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2002-12-31",
+                            "year": 2002,
+                            "releaseDateGte": "2002-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2001",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2001-12-31",
+                            "year": 2001,
+                            "releaseDateGte": "2001-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2000",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2000-12-31",
+                            "year": 2000,
+                            "releaseDateGte": "2000-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1990",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1999-12-31",
+                            "releaseDateGte": "1990-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1980",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1989-12-31",
+                            "releaseDateGte": "1980-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1970",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1979-12-31",
+                            "releaseDateGte": "1970-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1960",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1969-12-31",
+                            "releaseDateGte": "1960-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1950",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10770",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1959-12-31",
+                            "releaseDateGte": "1950-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    }
+                ],
+                "hideTitle": true,
+                "tileShape": "LANDSCAPE",
+                "coverEmoji": "",
+                "focusGifUrl": "",
+                "heroVideoUrl": "",
+                "titleLogoUrl": "",
+                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260902-series-tv-genres",
                 "catalogSources": null,
                 "focusGifEnabled": false,
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
@@ -35179,7 +36823,1651 @@
                 "focusGifUrl": "",
                 "heroVideoUrl": "",
                 "titleLogoUrl": "",
-                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-thriller.jpg?v=20260812-capas-v2",
+                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-thriller.jpg?v=20260902-series-tv-genres",
+                "catalogSources": null,
+                "focusGifEnabled": false,
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
+            },
+            {
+                "id": "folder-categoria-guerra",
+                "title": "Guerra",
+                "sources": [
+                    {
+                        "title": "Filmes — 2027",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2027,
+                            "releaseDateGte": "2027-01-01",
+                            "releaseDateLte": "2027-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2026",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2026,
+                            "releaseDateGte": "2026-01-01",
+                            "releaseDateLte": "2026-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2025",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2025,
+                            "releaseDateGte": "2025-01-01",
+                            "releaseDateLte": "2025-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2024",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2024,
+                            "releaseDateGte": "2024-01-01",
+                            "releaseDateLte": "2024-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2023",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2023,
+                            "releaseDateGte": "2023-01-01",
+                            "releaseDateLte": "2023-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2022",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2022,
+                            "releaseDateGte": "2022-01-01",
+                            "releaseDateLte": "2022-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2021",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2021,
+                            "releaseDateGte": "2021-01-01",
+                            "releaseDateLte": "2021-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2020",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2020,
+                            "releaseDateGte": "2020-01-01",
+                            "releaseDateLte": "2020-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2019",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2019,
+                            "releaseDateGte": "2019-01-01",
+                            "releaseDateLte": "2019-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2018",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2018,
+                            "releaseDateGte": "2018-01-01",
+                            "releaseDateLte": "2018-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2017",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2017,
+                            "releaseDateGte": "2017-01-01",
+                            "releaseDateLte": "2017-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2016",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2016,
+                            "releaseDateGte": "2016-01-01",
+                            "releaseDateLte": "2016-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2015",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2015,
+                            "releaseDateGte": "2015-01-01",
+                            "releaseDateLte": "2015-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2014",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2014,
+                            "releaseDateGte": "2014-01-01",
+                            "releaseDateLte": "2014-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2013",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2013,
+                            "releaseDateGte": "2013-01-01",
+                            "releaseDateLte": "2013-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2012",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2012,
+                            "releaseDateGte": "2012-01-01",
+                            "releaseDateLte": "2012-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2011",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2011,
+                            "releaseDateGte": "2011-01-01",
+                            "releaseDateLte": "2011-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2010",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2010,
+                            "releaseDateGte": "2010-01-01",
+                            "releaseDateLte": "2010-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2009",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2009,
+                            "releaseDateGte": "2009-01-01",
+                            "releaseDateLte": "2009-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2008",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2008,
+                            "releaseDateGte": "2008-01-01",
+                            "releaseDateLte": "2008-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2007",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2007,
+                            "releaseDateGte": "2007-01-01",
+                            "releaseDateLte": "2007-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2006",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2006,
+                            "releaseDateGte": "2006-01-01",
+                            "releaseDateLte": "2006-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2005",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2005,
+                            "releaseDateGte": "2005-01-01",
+                            "releaseDateLte": "2005-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2004",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2004,
+                            "releaseDateGte": "2004-01-01",
+                            "releaseDateLte": "2004-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2003",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2003,
+                            "releaseDateGte": "2003-01-01",
+                            "releaseDateLte": "2003-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2002",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2002,
+                            "releaseDateGte": "2002-01-01",
+                            "releaseDateLte": "2002-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2001",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2001,
+                            "releaseDateGte": "2001-01-01",
+                            "releaseDateLte": "2001-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2000",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "year": 2000,
+                            "releaseDateGte": "2000-01-01",
+                            "releaseDateLte": "2000-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1990",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1990-01-01",
+                            "releaseDateLte": "1999-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1980",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1980-01-01",
+                            "releaseDateLte": "1989-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1970",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1970-01-01",
+                            "releaseDateLte": "1979-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1960",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1960-01-01",
+                            "releaseDateLte": "1969-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1950",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1950-01-01",
+                            "releaseDateLte": "1959-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2009",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2009-12-31",
+                            "year": 2009,
+                            "releaseDateGte": "2009-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2008",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2008-12-31",
+                            "year": 2008,
+                            "releaseDateGte": "2008-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2007",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2007-12-31",
+                            "year": 2007,
+                            "releaseDateGte": "2007-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2006",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2006-12-31",
+                            "year": 2006,
+                            "releaseDateGte": "2006-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2005",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2005-12-31",
+                            "year": 2005,
+                            "releaseDateGte": "2005-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2004",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2004-12-31",
+                            "year": 2004,
+                            "releaseDateGte": "2004-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2003",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2003-12-31",
+                            "year": 2003,
+                            "releaseDateGte": "2003-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2002",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2002-12-31",
+                            "year": 2002,
+                            "releaseDateGte": "2002-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2001",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2001-12-31",
+                            "year": 2001,
+                            "releaseDateGte": "2001-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2000",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2000-12-31",
+                            "year": 2000,
+                            "releaseDateGte": "2000-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1990",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1999-12-31",
+                            "releaseDateGte": "1990-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1980",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1989-12-31",
+                            "releaseDateGte": "1980-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1970",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1979-12-31",
+                            "releaseDateGte": "1970-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1960",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1969-12-31",
+                            "releaseDateGte": "1960-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1950",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10752",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1959-12-31",
+                            "releaseDateGte": "1950-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    }
+                ],
+                "hideTitle": true,
+                "tileShape": "LANDSCAPE",
+                "coverEmoji": "",
+                "focusGifUrl": "",
+                "heroVideoUrl": "",
+                "titleLogoUrl": "",
+                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-guerra.jpg?v=20260902-series-tv-genres",
+                "catalogSources": null,
+                "focusGifEnabled": false,
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
+            },
+            {
+                "id": "folder-categoria-western",
+                "title": "Western",
+                "sources": [
+                    {
+                        "title": "Filmes — 2027",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2027,
+                            "releaseDateGte": "2027-01-01",
+                            "releaseDateLte": "2027-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2026",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2026,
+                            "releaseDateGte": "2026-01-01",
+                            "releaseDateLte": "2026-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2025",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2025,
+                            "releaseDateGte": "2025-01-01",
+                            "releaseDateLte": "2025-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2024",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2024,
+                            "releaseDateGte": "2024-01-01",
+                            "releaseDateLte": "2024-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2023",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2023,
+                            "releaseDateGte": "2023-01-01",
+                            "releaseDateLte": "2023-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2022",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2022,
+                            "releaseDateGte": "2022-01-01",
+                            "releaseDateLte": "2022-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2021",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2021,
+                            "releaseDateGte": "2021-01-01",
+                            "releaseDateLte": "2021-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2020",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2020,
+                            "releaseDateGte": "2020-01-01",
+                            "releaseDateLte": "2020-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2019",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2019,
+                            "releaseDateGte": "2019-01-01",
+                            "releaseDateLte": "2019-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2018",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2018,
+                            "releaseDateGte": "2018-01-01",
+                            "releaseDateLte": "2018-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2017",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2017,
+                            "releaseDateGte": "2017-01-01",
+                            "releaseDateLte": "2017-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2016",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2016,
+                            "releaseDateGte": "2016-01-01",
+                            "releaseDateLte": "2016-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2015",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2015,
+                            "releaseDateGte": "2015-01-01",
+                            "releaseDateLte": "2015-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2014",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2014,
+                            "releaseDateGte": "2014-01-01",
+                            "releaseDateLte": "2014-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2013",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2013,
+                            "releaseDateGte": "2013-01-01",
+                            "releaseDateLte": "2013-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2012",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2012,
+                            "releaseDateGte": "2012-01-01",
+                            "releaseDateLte": "2012-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2011",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2011,
+                            "releaseDateGte": "2011-01-01",
+                            "releaseDateLte": "2011-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2010",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2010,
+                            "releaseDateGte": "2010-01-01",
+                            "releaseDateLte": "2010-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2009",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2009,
+                            "releaseDateGte": "2009-01-01",
+                            "releaseDateLte": "2009-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2008",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2008,
+                            "releaseDateGte": "2008-01-01",
+                            "releaseDateLte": "2008-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2007",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2007,
+                            "releaseDateGte": "2007-01-01",
+                            "releaseDateLte": "2007-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2006",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2006,
+                            "releaseDateGte": "2006-01-01",
+                            "releaseDateLte": "2006-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2005",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2005,
+                            "releaseDateGte": "2005-01-01",
+                            "releaseDateLte": "2005-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2004",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2004,
+                            "releaseDateGte": "2004-01-01",
+                            "releaseDateLte": "2004-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2003",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2003,
+                            "releaseDateGte": "2003-01-01",
+                            "releaseDateLte": "2003-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2002",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2002,
+                            "releaseDateGte": "2002-01-01",
+                            "releaseDateLte": "2002-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2001",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2001,
+                            "releaseDateGte": "2001-01-01",
+                            "releaseDateLte": "2001-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — 2000",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "year": 2000,
+                            "releaseDateGte": "2000-01-01",
+                            "releaseDateLte": "2000-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1990",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1990-01-01",
+                            "releaseDateLte": "1999-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1980",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1980-01-01",
+                            "releaseDateLte": "1989-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1970",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1970-01-01",
+                            "releaseDateLte": "1979-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1960",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1960-01-01",
+                            "releaseDateLte": "1969-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — Anos 1950",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1950-01-01",
+                            "releaseDateLte": "1959-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2009",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2009-12-31",
+                            "year": 2009,
+                            "releaseDateGte": "2009-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2008",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2008-12-31",
+                            "year": 2008,
+                            "releaseDateGte": "2008-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2007",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2007-12-31",
+                            "year": 2007,
+                            "releaseDateGte": "2007-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2006",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2006-12-31",
+                            "year": 2006,
+                            "releaseDateGte": "2006-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2005",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2005-12-31",
+                            "year": 2005,
+                            "releaseDateGte": "2005-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2004",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2004-12-31",
+                            "year": 2004,
+                            "releaseDateGte": "2004-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2003",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2003-12-31",
+                            "year": 2003,
+                            "releaseDateGte": "2003-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2002",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2002-12-31",
+                            "year": 2002,
+                            "releaseDateGte": "2002-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2001",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2001-12-31",
+                            "year": 2001,
+                            "releaseDateGte": "2001-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — 2000",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2000-12-31",
+                            "year": 2000,
+                            "releaseDateGte": "2000-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1990",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1999-12-31",
+                            "releaseDateGte": "1990-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1980",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1989-12-31",
+                            "releaseDateGte": "1980-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1970",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1979-12-31",
+                            "releaseDateGte": "1970-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1960",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1969-12-31",
+                            "releaseDateGte": "1960-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Filmes — antes de 2010 — Anos 1950",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "37",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1959-12-31",
+                            "releaseDateGte": "1950-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "MOVIE",
+                        "tmdbSourceType": "DISCOVER"
+                    }
+                ],
+                "hideTitle": true,
+                "tileShape": "LANDSCAPE",
+                "coverEmoji": "",
+                "focusGifUrl": "",
+                "heroVideoUrl": "",
+                "titleLogoUrl": "",
+                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260902-series-tv-genres",
                 "catalogSources": null,
                 "focusGifEnabled": false,
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
@@ -35193,7 +38481,7 @@
         "title": "Explorar Séries por categoria",
         "folders": [
             {
-                "id": "folder-series-categoria-1",
+                "id": "folder-series-categoria-acao-e-aventura",
                 "title": "Ação e aventura",
                 "sources": [
                     {
@@ -36015,7 +39303,7 @@
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
             },
             {
-                "id": "folder-series-categoria-2",
+                "id": "folder-series-categoria-animacao",
                 "title": "Animação",
                 "sources": [
                     {
@@ -36837,7 +40125,7 @@
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
             },
             {
-                "id": "folder-series-categoria-3",
+                "id": "folder-series-categoria-comedia",
                 "title": "Comédia",
                 "sources": [
                     {
@@ -37659,7 +40947,7 @@
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
             },
             {
-                "id": "folder-series-categoria-4",
+                "id": "folder-series-categoria-crime",
                 "title": "Crime",
                 "sources": [
                     {
@@ -38481,7 +41769,7 @@
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
             },
             {
-                "id": "folder-series-categoria-5",
+                "id": "folder-series-categoria-documentario",
                 "title": "Documentário",
                 "sources": [
                     {
@@ -39303,7 +42591,7 @@
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
             },
             {
-                "id": "folder-series-categoria-6",
+                "id": "folder-series-categoria-drama",
                 "title": "Drama",
                 "sources": [
                     {
@@ -40125,7 +43413,7 @@
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
             },
             {
-                "id": "folder-series-categoria-7",
+                "id": "folder-series-categoria-familia",
                 "title": "Família",
                 "sources": [
                     {
@@ -40947,7 +44235,7 @@
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
             },
             {
-                "id": "folder-series-categoria-8",
+                "id": "folder-series-categoria-infantil",
                 "title": "Infantil",
                 "sources": [
                     {
@@ -41769,7 +45057,7 @@
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
             },
             {
-                "id": "folder-series-categoria-9",
+                "id": "folder-series-categoria-misterio",
                 "title": "Mistério",
                 "sources": [
                     {
@@ -42591,7 +45879,7 @@
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
             },
             {
-                "id": "folder-series-categoria-10",
+                "id": "folder-series-categoria-reality",
                 "title": "Reality",
                 "sources": [
                     {
@@ -43413,7 +46701,7 @@
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
             },
             {
-                "id": "folder-series-categoria-11",
+                "id": "folder-series-categoria-ficcao-cientifica-e-fantasia",
                 "title": "Ficção científica e fantasia",
                 "sources": [
                     {
@@ -44235,7 +47523,7 @@
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
             },
             {
-                "id": "folder-series-categoria-12",
+                "id": "folder-series-categoria-telenovela",
                 "title": "Telenovela",
                 "sources": [
                     {
@@ -45057,7 +48345,7 @@
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
             },
             {
-                "id": "folder-series-categoria-13",
+                "id": "folder-series-categoria-talk-show",
                 "title": "Talk show",
                 "sources": [
                     {
@@ -45879,7 +49167,7 @@
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
             },
             {
-                "id": "folder-series-categoria-14",
+                "id": "folder-series-categoria-guerra-e-politica",
                 "title": "Guerra e política",
                 "sources": [
                     {
@@ -46701,7 +49989,7 @@
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
             },
             {
-                "id": "folder-series-categoria-15",
+                "id": "folder-series-categoria-western",
                 "title": "Western",
                 "sources": [
                     {
@@ -47518,6 +50806,828 @@
                 "heroVideoUrl": "",
                 "titleLogoUrl": "",
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/categoria-aventura.jpg?v=20260902-series-tv-genres",
+                "catalogSources": null,
+                "focusGifEnabled": false,
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
+            },
+            {
+                "id": "folder-series-categoria-noticias",
+                "title": "Notícias",
+                "sources": [
+                    {
+                        "title": "Séries — 2027",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2027,
+                            "releaseDateGte": "2027-01-01",
+                            "releaseDateLte": "2027-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2026",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2026,
+                            "releaseDateGte": "2026-01-01",
+                            "releaseDateLte": "2026-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2025",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2025,
+                            "releaseDateGte": "2025-01-01",
+                            "releaseDateLte": "2025-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2024",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2024,
+                            "releaseDateGte": "2024-01-01",
+                            "releaseDateLte": "2024-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2023",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2023,
+                            "releaseDateGte": "2023-01-01",
+                            "releaseDateLte": "2023-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2022",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2022,
+                            "releaseDateGte": "2022-01-01",
+                            "releaseDateLte": "2022-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2021",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2021,
+                            "releaseDateGte": "2021-01-01",
+                            "releaseDateLte": "2021-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2020",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2020,
+                            "releaseDateGte": "2020-01-01",
+                            "releaseDateLte": "2020-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2019",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2019,
+                            "releaseDateGte": "2019-01-01",
+                            "releaseDateLte": "2019-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2018",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2018,
+                            "releaseDateGte": "2018-01-01",
+                            "releaseDateLte": "2018-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2017",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2017,
+                            "releaseDateGte": "2017-01-01",
+                            "releaseDateLte": "2017-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2016",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2016,
+                            "releaseDateGte": "2016-01-01",
+                            "releaseDateLte": "2016-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2015",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2015,
+                            "releaseDateGte": "2015-01-01",
+                            "releaseDateLte": "2015-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2014",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2014,
+                            "releaseDateGte": "2014-01-01",
+                            "releaseDateLte": "2014-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2013",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2013,
+                            "releaseDateGte": "2013-01-01",
+                            "releaseDateLte": "2013-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2012",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2012,
+                            "releaseDateGte": "2012-01-01",
+                            "releaseDateLte": "2012-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2011",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2011,
+                            "releaseDateGte": "2011-01-01",
+                            "releaseDateLte": "2011-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2010",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2010,
+                            "releaseDateGte": "2010-01-01",
+                            "releaseDateLte": "2010-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2009",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2009,
+                            "releaseDateGte": "2009-01-01",
+                            "releaseDateLte": "2009-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2008",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2008,
+                            "releaseDateGte": "2008-01-01",
+                            "releaseDateLte": "2008-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2007",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2007,
+                            "releaseDateGte": "2007-01-01",
+                            "releaseDateLte": "2007-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2006",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2006,
+                            "releaseDateGte": "2006-01-01",
+                            "releaseDateLte": "2006-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2005",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2005,
+                            "releaseDateGte": "2005-01-01",
+                            "releaseDateLte": "2005-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2004",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2004,
+                            "releaseDateGte": "2004-01-01",
+                            "releaseDateLte": "2004-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2003",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2003,
+                            "releaseDateGte": "2003-01-01",
+                            "releaseDateLte": "2003-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2002",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2002,
+                            "releaseDateGte": "2002-01-01",
+                            "releaseDateLte": "2002-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2001",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2001,
+                            "releaseDateGte": "2001-01-01",
+                            "releaseDateLte": "2001-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — 2000",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "year": 2000,
+                            "releaseDateGte": "2000-01-01",
+                            "releaseDateLte": "2000-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — Anos 1990",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1990-01-01",
+                            "releaseDateLte": "1999-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — Anos 1980",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1980-01-01",
+                            "releaseDateLte": "1989-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — Anos 1970",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1970-01-01",
+                            "releaseDateLte": "1979-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — Anos 1960",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1960-01-01",
+                            "releaseDateLte": "1969-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — Anos 1950",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "releaseDateGte": "1950-01-01",
+                            "releaseDateLte": "1959-12-31",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — antes de 2010 — 2009",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2009-12-31",
+                            "year": 2009,
+                            "releaseDateGte": "2009-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — antes de 2010 — 2008",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2008-12-31",
+                            "year": 2008,
+                            "releaseDateGte": "2008-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — antes de 2010 — 2007",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2007-12-31",
+                            "year": 2007,
+                            "releaseDateGte": "2007-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — antes de 2010 — 2006",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2006-12-31",
+                            "year": 2006,
+                            "releaseDateGte": "2006-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — antes de 2010 — 2005",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2005-12-31",
+                            "year": 2005,
+                            "releaseDateGte": "2005-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — antes de 2010 — 2004",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2004-12-31",
+                            "year": 2004,
+                            "releaseDateGte": "2004-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — antes de 2010 — 2003",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2003-12-31",
+                            "year": 2003,
+                            "releaseDateGte": "2003-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — antes de 2010 — 2002",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2002-12-31",
+                            "year": 2002,
+                            "releaseDateGte": "2002-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — antes de 2010 — 2001",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2001-12-31",
+                            "year": 2001,
+                            "releaseDateGte": "2001-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — antes de 2010 — 2000",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "2000-12-31",
+                            "year": 2000,
+                            "releaseDateGte": "2000-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — antes de 2010 — Anos 1990",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1999-12-31",
+                            "releaseDateGte": "1990-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — antes de 2010 — Anos 1980",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1989-12-31",
+                            "releaseDateGte": "1980-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — antes de 2010 — Anos 1970",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1979-12-31",
+                            "releaseDateGte": "1970-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — antes de 2010 — Anos 1960",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1969-12-31",
+                            "releaseDateGte": "1960-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    },
+                    {
+                        "title": "Séries — antes de 2010 — Anos 1950",
+                        "sortBy": "primary_release_date.desc",
+                        "tmdbId": null,
+                        "filters": {
+                            "watchRegion": "PT",
+                            "withGenres": "10763",
+                            "voteCountGte": 20,
+                            "releaseDateLte": "1959-12-31",
+                            "releaseDateGte": "1950-01-01",
+                            "includeAdult": false
+                        },
+                        "provider": "tmdb",
+                        "mediaType": "TV",
+                        "tmdbSourceType": "DISCOVER"
+                    }
+                ],
+                "hideTitle": true,
+                "tileShape": "LANDSCAPE",
+                "coverEmoji": "",
+                "focusGifUrl": "",
+                "heroVideoUrl": "",
+                "titleLogoUrl": "",
+                "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260902-series-tv-genres",
                 "catalogSources": null,
                 "focusGifEnabled": false,
                 "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg"
