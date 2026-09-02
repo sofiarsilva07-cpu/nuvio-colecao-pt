@@ -7,7 +7,7 @@ Pacote declarativo de colecções para o Nuvio. O catálogo usa fontes TMDB Disc
 - 9 colecções, 168 pastas e 4 568 fontes sem duplicados exactos;
 - 42 serviços e redes na colecção `Explorar por streaming`;
 - filtros de filmes e séries por serviço, categoria, ano, década, país e prémio;
-- secções separadas `Explorar Filmes por categoria` e `Explorar Séries por categoria`, com 15 géneros cada;
+- secções separadas `Explorar Filmes por categoria` e `Explorar Séries por categoria`; a secção de séries usa os 15 géneros oficiais de TV do TMDB;
 - fontes com `includeAdult: false` no catálogo geral para excluir conteúdos adultos;
 - cartões e fundos em JPG, para melhor compatibilidade com televisores.
 
