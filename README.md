@@ -10,6 +10,7 @@ Pacote declarativo de colecções para o Nuvio. O catálogo usa fontes TMDB Disc
 - secções separadas `Explorar Filmes por categoria` e `Explorar Séries por categoria`; usam 19 categorias de filmes e as 16 categorias oficiais de séries, mais `Fantasia`, por ordem alfabética;
 - nas séries, `Fantasia` e `Ficção científica e fantasia` usam o género TV combinado do TMDB (`10765`), porque o TMDB não disponibiliza IDs separados para estes dois géneros;
 - fontes com `includeAdult: false` no catálogo geral para excluir conteúdos adultos;
+- categorias sem corte mínimo de votos, para que o Nuvio possa continuar a carregar resultados do TMDB;
 - cartões e fundos em JPG, para melhor compatibilidade com televisores.
 
 As colecções usam `TABBED_GRID`. O Nuvio apresenta as fontes como abas ou num selector, dependendo da versão instalada.

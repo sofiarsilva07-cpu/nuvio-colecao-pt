@@ -22865,7 +22865,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -22882,7 +22881,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -22899,7 +22897,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -22916,7 +22913,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -22933,7 +22929,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -22950,7 +22945,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -22967,7 +22961,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -22984,7 +22977,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -23001,7 +22993,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -23018,7 +23009,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -23035,7 +23025,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -23052,7 +23041,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -23069,7 +23057,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -23086,7 +23073,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -23103,7 +23089,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -23120,7 +23105,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -23137,7 +23121,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -23154,7 +23137,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -23171,7 +23153,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -23188,7 +23169,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -23205,7 +23185,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -23222,7 +23201,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -23239,7 +23217,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -23256,7 +23233,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -23273,7 +23249,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -23290,7 +23265,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -23307,7 +23281,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -23324,7 +23297,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -23341,7 +23313,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -23357,7 +23328,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -23373,7 +23343,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -23389,7 +23358,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -23405,7 +23373,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -23421,7 +23388,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -23438,7 +23404,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -23455,7 +23420,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -23472,7 +23436,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -23489,7 +23452,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -23506,7 +23468,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -23523,7 +23484,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -23540,7 +23500,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -23557,7 +23516,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -23574,7 +23532,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -23591,7 +23548,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -23607,7 +23563,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -23623,7 +23578,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -23639,7 +23593,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -23655,7 +23608,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "28",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -23687,7 +23639,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -23704,7 +23655,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -23721,7 +23671,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -23738,7 +23687,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -23755,7 +23703,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -23772,7 +23719,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -23789,7 +23735,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -23806,7 +23751,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -23823,7 +23767,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -23840,7 +23783,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -23857,7 +23799,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -23874,7 +23815,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -23891,7 +23831,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -23908,7 +23847,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -23925,7 +23863,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -23942,7 +23879,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -23959,7 +23895,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -23976,7 +23911,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -23993,7 +23927,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -24010,7 +23943,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -24027,7 +23959,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -24044,7 +23975,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -24061,7 +23991,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -24078,7 +24007,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -24095,7 +24023,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -24112,7 +24039,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -24129,7 +24055,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -24146,7 +24071,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -24163,7 +24087,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -24179,7 +24102,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -24195,7 +24117,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -24211,7 +24132,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -24227,7 +24147,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -24243,7 +24162,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -24260,7 +24178,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -24277,7 +24194,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -24294,7 +24210,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -24311,7 +24226,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -24328,7 +24242,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -24345,7 +24258,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -24362,7 +24274,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -24379,7 +24290,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -24396,7 +24306,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -24413,7 +24322,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -24429,7 +24337,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -24445,7 +24352,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -24461,7 +24367,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -24477,7 +24382,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "12",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -24509,7 +24413,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -24526,7 +24429,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -24543,7 +24445,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -24560,7 +24461,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -24577,7 +24477,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -24594,7 +24493,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -24611,7 +24509,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -24628,7 +24525,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -24645,7 +24541,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -24662,7 +24557,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -24679,7 +24573,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -24696,7 +24589,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -24713,7 +24605,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -24730,7 +24621,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -24747,7 +24637,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -24764,7 +24653,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -24781,7 +24669,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -24798,7 +24685,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -24815,7 +24701,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -24832,7 +24717,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -24849,7 +24733,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -24866,7 +24749,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -24883,7 +24765,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -24900,7 +24781,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -24917,7 +24797,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -24934,7 +24813,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -24951,7 +24829,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -24968,7 +24845,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -24985,7 +24861,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -25001,7 +24876,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -25017,7 +24891,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -25033,7 +24906,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -25049,7 +24921,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -25065,7 +24936,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -25082,7 +24952,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -25099,7 +24968,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -25116,7 +24984,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -25133,7 +25000,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -25150,7 +25016,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -25167,7 +25032,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -25184,7 +25048,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -25201,7 +25064,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -25218,7 +25080,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -25235,7 +25096,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -25251,7 +25111,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -25267,7 +25126,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -25283,7 +25141,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -25299,7 +25156,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -25331,7 +25187,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -25348,7 +25203,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -25365,7 +25219,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -25382,7 +25235,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -25399,7 +25251,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -25416,7 +25267,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -25433,7 +25283,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -25450,7 +25299,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -25467,7 +25315,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -25484,7 +25331,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -25501,7 +25347,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -25518,7 +25363,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -25535,7 +25379,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -25552,7 +25395,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -25569,7 +25411,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -25586,7 +25427,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -25603,7 +25443,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -25620,7 +25459,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -25637,7 +25475,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -25654,7 +25491,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -25671,7 +25507,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -25688,7 +25523,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -25705,7 +25539,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -25722,7 +25555,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -25739,7 +25571,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -25756,7 +25587,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -25773,7 +25603,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -25790,7 +25619,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -25807,7 +25635,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -25823,7 +25650,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -25839,7 +25665,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -25855,7 +25680,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -25871,7 +25695,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -25887,7 +25710,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -25904,7 +25726,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -25921,7 +25742,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -25938,7 +25758,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -25955,7 +25774,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -25972,7 +25790,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -25989,7 +25806,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -26006,7 +25822,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -26023,7 +25838,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -26040,7 +25854,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -26057,7 +25870,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -26073,7 +25885,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -26089,7 +25900,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -26105,7 +25915,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -26121,7 +25930,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -26153,7 +25961,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -26170,7 +25977,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -26187,7 +25993,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -26204,7 +26009,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -26221,7 +26025,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -26238,7 +26041,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -26255,7 +26057,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -26272,7 +26073,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -26289,7 +26089,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -26306,7 +26105,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -26323,7 +26121,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -26340,7 +26137,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -26357,7 +26153,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -26374,7 +26169,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -26391,7 +26185,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -26408,7 +26201,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -26425,7 +26217,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -26442,7 +26233,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -26459,7 +26249,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -26476,7 +26265,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -26493,7 +26281,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -26510,7 +26297,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -26527,7 +26313,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -26544,7 +26329,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -26561,7 +26345,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -26578,7 +26361,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -26595,7 +26377,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -26612,7 +26393,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -26629,7 +26409,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -26645,7 +26424,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -26661,7 +26439,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -26677,7 +26454,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -26693,7 +26469,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -26709,7 +26484,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -26726,7 +26500,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -26743,7 +26516,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -26760,7 +26532,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -26777,7 +26548,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -26794,7 +26564,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -26811,7 +26580,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -26828,7 +26596,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -26845,7 +26612,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -26862,7 +26628,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -26879,7 +26644,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -26895,7 +26659,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -26911,7 +26674,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -26927,7 +26689,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -26943,7 +26704,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -26975,7 +26735,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -26992,7 +26751,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -27009,7 +26767,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -27026,7 +26783,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -27043,7 +26799,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -27060,7 +26815,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -27077,7 +26831,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -27094,7 +26847,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -27111,7 +26863,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -27128,7 +26879,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -27145,7 +26895,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -27162,7 +26911,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -27179,7 +26927,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -27196,7 +26943,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -27213,7 +26959,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -27230,7 +26975,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -27247,7 +26991,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -27264,7 +27007,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -27281,7 +27023,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -27298,7 +27039,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -27315,7 +27055,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -27332,7 +27071,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -27349,7 +27087,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -27366,7 +27103,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -27383,7 +27119,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -27400,7 +27135,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -27417,7 +27151,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -27434,7 +27167,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -27451,7 +27183,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -27467,7 +27198,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -27483,7 +27213,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -27499,7 +27228,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -27515,7 +27243,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -27531,7 +27258,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -27548,7 +27274,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -27565,7 +27290,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -27582,7 +27306,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -27599,7 +27322,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -27616,7 +27338,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -27633,7 +27354,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -27650,7 +27370,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -27667,7 +27386,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -27684,7 +27402,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -27701,7 +27418,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -27717,7 +27433,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -27733,7 +27448,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -27749,7 +27463,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -27765,7 +27478,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -27797,7 +27509,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -27814,7 +27525,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -27831,7 +27541,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -27848,7 +27557,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -27865,7 +27573,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -27882,7 +27589,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -27899,7 +27605,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -27916,7 +27621,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -27933,7 +27637,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -27950,7 +27653,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -27967,7 +27669,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -27984,7 +27685,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -28001,7 +27701,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -28018,7 +27717,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -28035,7 +27733,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -28052,7 +27749,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -28069,7 +27765,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -28086,7 +27781,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -28103,7 +27797,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -28120,7 +27813,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -28137,7 +27829,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -28154,7 +27845,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -28171,7 +27861,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -28188,7 +27877,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -28205,7 +27893,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -28222,7 +27909,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -28239,7 +27925,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -28256,7 +27941,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -28273,7 +27957,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -28289,7 +27972,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -28305,7 +27987,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -28321,7 +28002,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -28337,7 +28017,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -28353,7 +28032,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -28370,7 +28048,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -28387,7 +28064,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -28404,7 +28080,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -28421,7 +28096,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -28438,7 +28112,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -28455,7 +28128,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -28472,7 +28144,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -28489,7 +28160,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -28506,7 +28176,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -28523,7 +28192,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -28539,7 +28207,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -28555,7 +28222,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -28571,7 +28237,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -28587,7 +28252,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -28619,7 +28283,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -28636,7 +28299,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -28653,7 +28315,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -28670,7 +28331,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -28687,7 +28347,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -28704,7 +28363,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -28721,7 +28379,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -28738,7 +28395,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -28755,7 +28411,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -28772,7 +28427,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -28789,7 +28443,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -28806,7 +28459,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -28823,7 +28475,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -28840,7 +28491,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -28857,7 +28507,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -28874,7 +28523,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -28891,7 +28539,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -28908,7 +28555,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -28925,7 +28571,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -28942,7 +28587,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -28959,7 +28603,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -28976,7 +28619,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -28993,7 +28635,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -29010,7 +28651,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -29027,7 +28667,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -29044,7 +28683,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -29061,7 +28699,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -29078,7 +28715,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -29095,7 +28731,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -29111,7 +28746,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -29127,7 +28761,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -29143,7 +28776,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -29159,7 +28791,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -29175,7 +28806,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -29192,7 +28822,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -29209,7 +28838,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -29226,7 +28854,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -29243,7 +28870,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -29260,7 +28886,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -29277,7 +28902,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -29294,7 +28918,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -29311,7 +28934,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -29328,7 +28950,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -29345,7 +28966,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -29361,7 +28981,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -29377,7 +28996,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -29393,7 +29011,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -29409,7 +29026,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -29441,7 +29057,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -29458,7 +29073,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -29475,7 +29089,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -29492,7 +29105,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -29509,7 +29121,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -29526,7 +29137,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -29543,7 +29153,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -29560,7 +29169,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -29577,7 +29185,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -29594,7 +29201,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -29611,7 +29217,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -29628,7 +29233,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -29645,7 +29249,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -29662,7 +29265,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -29679,7 +29281,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -29696,7 +29297,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -29713,7 +29313,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -29730,7 +29329,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -29747,7 +29345,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -29764,7 +29361,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -29781,7 +29377,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -29798,7 +29393,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -29815,7 +29409,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -29832,7 +29425,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -29849,7 +29441,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -29866,7 +29457,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -29883,7 +29473,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -29900,7 +29489,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -29917,7 +29505,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -29933,7 +29520,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -29949,7 +29535,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -29965,7 +29550,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -29981,7 +29565,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -29997,7 +29580,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -30014,7 +29596,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -30031,7 +29612,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -30048,7 +29628,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -30065,7 +29644,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -30082,7 +29660,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -30099,7 +29676,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -30116,7 +29692,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -30133,7 +29708,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -30150,7 +29724,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -30167,7 +29740,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -30183,7 +29755,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -30199,7 +29770,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -30215,7 +29785,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -30231,7 +29800,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "14",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -30263,7 +29831,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -30280,7 +29847,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -30297,7 +29863,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -30314,7 +29879,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -30331,7 +29895,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -30348,7 +29911,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -30365,7 +29927,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -30382,7 +29943,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -30399,7 +29959,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -30416,7 +29975,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -30433,7 +29991,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -30450,7 +30007,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -30467,7 +30023,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -30484,7 +30039,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -30501,7 +30055,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -30518,7 +30071,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -30535,7 +30087,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -30552,7 +30103,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -30569,7 +30119,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -30586,7 +30135,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -30603,7 +30151,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -30620,7 +30167,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -30637,7 +30183,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -30654,7 +30199,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -30671,7 +30215,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -30688,7 +30231,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -30705,7 +30247,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -30722,7 +30263,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -30739,7 +30279,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -30755,7 +30294,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -30771,7 +30309,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -30787,7 +30324,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -30803,7 +30339,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -30819,7 +30354,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -30836,7 +30370,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -30853,7 +30386,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -30870,7 +30402,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -30887,7 +30418,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -30904,7 +30434,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -30921,7 +30450,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -30938,7 +30466,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -30955,7 +30482,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -30972,7 +30498,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -30989,7 +30514,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -31005,7 +30529,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -31021,7 +30544,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -31037,7 +30559,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -31053,7 +30574,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "36",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -31085,7 +30605,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -31102,7 +30621,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -31119,7 +30637,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -31136,7 +30653,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -31153,7 +30669,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -31170,7 +30685,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -31187,7 +30701,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -31204,7 +30717,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -31221,7 +30733,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -31238,7 +30749,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -31255,7 +30765,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -31272,7 +30781,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -31289,7 +30797,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -31306,7 +30813,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -31323,7 +30829,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -31340,7 +30845,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -31357,7 +30861,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -31374,7 +30877,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -31391,7 +30893,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -31408,7 +30909,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -31425,7 +30925,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -31442,7 +30941,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -31459,7 +30957,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -31476,7 +30973,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -31493,7 +30989,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -31510,7 +31005,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -31527,7 +31021,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -31544,7 +31037,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -31561,7 +31053,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -31577,7 +31068,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -31593,7 +31083,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -31609,7 +31098,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -31625,7 +31113,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -31641,7 +31128,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -31658,7 +31144,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -31675,7 +31160,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -31692,7 +31176,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -31709,7 +31192,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -31726,7 +31208,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -31743,7 +31224,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -31760,7 +31240,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -31777,7 +31256,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -31794,7 +31272,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -31811,7 +31288,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -31827,7 +31303,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -31843,7 +31318,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -31859,7 +31333,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -31875,7 +31348,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "27",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -31907,7 +31379,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -31924,7 +31395,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -31941,7 +31411,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -31958,7 +31427,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -31975,7 +31443,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -31992,7 +31459,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -32009,7 +31475,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -32026,7 +31491,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -32043,7 +31507,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -32060,7 +31523,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -32077,7 +31539,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -32094,7 +31555,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -32111,7 +31571,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -32128,7 +31587,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -32145,7 +31603,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -32162,7 +31619,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -32179,7 +31635,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -32196,7 +31651,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -32213,7 +31667,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -32230,7 +31683,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -32247,7 +31699,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -32264,7 +31715,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -32281,7 +31731,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -32298,7 +31747,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -32315,7 +31763,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -32332,7 +31779,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -32349,7 +31795,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -32366,7 +31811,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -32383,7 +31827,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -32399,7 +31842,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -32415,7 +31857,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -32431,7 +31872,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -32447,7 +31887,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -32463,7 +31902,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -32480,7 +31918,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -32497,7 +31934,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -32514,7 +31950,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -32531,7 +31966,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -32548,7 +31982,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -32565,7 +31998,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -32582,7 +32014,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -32599,7 +32030,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -32616,7 +32046,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -32633,7 +32062,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -32649,7 +32077,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -32665,7 +32092,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -32681,7 +32107,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -32697,7 +32122,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10402",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -32729,7 +32153,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -32746,7 +32169,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -32763,7 +32185,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -32780,7 +32201,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -32797,7 +32217,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -32814,7 +32233,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -32831,7 +32249,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -32848,7 +32265,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -32865,7 +32281,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -32882,7 +32297,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -32899,7 +32313,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -32916,7 +32329,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -32933,7 +32345,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -32950,7 +32361,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -32967,7 +32377,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -32984,7 +32393,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -33001,7 +32409,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -33018,7 +32425,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -33035,7 +32441,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -33052,7 +32457,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -33069,7 +32473,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -33086,7 +32489,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -33103,7 +32505,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -33120,7 +32521,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -33137,7 +32537,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -33154,7 +32553,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -33171,7 +32569,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -33188,7 +32585,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -33205,7 +32601,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -33221,7 +32616,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -33237,7 +32631,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -33253,7 +32646,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -33269,7 +32661,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -33285,7 +32676,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -33302,7 +32692,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -33319,7 +32708,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -33336,7 +32724,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -33353,7 +32740,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -33370,7 +32756,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -33387,7 +32772,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -33404,7 +32788,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -33421,7 +32804,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -33438,7 +32820,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -33455,7 +32836,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -33471,7 +32851,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -33487,7 +32866,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -33503,7 +32881,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -33519,7 +32896,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -33551,7 +32927,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -33568,7 +32943,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -33585,7 +32959,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -33602,7 +32975,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -33619,7 +32991,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -33636,7 +33007,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -33653,7 +33023,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -33670,7 +33039,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -33687,7 +33055,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -33704,7 +33071,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -33721,7 +33087,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -33738,7 +33103,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -33755,7 +33119,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -33772,7 +33135,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -33789,7 +33151,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -33806,7 +33167,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -33823,7 +33183,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -33840,7 +33199,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -33857,7 +33215,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -33874,7 +33231,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -33891,7 +33247,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -33908,7 +33263,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -33925,7 +33279,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -33942,7 +33295,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -33959,7 +33311,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -33976,7 +33327,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -33993,7 +33343,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -34010,7 +33359,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -34027,7 +33375,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -34043,7 +33390,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -34059,7 +33405,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -34075,7 +33420,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -34091,7 +33435,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -34107,7 +33450,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -34124,7 +33466,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -34141,7 +33482,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -34158,7 +33498,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -34175,7 +33514,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -34192,7 +33530,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -34209,7 +33546,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -34226,7 +33562,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -34243,7 +33578,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -34260,7 +33594,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -34277,7 +33610,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -34293,7 +33625,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -34309,7 +33640,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -34325,7 +33655,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -34341,7 +33670,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10749",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -34373,7 +33701,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -34390,7 +33717,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -34407,7 +33733,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -34424,7 +33749,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -34441,7 +33765,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -34458,7 +33781,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -34475,7 +33797,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -34492,7 +33813,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -34509,7 +33829,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -34526,7 +33845,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -34543,7 +33861,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -34560,7 +33877,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -34577,7 +33893,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -34594,7 +33909,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -34611,7 +33925,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -34628,7 +33941,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -34645,7 +33957,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -34662,7 +33973,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -34679,7 +33989,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -34696,7 +34005,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -34713,7 +34021,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -34730,7 +34037,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -34747,7 +34053,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -34764,7 +34069,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -34781,7 +34085,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -34798,7 +34101,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -34815,7 +34117,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -34832,7 +34133,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -34849,7 +34149,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -34865,7 +34164,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -34881,7 +34179,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -34897,7 +34194,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -34913,7 +34209,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -34929,7 +34224,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -34946,7 +34240,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -34963,7 +34256,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -34980,7 +34272,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -34997,7 +34288,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -35014,7 +34304,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -35031,7 +34320,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -35048,7 +34336,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -35065,7 +34352,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -35082,7 +34368,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -35099,7 +34384,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -35115,7 +34399,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -35131,7 +34414,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -35147,7 +34429,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -35163,7 +34444,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "878",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -35195,7 +34475,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -35212,7 +34491,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -35229,7 +34507,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -35246,7 +34523,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -35263,7 +34539,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -35280,7 +34555,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -35297,7 +34571,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -35314,7 +34587,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -35331,7 +34603,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -35348,7 +34619,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -35365,7 +34635,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -35382,7 +34651,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -35399,7 +34667,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -35416,7 +34683,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -35433,7 +34699,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -35450,7 +34715,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -35467,7 +34731,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -35484,7 +34747,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -35501,7 +34763,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -35518,7 +34779,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -35535,7 +34795,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -35552,7 +34811,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -35569,7 +34827,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -35586,7 +34843,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -35603,7 +34859,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -35620,7 +34875,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -35637,7 +34891,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -35654,7 +34907,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -35671,7 +34923,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -35687,7 +34938,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -35703,7 +34953,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -35719,7 +34968,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -35735,7 +34983,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -35751,7 +34998,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -35768,7 +35014,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -35785,7 +35030,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -35802,7 +35046,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -35819,7 +35062,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -35836,7 +35078,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -35853,7 +35094,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -35870,7 +35110,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -35887,7 +35126,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -35904,7 +35142,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -35921,7 +35158,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -35937,7 +35173,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -35953,7 +35188,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -35969,7 +35203,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -35985,7 +35218,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10770",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -36017,7 +35249,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -36034,7 +35265,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -36051,7 +35281,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -36068,7 +35297,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -36085,7 +35313,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -36102,7 +35329,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -36119,7 +35345,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -36136,7 +35361,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -36153,7 +35377,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -36170,7 +35393,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -36187,7 +35409,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -36204,7 +35425,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -36221,7 +35441,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -36238,7 +35457,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -36255,7 +35473,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -36272,7 +35489,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -36289,7 +35505,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -36306,7 +35521,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -36323,7 +35537,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -36340,7 +35553,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -36357,7 +35569,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -36374,7 +35585,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -36391,7 +35601,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -36408,7 +35617,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -36425,7 +35633,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -36442,7 +35649,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -36459,7 +35665,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -36476,7 +35681,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -36493,7 +35697,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -36509,7 +35712,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -36525,7 +35727,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -36541,7 +35742,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -36557,7 +35757,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -36573,7 +35772,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -36590,7 +35788,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -36607,7 +35804,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -36624,7 +35820,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -36641,7 +35836,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -36658,7 +35852,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -36675,7 +35868,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -36692,7 +35884,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -36709,7 +35900,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -36726,7 +35916,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -36743,7 +35932,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -36759,7 +35947,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -36775,7 +35962,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -36791,7 +35977,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -36807,7 +35992,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "53",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -36839,7 +36023,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -36856,7 +36039,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -36873,7 +36055,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -36890,7 +36071,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -36907,7 +36087,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -36924,7 +36103,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -36941,7 +36119,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -36958,7 +36135,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -36975,7 +36151,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -36992,7 +36167,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -37009,7 +36183,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -37026,7 +36199,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -37043,7 +36215,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -37060,7 +36231,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -37077,7 +36247,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -37094,7 +36263,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -37111,7 +36279,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -37128,7 +36295,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -37145,7 +36311,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -37162,7 +36327,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -37179,7 +36343,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -37196,7 +36359,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -37213,7 +36375,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -37230,7 +36391,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -37247,7 +36407,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -37264,7 +36423,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -37281,7 +36439,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -37298,7 +36455,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -37315,7 +36471,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -37331,7 +36486,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -37347,7 +36501,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -37363,7 +36516,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -37379,7 +36531,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -37395,7 +36546,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -37412,7 +36562,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -37429,7 +36578,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -37446,7 +36594,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -37463,7 +36610,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -37480,7 +36626,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -37497,7 +36642,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -37514,7 +36658,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -37531,7 +36674,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -37548,7 +36690,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -37565,7 +36706,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -37581,7 +36721,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -37597,7 +36736,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -37613,7 +36751,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -37629,7 +36766,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10752",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -37661,7 +36797,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -37678,7 +36813,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -37695,7 +36829,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -37712,7 +36845,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -37729,7 +36861,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -37746,7 +36877,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -37763,7 +36893,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -37780,7 +36909,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -37797,7 +36925,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -37814,7 +36941,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -37831,7 +36957,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -37848,7 +36973,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -37865,7 +36989,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -37882,7 +37005,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -37899,7 +37021,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -37916,7 +37037,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -37933,7 +37053,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -37950,7 +37069,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -37967,7 +37085,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -37984,7 +37101,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -38001,7 +37117,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -38018,7 +37133,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -38035,7 +37149,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -38052,7 +37165,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -38069,7 +37181,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -38086,7 +37197,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -38103,7 +37213,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -38120,7 +37229,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -38137,7 +37245,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -38153,7 +37260,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -38169,7 +37275,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -38185,7 +37290,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -38201,7 +37305,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -38217,7 +37320,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -38234,7 +37336,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -38251,7 +37352,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -38268,7 +37368,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -38285,7 +37384,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -38302,7 +37400,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -38319,7 +37416,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -38336,7 +37432,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -38353,7 +37448,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -38370,7 +37464,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -38387,7 +37480,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -38403,7 +37495,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -38419,7 +37510,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -38435,7 +37525,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -38451,7 +37540,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -38491,7 +37579,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -38508,7 +37595,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -38525,7 +37611,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -38542,7 +37627,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -38559,7 +37643,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -38576,7 +37659,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -38593,7 +37675,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -38610,7 +37691,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -38627,7 +37707,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -38644,7 +37723,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -38661,7 +37739,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -38678,7 +37755,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -38695,7 +37771,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -38712,7 +37787,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -38729,7 +37803,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -38746,7 +37819,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -38763,7 +37835,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -38780,7 +37851,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -38797,7 +37867,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -38814,7 +37883,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -38831,7 +37899,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -38848,7 +37915,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -38865,7 +37931,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -38882,7 +37947,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -38899,7 +37963,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -38916,7 +37979,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -38933,7 +37995,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -38950,7 +38011,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -38967,7 +38027,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -38983,7 +38042,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -38999,7 +38057,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -39015,7 +38072,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -39031,7 +38087,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -39047,7 +38102,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -39064,7 +38118,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -39081,7 +38134,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -39098,7 +38150,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -39115,7 +38166,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -39132,7 +38182,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -39149,7 +38198,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -39166,7 +38214,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -39183,7 +38230,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -39200,7 +38246,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -39217,7 +38262,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -39233,7 +38277,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -39249,7 +38292,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -39265,7 +38307,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -39281,7 +38322,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10759",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -39313,7 +38353,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -39330,7 +38369,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -39347,7 +38385,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -39364,7 +38401,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -39381,7 +38417,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -39398,7 +38433,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -39415,7 +38449,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -39432,7 +38465,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -39449,7 +38481,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -39466,7 +38497,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -39483,7 +38513,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -39500,7 +38529,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -39517,7 +38545,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -39534,7 +38561,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -39551,7 +38577,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -39568,7 +38593,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -39585,7 +38609,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -39602,7 +38625,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -39619,7 +38641,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -39636,7 +38657,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -39653,7 +38673,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -39670,7 +38689,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -39687,7 +38705,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -39704,7 +38721,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -39721,7 +38737,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -39738,7 +38753,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -39755,7 +38769,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -39772,7 +38785,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -39789,7 +38801,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -39805,7 +38816,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -39821,7 +38831,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -39837,7 +38846,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -39853,7 +38861,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -39869,7 +38876,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -39886,7 +38892,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -39903,7 +38908,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -39920,7 +38924,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -39937,7 +38940,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -39954,7 +38956,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -39971,7 +38972,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -39988,7 +38988,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -40005,7 +39004,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -40022,7 +39020,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -40039,7 +39036,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -40055,7 +39051,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -40071,7 +39066,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -40087,7 +39081,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -40103,7 +39096,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "16",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -40135,7 +39127,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -40152,7 +39143,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -40169,7 +39159,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -40186,7 +39175,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -40203,7 +39191,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -40220,7 +39207,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -40237,7 +39223,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -40254,7 +39239,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -40271,7 +39255,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -40288,7 +39271,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -40305,7 +39287,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -40322,7 +39303,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -40339,7 +39319,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -40356,7 +39335,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -40373,7 +39351,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -40390,7 +39367,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -40407,7 +39383,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -40424,7 +39399,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -40441,7 +39415,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -40458,7 +39431,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -40475,7 +39447,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -40492,7 +39463,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -40509,7 +39479,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -40526,7 +39495,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -40543,7 +39511,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -40560,7 +39527,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -40577,7 +39543,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -40594,7 +39559,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -40611,7 +39575,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -40627,7 +39590,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -40643,7 +39605,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -40659,7 +39620,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -40675,7 +39635,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -40691,7 +39650,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -40708,7 +39666,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -40725,7 +39682,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -40742,7 +39698,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -40759,7 +39714,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -40776,7 +39730,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -40793,7 +39746,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -40810,7 +39762,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -40827,7 +39778,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -40844,7 +39794,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -40861,7 +39810,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -40877,7 +39825,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -40893,7 +39840,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -40909,7 +39855,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -40925,7 +39870,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "35",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -40957,7 +39901,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -40974,7 +39917,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -40991,7 +39933,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -41008,7 +39949,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -41025,7 +39965,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -41042,7 +39981,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -41059,7 +39997,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -41076,7 +40013,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -41093,7 +40029,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -41110,7 +40045,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -41127,7 +40061,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -41144,7 +40077,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -41161,7 +40093,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -41178,7 +40109,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -41195,7 +40125,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -41212,7 +40141,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -41229,7 +40157,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -41246,7 +40173,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -41263,7 +40189,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -41280,7 +40205,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -41297,7 +40221,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -41314,7 +40237,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -41331,7 +40253,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -41348,7 +40269,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -41365,7 +40285,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -41382,7 +40301,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -41399,7 +40317,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -41416,7 +40333,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -41433,7 +40349,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -41449,7 +40364,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -41465,7 +40379,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -41481,7 +40394,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -41497,7 +40409,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -41513,7 +40424,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -41530,7 +40440,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -41547,7 +40456,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -41564,7 +40472,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -41581,7 +40488,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -41598,7 +40504,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -41615,7 +40520,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -41632,7 +40536,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -41649,7 +40552,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -41666,7 +40568,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -41683,7 +40584,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -41699,7 +40599,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -41715,7 +40614,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -41731,7 +40629,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -41747,7 +40644,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "80",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -41779,7 +40675,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -41796,7 +40691,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -41813,7 +40707,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -41830,7 +40723,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -41847,7 +40739,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -41864,7 +40755,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -41881,7 +40771,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -41898,7 +40787,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -41915,7 +40803,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -41932,7 +40819,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -41949,7 +40835,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -41966,7 +40851,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -41983,7 +40867,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -42000,7 +40883,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -42017,7 +40899,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -42034,7 +40915,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -42051,7 +40931,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -42068,7 +40947,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -42085,7 +40963,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -42102,7 +40979,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -42119,7 +40995,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -42136,7 +41011,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -42153,7 +41027,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -42170,7 +41043,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -42187,7 +41059,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -42204,7 +41075,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -42221,7 +41091,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -42238,7 +41107,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -42255,7 +41123,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -42271,7 +41138,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -42287,7 +41153,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -42303,7 +41168,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -42319,7 +41183,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -42335,7 +41198,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -42352,7 +41214,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -42369,7 +41230,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -42386,7 +41246,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -42403,7 +41262,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -42420,7 +41278,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -42437,7 +41294,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -42454,7 +41310,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -42471,7 +41326,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -42488,7 +41342,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -42505,7 +41358,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -42521,7 +41373,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -42537,7 +41388,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -42553,7 +41403,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -42569,7 +41418,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "99",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -42601,7 +41449,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -42618,7 +41465,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -42635,7 +41481,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -42652,7 +41497,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -42669,7 +41513,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -42686,7 +41529,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -42703,7 +41545,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -42720,7 +41561,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -42737,7 +41577,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -42754,7 +41593,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -42771,7 +41609,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -42788,7 +41625,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -42805,7 +41641,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -42822,7 +41657,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -42839,7 +41673,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -42856,7 +41689,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -42873,7 +41705,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -42890,7 +41721,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -42907,7 +41737,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -42924,7 +41753,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -42941,7 +41769,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -42958,7 +41785,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -42975,7 +41801,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -42992,7 +41817,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -43009,7 +41833,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -43026,7 +41849,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -43043,7 +41865,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -43060,7 +41881,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -43077,7 +41897,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -43093,7 +41912,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -43109,7 +41927,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -43125,7 +41942,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -43141,7 +41957,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -43157,7 +41972,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -43174,7 +41988,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -43191,7 +42004,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -43208,7 +42020,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -43225,7 +42036,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -43242,7 +42052,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -43259,7 +42068,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -43276,7 +42084,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -43293,7 +42100,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -43310,7 +42116,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -43327,7 +42132,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -43343,7 +42147,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -43359,7 +42162,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -43375,7 +42177,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -43391,7 +42192,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "18",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -43423,7 +42223,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -43440,7 +42239,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -43457,7 +42255,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -43474,7 +42271,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -43491,7 +42287,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -43508,7 +42303,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -43525,7 +42319,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -43542,7 +42335,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -43559,7 +42351,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -43576,7 +42367,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -43593,7 +42383,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -43610,7 +42399,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -43627,7 +42415,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -43644,7 +42431,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -43661,7 +42447,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -43678,7 +42463,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -43695,7 +42479,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -43712,7 +42495,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -43729,7 +42511,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -43746,7 +42527,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -43763,7 +42543,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -43780,7 +42559,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -43797,7 +42575,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -43814,7 +42591,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -43831,7 +42607,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -43848,7 +42623,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -43865,7 +42639,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -43882,7 +42655,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -43899,7 +42671,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -43915,7 +42686,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -43931,7 +42701,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -43947,7 +42716,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -43963,7 +42731,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -43979,7 +42746,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -43996,7 +42762,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -44013,7 +42778,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -44030,7 +42794,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -44047,7 +42810,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -44064,7 +42826,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -44081,7 +42842,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -44098,7 +42858,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -44115,7 +42874,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -44132,7 +42890,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -44149,7 +42906,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -44165,7 +42921,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -44181,7 +42936,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -44197,7 +42951,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -44213,7 +42966,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10751",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -44245,7 +42997,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -44262,7 +43013,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -44279,7 +43029,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -44296,7 +43045,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -44313,7 +43061,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -44330,7 +43077,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -44347,7 +43093,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -44364,7 +43109,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -44381,7 +43125,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -44398,7 +43141,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -44415,7 +43157,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -44432,7 +43173,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -44449,7 +43189,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -44466,7 +43205,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -44483,7 +43221,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -44500,7 +43237,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -44517,7 +43253,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -44534,7 +43269,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -44551,7 +43285,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -44568,7 +43301,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -44585,7 +43317,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -44602,7 +43333,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -44619,7 +43349,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -44636,7 +43365,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -44653,7 +43381,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -44670,7 +43397,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -44687,7 +43413,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -44704,7 +43429,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -44721,7 +43445,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -44737,7 +43460,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -44753,7 +43475,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -44769,7 +43490,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -44785,7 +43505,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -44801,7 +43520,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -44818,7 +43536,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -44835,7 +43552,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -44852,7 +43568,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -44869,7 +43584,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -44886,7 +43600,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -44903,7 +43616,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -44920,7 +43632,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -44937,7 +43648,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -44954,7 +43664,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -44971,7 +43680,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -44987,7 +43695,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -45003,7 +43710,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -45019,7 +43725,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -45035,7 +43740,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -45067,7 +43771,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -45084,7 +43787,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -45101,7 +43803,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -45118,7 +43819,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -45135,7 +43835,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -45152,7 +43851,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -45169,7 +43867,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -45186,7 +43883,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -45203,7 +43899,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -45220,7 +43915,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -45237,7 +43931,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -45254,7 +43947,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -45271,7 +43963,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -45288,7 +43979,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -45305,7 +43995,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -45322,7 +44011,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -45339,7 +44027,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -45356,7 +44043,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -45373,7 +44059,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -45390,7 +44075,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -45407,7 +44091,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -45424,7 +44107,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -45441,7 +44123,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -45458,7 +44139,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -45475,7 +44155,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -45492,7 +44171,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -45509,7 +44187,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -45526,7 +44203,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -45543,7 +44219,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -45559,7 +44234,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -45575,7 +44249,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -45591,7 +44264,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -45607,7 +44279,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -45623,7 +44294,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -45640,7 +44310,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -45657,7 +44326,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -45674,7 +44342,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -45691,7 +44358,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -45708,7 +44374,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -45725,7 +44390,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -45742,7 +44406,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -45759,7 +44422,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -45776,7 +44438,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -45793,7 +44454,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -45809,7 +44469,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -45825,7 +44484,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -45841,7 +44499,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -45857,7 +44514,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10765",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -45889,7 +44545,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -45906,7 +44561,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -45923,7 +44577,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -45940,7 +44593,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -45957,7 +44609,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -45974,7 +44625,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -45991,7 +44641,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -46008,7 +44657,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -46025,7 +44673,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -46042,7 +44689,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -46059,7 +44705,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -46076,7 +44721,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -46093,7 +44737,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -46110,7 +44753,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -46127,7 +44769,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -46144,7 +44785,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -46161,7 +44801,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -46178,7 +44817,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -46195,7 +44833,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -46212,7 +44849,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -46229,7 +44865,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -46246,7 +44881,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -46263,7 +44897,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -46280,7 +44913,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -46297,7 +44929,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -46314,7 +44945,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -46331,7 +44961,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -46348,7 +44977,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -46365,7 +44993,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -46381,7 +45008,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -46397,7 +45023,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -46413,7 +45038,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -46429,7 +45053,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -46445,7 +45068,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -46462,7 +45084,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -46479,7 +45100,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -46496,7 +45116,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -46513,7 +45132,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -46530,7 +45148,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -46547,7 +45164,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -46564,7 +45180,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -46581,7 +45196,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -46598,7 +45212,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -46615,7 +45228,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -46631,7 +45243,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -46647,7 +45258,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -46663,7 +45273,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -46679,7 +45288,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10768",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -46711,7 +45319,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -46728,7 +45335,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -46745,7 +45351,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -46762,7 +45367,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -46779,7 +45383,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -46796,7 +45399,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -46813,7 +45415,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -46830,7 +45431,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -46847,7 +45447,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -46864,7 +45463,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -46881,7 +45479,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -46898,7 +45495,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -46915,7 +45511,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -46932,7 +45527,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -46949,7 +45543,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -46966,7 +45559,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -46983,7 +45575,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -47000,7 +45591,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -47017,7 +45607,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -47034,7 +45623,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -47051,7 +45639,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -47068,7 +45655,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -47085,7 +45671,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -47102,7 +45687,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -47119,7 +45703,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -47136,7 +45719,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -47153,7 +45735,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -47170,7 +45751,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -47187,7 +45767,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -47203,7 +45782,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -47219,7 +45797,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -47235,7 +45812,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -47251,7 +45827,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -47267,7 +45842,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -47284,7 +45858,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -47301,7 +45874,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -47318,7 +45890,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -47335,7 +45906,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -47352,7 +45922,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -47369,7 +45938,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -47386,7 +45954,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -47403,7 +45970,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -47420,7 +45986,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -47437,7 +46002,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -47453,7 +46017,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -47469,7 +46032,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -47485,7 +46047,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -47501,7 +46062,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10762",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -47533,7 +46093,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -47550,7 +46109,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -47567,7 +46125,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -47584,7 +46141,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -47601,7 +46157,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -47618,7 +46173,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -47635,7 +46189,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -47652,7 +46205,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -47669,7 +46221,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -47686,7 +46237,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -47703,7 +46253,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -47720,7 +46269,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -47737,7 +46285,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -47754,7 +46301,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -47771,7 +46317,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -47788,7 +46333,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -47805,7 +46349,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -47822,7 +46365,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -47839,7 +46381,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -47856,7 +46397,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -47873,7 +46413,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -47890,7 +46429,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -47907,7 +46445,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -47924,7 +46461,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -47941,7 +46477,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -47958,7 +46493,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -47975,7 +46509,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -47992,7 +46525,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -48009,7 +46541,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -48025,7 +46556,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -48041,7 +46571,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -48057,7 +46586,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -48073,7 +46601,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -48089,7 +46616,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -48106,7 +46632,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -48123,7 +46648,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -48140,7 +46664,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -48157,7 +46680,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -48174,7 +46696,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -48191,7 +46712,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -48208,7 +46728,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -48225,7 +46744,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -48242,7 +46760,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -48259,7 +46776,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -48275,7 +46791,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -48291,7 +46806,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -48307,7 +46821,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -48323,7 +46836,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "9648",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -48355,7 +46867,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -48372,7 +46883,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -48389,7 +46899,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -48406,7 +46915,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -48423,7 +46931,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -48440,7 +46947,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -48457,7 +46963,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -48474,7 +46979,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -48491,7 +46995,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -48508,7 +47011,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -48525,7 +47027,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -48542,7 +47043,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -48559,7 +47059,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -48576,7 +47075,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -48593,7 +47091,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -48610,7 +47107,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -48627,7 +47123,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -48644,7 +47139,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -48661,7 +47155,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -48678,7 +47171,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -48695,7 +47187,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -48712,7 +47203,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -48729,7 +47219,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -48746,7 +47235,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -48763,7 +47251,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -48780,7 +47267,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -48797,7 +47283,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -48814,7 +47299,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -48831,7 +47315,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -48847,7 +47330,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -48863,7 +47345,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -48879,7 +47360,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -48895,7 +47375,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -48911,7 +47390,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -48928,7 +47406,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -48945,7 +47422,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -48962,7 +47438,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -48979,7 +47454,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -48996,7 +47470,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -49013,7 +47486,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -49030,7 +47502,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -49047,7 +47518,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -49064,7 +47534,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -49081,7 +47550,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -49097,7 +47565,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -49113,7 +47580,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -49129,7 +47595,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -49145,7 +47610,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10763",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -49177,7 +47641,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -49194,7 +47657,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -49211,7 +47673,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -49228,7 +47689,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -49245,7 +47705,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -49262,7 +47721,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -49279,7 +47737,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -49296,7 +47753,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -49313,7 +47769,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -49330,7 +47785,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -49347,7 +47801,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -49364,7 +47817,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -49381,7 +47833,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -49398,7 +47849,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -49415,7 +47865,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -49432,7 +47881,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -49449,7 +47897,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -49466,7 +47913,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -49483,7 +47929,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -49500,7 +47945,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -49517,7 +47961,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -49534,7 +47977,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -49551,7 +47993,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -49568,7 +48009,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -49585,7 +48025,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -49602,7 +48041,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -49619,7 +48057,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -49636,7 +48073,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -49653,7 +48089,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -49669,7 +48104,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -49685,7 +48119,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -49701,7 +48134,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -49717,7 +48149,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -49733,7 +48164,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -49750,7 +48180,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -49767,7 +48196,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -49784,7 +48212,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -49801,7 +48228,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -49818,7 +48244,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -49835,7 +48260,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -49852,7 +48276,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -49869,7 +48292,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -49886,7 +48308,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -49903,7 +48324,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -49919,7 +48339,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -49935,7 +48354,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -49951,7 +48369,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -49967,7 +48384,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10764",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -49999,7 +48415,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -50016,7 +48431,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -50033,7 +48447,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -50050,7 +48463,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -50067,7 +48479,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -50084,7 +48495,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -50101,7 +48511,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -50118,7 +48527,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -50135,7 +48543,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -50152,7 +48559,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -50169,7 +48575,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -50186,7 +48591,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -50203,7 +48607,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -50220,7 +48623,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -50237,7 +48639,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -50254,7 +48655,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -50271,7 +48671,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -50288,7 +48687,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -50305,7 +48703,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -50322,7 +48719,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -50339,7 +48735,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -50356,7 +48751,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -50373,7 +48767,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -50390,7 +48783,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -50407,7 +48799,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -50424,7 +48815,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -50441,7 +48831,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -50458,7 +48847,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -50475,7 +48863,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -50491,7 +48878,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -50507,7 +48893,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -50523,7 +48908,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -50539,7 +48923,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -50555,7 +48938,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -50572,7 +48954,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -50589,7 +48970,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -50606,7 +48986,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -50623,7 +49002,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -50640,7 +49018,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -50657,7 +49034,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -50674,7 +49050,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -50691,7 +49066,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -50708,7 +49082,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -50725,7 +49098,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -50741,7 +49113,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -50757,7 +49128,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -50773,7 +49143,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -50789,7 +49158,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10767",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -50821,7 +49189,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -50838,7 +49205,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -50855,7 +49221,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -50872,7 +49237,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -50889,7 +49253,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -50906,7 +49269,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -50923,7 +49285,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -50940,7 +49301,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -50957,7 +49317,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -50974,7 +49333,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -50991,7 +49349,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -51008,7 +49365,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -51025,7 +49381,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -51042,7 +49397,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -51059,7 +49413,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -51076,7 +49429,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -51093,7 +49445,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -51110,7 +49461,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -51127,7 +49477,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -51144,7 +49493,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -51161,7 +49509,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -51178,7 +49525,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -51195,7 +49541,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -51212,7 +49557,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -51229,7 +49573,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -51246,7 +49589,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -51263,7 +49605,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -51280,7 +49621,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -51297,7 +49637,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -51313,7 +49652,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -51329,7 +49667,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -51345,7 +49682,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -51361,7 +49697,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -51377,7 +49712,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -51394,7 +49728,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -51411,7 +49744,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -51428,7 +49760,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -51445,7 +49776,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -51462,7 +49792,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -51479,7 +49808,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -51496,7 +49824,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -51513,7 +49840,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -51530,7 +49856,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -51547,7 +49872,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -51563,7 +49887,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -51579,7 +49902,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -51595,7 +49917,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -51611,7 +49932,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "10766",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
@@ -51643,7 +49963,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
                             "releaseDateLte": "2027-12-31",
@@ -51660,7 +49979,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
                             "releaseDateLte": "2026-12-31",
@@ -51677,7 +49995,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
                             "releaseDateLte": "2025-12-31",
@@ -51694,7 +50011,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
                             "releaseDateLte": "2024-12-31",
@@ -51711,7 +50027,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
                             "releaseDateLte": "2023-12-31",
@@ -51728,7 +50043,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
                             "releaseDateLte": "2022-12-31",
@@ -51745,7 +50059,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
                             "releaseDateLte": "2021-12-31",
@@ -51762,7 +50075,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
                             "releaseDateLte": "2020-12-31",
@@ -51779,7 +50091,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
                             "releaseDateLte": "2019-12-31",
@@ -51796,7 +50107,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
                             "releaseDateLte": "2018-12-31",
@@ -51813,7 +50123,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
                             "releaseDateLte": "2017-12-31",
@@ -51830,7 +50139,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
                             "releaseDateLte": "2016-12-31",
@@ -51847,7 +50155,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
                             "releaseDateLte": "2015-12-31",
@@ -51864,7 +50171,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
                             "releaseDateLte": "2014-12-31",
@@ -51881,7 +50187,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
                             "releaseDateLte": "2013-12-31",
@@ -51898,7 +50203,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
                             "releaseDateLte": "2012-12-31",
@@ -51915,7 +50219,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
                             "releaseDateLte": "2011-12-31",
@@ -51932,7 +50235,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
                             "releaseDateLte": "2010-12-31",
@@ -51949,7 +50251,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
                             "releaseDateLte": "2009-12-31",
@@ -51966,7 +50267,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
                             "releaseDateLte": "2008-12-31",
@@ -51983,7 +50283,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
                             "releaseDateLte": "2007-12-31",
@@ -52000,7 +50299,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
                             "releaseDateLte": "2006-12-31",
@@ -52017,7 +50315,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
                             "releaseDateLte": "2005-12-31",
@@ -52034,7 +50331,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
                             "releaseDateLte": "2004-12-31",
@@ -52051,7 +50347,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
                             "releaseDateLte": "2003-12-31",
@@ -52068,7 +50363,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
                             "releaseDateLte": "2002-12-31",
@@ -52085,7 +50379,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
                             "releaseDateLte": "2001-12-31",
@@ -52102,7 +50395,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
                             "releaseDateLte": "2000-12-31",
@@ -52119,7 +50411,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
                             "includeAdult": false
@@ -52135,7 +50426,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
                             "includeAdult": false
@@ -52151,7 +50441,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
                             "includeAdult": false
@@ -52167,7 +50456,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
                             "includeAdult": false
@@ -52183,7 +50471,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
                             "includeAdult": false
@@ -52199,7 +50486,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2009-12-31",
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -52216,7 +50502,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2008-12-31",
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -52233,7 +50518,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2007-12-31",
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -52250,7 +50534,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2006-12-31",
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -52267,7 +50550,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2005-12-31",
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -52284,7 +50566,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2004-12-31",
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -52301,7 +50582,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2003-12-31",
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -52318,7 +50598,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2002-12-31",
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -52335,7 +50614,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2001-12-31",
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -52352,7 +50630,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "2000-12-31",
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -52369,7 +50646,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1999-12-31",
                             "releaseDateGte": "1990-01-01",
                             "includeAdult": false
@@ -52385,7 +50661,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1989-12-31",
                             "releaseDateGte": "1980-01-01",
                             "includeAdult": false
@@ -52401,7 +50676,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1979-12-31",
                             "releaseDateGte": "1970-01-01",
                             "includeAdult": false
@@ -52417,7 +50691,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1969-12-31",
                             "releaseDateGte": "1960-01-01",
                             "includeAdult": false
@@ -52433,7 +50706,6 @@
                         "filters": {
                             "watchRegion": "PT",
                             "withGenres": "37",
-                            "voteCountGte": 20,
                             "releaseDateLte": "1959-12-31",
                             "releaseDateGte": "1950-01-01",
                             "includeAdult": false
