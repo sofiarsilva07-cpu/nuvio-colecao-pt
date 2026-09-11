@@ -70853,7 +70853,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2027,
@@ -70870,7 +70870,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2026,
@@ -70887,7 +70887,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2025,
@@ -70904,7 +70904,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2024,
@@ -70921,7 +70921,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2023,
@@ -70938,7 +70938,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2022,
@@ -70955,7 +70955,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2021,
@@ -70972,7 +70972,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2020,
@@ -70989,7 +70989,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2019,
@@ -71006,7 +71006,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2018,
@@ -71023,7 +71023,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2017,
@@ -71040,7 +71040,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2016,
@@ -71057,7 +71057,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2015,
@@ -71074,7 +71074,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2014,
@@ -71091,7 +71091,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2013,
@@ -71108,7 +71108,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2012,
@@ -71125,7 +71125,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2011,
@@ -71142,7 +71142,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2010,
@@ -71159,7 +71159,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2009,
@@ -71176,7 +71176,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2008,
@@ -71193,7 +71193,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2007,
@@ -71210,7 +71210,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2006,
@@ -71227,7 +71227,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2005,
@@ -71244,7 +71244,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2004,
@@ -71261,7 +71261,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2003,
@@ -71278,7 +71278,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2002,
@@ -71295,7 +71295,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2001,
@@ -71312,7 +71312,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2000,
@@ -71329,7 +71329,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
@@ -71345,7 +71345,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
@@ -71361,7 +71361,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
@@ -71377,7 +71377,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
@@ -71393,7 +71393,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
@@ -71413,7 +71413,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-japones.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-china",
@@ -71425,7 +71425,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2027,
@@ -71442,7 +71442,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2026,
@@ -71459,7 +71459,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2025,
@@ -71476,7 +71476,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2024,
@@ -71493,7 +71493,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2023,
@@ -71510,7 +71510,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2022,
@@ -71527,7 +71527,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2021,
@@ -71544,7 +71544,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2020,
@@ -71561,7 +71561,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2019,
@@ -71578,7 +71578,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2018,
@@ -71595,7 +71595,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2017,
@@ -71612,7 +71612,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2016,
@@ -71629,7 +71629,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2015,
@@ -71646,7 +71646,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2014,
@@ -71663,7 +71663,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2013,
@@ -71680,7 +71680,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2012,
@@ -71697,7 +71697,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2011,
@@ -71714,7 +71714,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2010,
@@ -71731,7 +71731,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2009,
@@ -71748,7 +71748,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2008,
@@ -71765,7 +71765,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2007,
@@ -71782,7 +71782,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2006,
@@ -71799,7 +71799,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2005,
@@ -71816,7 +71816,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2004,
@@ -71833,7 +71833,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2003,
@@ -71850,7 +71850,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2002,
@@ -71867,7 +71867,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2001,
@@ -71884,7 +71884,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2000,
@@ -71901,7 +71901,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
@@ -71917,7 +71917,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
@@ -71933,7 +71933,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
@@ -71949,7 +71949,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
@@ -71965,7 +71965,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
@@ -71985,7 +71985,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-chines.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-coreia-do-sul",
@@ -71997,7 +71997,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2027,
@@ -72014,7 +72014,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2026,
@@ -72031,7 +72031,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2025,
@@ -72048,7 +72048,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2024,
@@ -72065,7 +72065,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2023,
@@ -72082,7 +72082,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2022,
@@ -72099,7 +72099,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2021,
@@ -72116,7 +72116,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2020,
@@ -72133,7 +72133,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2019,
@@ -72150,7 +72150,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2018,
@@ -72167,7 +72167,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2017,
@@ -72184,7 +72184,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2016,
@@ -72201,7 +72201,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2015,
@@ -72218,7 +72218,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2014,
@@ -72235,7 +72235,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2013,
@@ -72252,7 +72252,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2012,
@@ -72269,7 +72269,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2011,
@@ -72286,7 +72286,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2010,
@@ -72303,7 +72303,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2009,
@@ -72320,7 +72320,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2008,
@@ -72337,7 +72337,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2007,
@@ -72354,7 +72354,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2006,
@@ -72371,7 +72371,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2005,
@@ -72388,7 +72388,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2004,
@@ -72405,7 +72405,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2003,
@@ -72422,7 +72422,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2002,
@@ -72439,7 +72439,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2001,
@@ -72456,7 +72456,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2000,
@@ -72473,7 +72473,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
@@ -72489,7 +72489,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
@@ -72505,7 +72505,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
@@ -72521,7 +72521,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
@@ -72537,7 +72537,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
@@ -72557,7 +72557,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-coreano.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-india",
@@ -72569,7 +72569,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2027,
@@ -72586,7 +72586,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2026,
@@ -72603,7 +72603,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2025,
@@ -72620,7 +72620,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2024,
@@ -72637,7 +72637,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2023,
@@ -72654,7 +72654,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2022,
@@ -72671,7 +72671,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2021,
@@ -72688,7 +72688,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2020,
@@ -72705,7 +72705,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2019,
@@ -72722,7 +72722,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2018,
@@ -72739,7 +72739,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2017,
@@ -72756,7 +72756,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2016,
@@ -72773,7 +72773,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2015,
@@ -72790,7 +72790,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2014,
@@ -72807,7 +72807,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2013,
@@ -72824,7 +72824,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2012,
@@ -72841,7 +72841,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2011,
@@ -72858,7 +72858,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2010,
@@ -72875,7 +72875,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2009,
@@ -72892,7 +72892,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2008,
@@ -72909,7 +72909,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2007,
@@ -72926,7 +72926,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2006,
@@ -72943,7 +72943,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2005,
@@ -72960,7 +72960,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2004,
@@ -72977,7 +72977,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2003,
@@ -72994,7 +72994,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2002,
@@ -73011,7 +73011,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2001,
@@ -73028,7 +73028,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2000,
@@ -73045,7 +73045,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
@@ -73061,7 +73061,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
@@ -73077,7 +73077,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
@@ -73093,7 +73093,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
@@ -73109,7 +73109,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
@@ -73129,7 +73129,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-indiano.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-espanha",
@@ -73141,7 +73141,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2027,
@@ -73158,7 +73158,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2026,
@@ -73175,7 +73175,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2025,
@@ -73192,7 +73192,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2024,
@@ -73209,7 +73209,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2023,
@@ -73226,7 +73226,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2022,
@@ -73243,7 +73243,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2021,
@@ -73260,7 +73260,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2020,
@@ -73277,7 +73277,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2019,
@@ -73294,7 +73294,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2018,
@@ -73311,7 +73311,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2017,
@@ -73328,7 +73328,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2016,
@@ -73345,7 +73345,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2015,
@@ -73362,7 +73362,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2014,
@@ -73379,7 +73379,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2013,
@@ -73396,7 +73396,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2012,
@@ -73413,7 +73413,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2011,
@@ -73430,7 +73430,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2010,
@@ -73447,7 +73447,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2009,
@@ -73464,7 +73464,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2008,
@@ -73481,7 +73481,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2007,
@@ -73498,7 +73498,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2006,
@@ -73515,7 +73515,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2005,
@@ -73532,7 +73532,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2004,
@@ -73549,7 +73549,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2003,
@@ -73566,7 +73566,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2002,
@@ -73583,7 +73583,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2001,
@@ -73600,7 +73600,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2000,
@@ -73617,7 +73617,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
@@ -73633,7 +73633,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
@@ -73649,7 +73649,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
@@ -73665,7 +73665,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
@@ -73681,7 +73681,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
@@ -73701,7 +73701,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-espanhol.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-franca",
@@ -73713,7 +73713,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2027,
@@ -73730,7 +73730,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2026,
@@ -73747,7 +73747,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2025,
@@ -73764,7 +73764,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2024,
@@ -73781,7 +73781,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2023,
@@ -73798,7 +73798,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2022,
@@ -73815,7 +73815,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2021,
@@ -73832,7 +73832,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2020,
@@ -73849,7 +73849,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2019,
@@ -73866,7 +73866,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2018,
@@ -73883,7 +73883,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2017,
@@ -73900,7 +73900,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2016,
@@ -73917,7 +73917,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2015,
@@ -73934,7 +73934,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2014,
@@ -73951,7 +73951,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2013,
@@ -73968,7 +73968,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2012,
@@ -73985,7 +73985,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2011,
@@ -74002,7 +74002,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2010,
@@ -74019,7 +74019,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2009,
@@ -74036,7 +74036,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2008,
@@ -74053,7 +74053,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2007,
@@ -74070,7 +74070,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2006,
@@ -74087,7 +74087,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2005,
@@ -74104,7 +74104,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2004,
@@ -74121,7 +74121,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2003,
@@ -74138,7 +74138,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2002,
@@ -74155,7 +74155,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2001,
@@ -74172,7 +74172,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2000,
@@ -74189,7 +74189,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
@@ -74205,7 +74205,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
@@ -74221,7 +74221,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
@@ -74237,7 +74237,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
@@ -74253,7 +74253,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
@@ -74273,7 +74273,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-frances.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-paises-nordicos",
@@ -74285,7 +74285,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2027,
@@ -74302,7 +74302,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2026,
@@ -74319,7 +74319,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2025,
@@ -74336,7 +74336,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2024,
@@ -74353,7 +74353,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2023,
@@ -74370,7 +74370,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2022,
@@ -74387,7 +74387,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2021,
@@ -74404,7 +74404,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2020,
@@ -74421,7 +74421,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2019,
@@ -74438,7 +74438,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2018,
@@ -74455,7 +74455,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2017,
@@ -74472,7 +74472,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2016,
@@ -74489,7 +74489,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2015,
@@ -74506,7 +74506,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2014,
@@ -74523,7 +74523,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2013,
@@ -74540,7 +74540,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2012,
@@ -74557,7 +74557,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2011,
@@ -74574,7 +74574,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2010,
@@ -74591,7 +74591,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2009,
@@ -74608,7 +74608,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2008,
@@ -74625,7 +74625,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2007,
@@ -74642,7 +74642,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2006,
@@ -74659,7 +74659,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2005,
@@ -74676,7 +74676,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2004,
@@ -74693,7 +74693,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2003,
@@ -74710,7 +74710,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2002,
@@ -74727,7 +74727,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2001,
@@ -74744,7 +74744,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2000,
@@ -74761,7 +74761,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
@@ -74777,7 +74777,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
@@ -74793,7 +74793,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
@@ -74809,7 +74809,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
@@ -74825,7 +74825,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
@@ -74845,7 +74845,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-nordico.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-portugal",
@@ -74857,7 +74857,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2027,
@@ -74874,7 +74874,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2026,
@@ -74891,7 +74891,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2025,
@@ -74908,7 +74908,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2024,
@@ -74925,7 +74925,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2023,
@@ -74942,7 +74942,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2022,
@@ -74959,7 +74959,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2021,
@@ -74976,7 +74976,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2020,
@@ -74993,7 +74993,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2019,
@@ -75010,7 +75010,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2018,
@@ -75027,7 +75027,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2017,
@@ -75044,7 +75044,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2016,
@@ -75061,7 +75061,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2015,
@@ -75078,7 +75078,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2014,
@@ -75095,7 +75095,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2013,
@@ -75112,7 +75112,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2012,
@@ -75129,7 +75129,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2011,
@@ -75146,7 +75146,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2010,
@@ -75163,7 +75163,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2009,
@@ -75180,7 +75180,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2008,
@@ -75197,7 +75197,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2007,
@@ -75214,7 +75214,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2006,
@@ -75231,7 +75231,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2005,
@@ -75248,7 +75248,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2004,
@@ -75265,7 +75265,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2003,
@@ -75282,7 +75282,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2002,
@@ -75299,7 +75299,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2001,
@@ -75316,7 +75316,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2000,
@@ -75333,7 +75333,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
@@ -75349,7 +75349,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
@@ -75365,7 +75365,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
@@ -75381,7 +75381,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
@@ -75397,7 +75397,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
@@ -75417,7 +75417,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-cinema-portugues-30.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-alemanha",
@@ -75429,7 +75429,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -75446,7 +75446,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -75463,7 +75463,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -75480,7 +75480,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -75497,7 +75497,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -75514,7 +75514,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -75531,7 +75531,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -75548,7 +75548,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -75565,7 +75565,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -75582,7 +75582,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -75599,7 +75599,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -75616,7 +75616,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -75633,7 +75633,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -75650,7 +75650,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -75667,7 +75667,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -75684,7 +75684,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -75701,7 +75701,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -75718,7 +75718,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -75735,7 +75735,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -75752,7 +75752,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -75769,7 +75769,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -75786,7 +75786,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -75803,7 +75803,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -75820,7 +75820,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -75837,7 +75837,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -75854,7 +75854,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -75871,7 +75871,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -75888,7 +75888,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -75905,7 +75905,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -75921,7 +75921,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -75937,7 +75937,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -75953,7 +75953,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -75969,7 +75969,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -75989,7 +75989,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-argentina",
@@ -76001,7 +76001,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -76018,7 +76018,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -76035,7 +76035,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -76052,7 +76052,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -76069,7 +76069,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -76086,7 +76086,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -76103,7 +76103,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -76120,7 +76120,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -76137,7 +76137,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -76154,7 +76154,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -76171,7 +76171,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -76188,7 +76188,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -76205,7 +76205,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -76222,7 +76222,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -76239,7 +76239,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -76256,7 +76256,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -76273,7 +76273,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -76290,7 +76290,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -76307,7 +76307,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -76324,7 +76324,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -76341,7 +76341,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -76358,7 +76358,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -76375,7 +76375,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -76392,7 +76392,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -76409,7 +76409,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -76426,7 +76426,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -76443,7 +76443,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -76460,7 +76460,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -76477,7 +76477,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -76493,7 +76493,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -76509,7 +76509,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -76525,7 +76525,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -76541,7 +76541,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -76561,7 +76561,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-australia",
@@ -76573,7 +76573,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -76590,7 +76590,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -76607,7 +76607,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -76624,7 +76624,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -76641,7 +76641,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -76658,7 +76658,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -76675,7 +76675,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -76692,7 +76692,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -76709,7 +76709,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -76726,7 +76726,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -76743,7 +76743,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -76760,7 +76760,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -76777,7 +76777,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -76794,7 +76794,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -76811,7 +76811,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -76828,7 +76828,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -76845,7 +76845,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -76862,7 +76862,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -76879,7 +76879,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -76896,7 +76896,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -76913,7 +76913,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -76930,7 +76930,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -76947,7 +76947,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -76964,7 +76964,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -76981,7 +76981,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -76998,7 +76998,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -77015,7 +77015,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -77032,7 +77032,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -77049,7 +77049,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -77065,7 +77065,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -77081,7 +77081,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -77097,7 +77097,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -77113,7 +77113,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -77133,7 +77133,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-brasil",
@@ -77145,7 +77145,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -77162,7 +77162,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -77179,7 +77179,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -77196,7 +77196,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -77213,7 +77213,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -77230,7 +77230,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -77247,7 +77247,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -77264,7 +77264,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -77281,7 +77281,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -77298,7 +77298,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -77315,7 +77315,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -77332,7 +77332,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -77349,7 +77349,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -77366,7 +77366,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -77383,7 +77383,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -77400,7 +77400,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -77417,7 +77417,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -77434,7 +77434,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -77451,7 +77451,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -77468,7 +77468,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -77485,7 +77485,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -77502,7 +77502,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -77519,7 +77519,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -77536,7 +77536,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -77553,7 +77553,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -77570,7 +77570,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -77587,7 +77587,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -77604,7 +77604,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -77621,7 +77621,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -77637,7 +77637,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -77653,7 +77653,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -77669,7 +77669,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -77685,7 +77685,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -77705,7 +77705,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-canada",
@@ -77717,7 +77717,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -77734,7 +77734,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -77751,7 +77751,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -77768,7 +77768,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -77785,7 +77785,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -77802,7 +77802,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -77819,7 +77819,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -77836,7 +77836,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -77853,7 +77853,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -77870,7 +77870,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -77887,7 +77887,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -77904,7 +77904,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -77921,7 +77921,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -77938,7 +77938,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -77955,7 +77955,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -77972,7 +77972,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -77989,7 +77989,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -78006,7 +78006,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -78023,7 +78023,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -78040,7 +78040,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -78057,7 +78057,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -78074,7 +78074,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -78091,7 +78091,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -78108,7 +78108,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -78125,7 +78125,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -78142,7 +78142,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -78159,7 +78159,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -78176,7 +78176,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -78193,7 +78193,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -78209,7 +78209,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -78225,7 +78225,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -78241,7 +78241,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -78257,7 +78257,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -78277,7 +78277,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-estados-unidos",
@@ -78289,7 +78289,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -78306,7 +78306,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -78323,7 +78323,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -78340,7 +78340,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -78357,7 +78357,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -78374,7 +78374,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -78391,7 +78391,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -78408,7 +78408,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -78425,7 +78425,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -78442,7 +78442,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -78459,7 +78459,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -78476,7 +78476,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -78493,7 +78493,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -78510,7 +78510,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -78527,7 +78527,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -78544,7 +78544,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -78561,7 +78561,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -78578,7 +78578,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -78595,7 +78595,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -78612,7 +78612,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -78629,7 +78629,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -78646,7 +78646,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -78663,7 +78663,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -78680,7 +78680,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -78697,7 +78697,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -78714,7 +78714,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -78731,7 +78731,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -78748,7 +78748,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -78765,7 +78765,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -78781,7 +78781,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -78797,7 +78797,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -78813,7 +78813,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -78829,7 +78829,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -78849,7 +78849,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-italia",
@@ -78861,7 +78861,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -78878,7 +78878,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -78895,7 +78895,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -78912,7 +78912,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -78929,7 +78929,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -78946,7 +78946,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -78963,7 +78963,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -78980,7 +78980,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -78997,7 +78997,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -79014,7 +79014,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -79031,7 +79031,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -79048,7 +79048,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -79065,7 +79065,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -79082,7 +79082,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -79099,7 +79099,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -79116,7 +79116,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -79133,7 +79133,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -79150,7 +79150,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -79167,7 +79167,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -79184,7 +79184,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -79201,7 +79201,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -79218,7 +79218,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -79235,7 +79235,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -79252,7 +79252,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -79269,7 +79269,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -79286,7 +79286,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -79303,7 +79303,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -79320,7 +79320,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -79337,7 +79337,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -79353,7 +79353,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -79369,7 +79369,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -79385,7 +79385,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -79401,7 +79401,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -79421,7 +79421,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-reino-unido",
@@ -79433,7 +79433,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -79450,7 +79450,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -79467,7 +79467,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -79484,7 +79484,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -79501,7 +79501,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -79518,7 +79518,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -79535,7 +79535,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -79552,7 +79552,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -79569,7 +79569,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -79586,7 +79586,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -79603,7 +79603,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -79620,7 +79620,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -79637,7 +79637,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -79654,7 +79654,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -79671,7 +79671,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -79688,7 +79688,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -79705,7 +79705,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -79722,7 +79722,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -79739,7 +79739,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -79756,7 +79756,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -79773,7 +79773,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -79790,7 +79790,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -79807,7 +79807,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -79824,7 +79824,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -79841,7 +79841,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -79858,7 +79858,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -79875,7 +79875,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -79892,7 +79892,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -79909,7 +79909,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -79925,7 +79925,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -79941,7 +79941,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -79957,7 +79957,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -79973,7 +79973,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -79993,7 +79993,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-austria",
@@ -80005,7 +80005,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -80022,7 +80022,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -80039,7 +80039,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -80056,7 +80056,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -80073,7 +80073,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -80090,7 +80090,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -80107,7 +80107,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -80124,7 +80124,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -80141,7 +80141,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -80158,7 +80158,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -80175,7 +80175,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -80192,7 +80192,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -80209,7 +80209,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -80226,7 +80226,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -80243,7 +80243,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -80260,7 +80260,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -80277,7 +80277,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -80294,7 +80294,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -80311,7 +80311,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -80328,7 +80328,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -80345,7 +80345,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -80362,7 +80362,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -80379,7 +80379,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -80396,7 +80396,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -80413,7 +80413,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -80430,7 +80430,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -80447,7 +80447,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -80464,7 +80464,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -80481,7 +80481,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -80497,7 +80497,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -80513,7 +80513,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -80529,7 +80529,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -80545,7 +80545,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -80565,7 +80565,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-mais",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-belgica",
@@ -80577,7 +80577,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -80594,7 +80594,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -80611,7 +80611,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -80628,7 +80628,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -80645,7 +80645,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -80662,7 +80662,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -80679,7 +80679,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -80696,7 +80696,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -80713,7 +80713,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -80730,7 +80730,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -80747,7 +80747,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -80764,7 +80764,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -80781,7 +80781,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -80798,7 +80798,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -80815,7 +80815,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -80832,7 +80832,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -80849,7 +80849,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -80866,7 +80866,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -80883,7 +80883,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -80900,7 +80900,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -80917,7 +80917,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -80934,7 +80934,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -80951,7 +80951,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -80968,7 +80968,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -80985,7 +80985,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -81002,7 +81002,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -81019,7 +81019,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -81036,7 +81036,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -81053,7 +81053,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -81069,7 +81069,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -81085,7 +81085,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -81101,7 +81101,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -81117,7 +81117,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -81137,7 +81137,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-mais",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-chile",
@@ -81149,7 +81149,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -81166,7 +81166,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -81183,7 +81183,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -81200,7 +81200,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -81217,7 +81217,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -81234,7 +81234,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -81251,7 +81251,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -81268,7 +81268,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -81285,7 +81285,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -81302,7 +81302,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -81319,7 +81319,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -81336,7 +81336,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -81353,7 +81353,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -81370,7 +81370,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -81387,7 +81387,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -81404,7 +81404,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -81421,7 +81421,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -81438,7 +81438,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -81455,7 +81455,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -81472,7 +81472,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -81489,7 +81489,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -81506,7 +81506,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -81523,7 +81523,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -81540,7 +81540,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -81557,7 +81557,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -81574,7 +81574,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -81591,7 +81591,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -81608,7 +81608,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -81625,7 +81625,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -81641,7 +81641,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -81657,7 +81657,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -81673,7 +81673,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -81689,7 +81689,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -81709,7 +81709,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-mais",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-colombia",
@@ -81721,7 +81721,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -81738,7 +81738,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -81755,7 +81755,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -81772,7 +81772,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -81789,7 +81789,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -81806,7 +81806,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -81823,7 +81823,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -81840,7 +81840,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -81857,7 +81857,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -81874,7 +81874,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -81891,7 +81891,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -81908,7 +81908,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -81925,7 +81925,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -81942,7 +81942,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -81959,7 +81959,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -81976,7 +81976,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -81993,7 +81993,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -82010,7 +82010,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -82027,7 +82027,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -82044,7 +82044,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -82061,7 +82061,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -82078,7 +82078,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -82095,7 +82095,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -82112,7 +82112,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -82129,7 +82129,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -82146,7 +82146,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -82163,7 +82163,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -82180,7 +82180,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -82197,7 +82197,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -82213,7 +82213,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -82229,7 +82229,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -82245,7 +82245,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -82261,7 +82261,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -82281,7 +82281,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-mais",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-grecia",
@@ -82293,7 +82293,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -82310,7 +82310,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -82327,7 +82327,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -82344,7 +82344,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -82361,7 +82361,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -82378,7 +82378,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -82395,7 +82395,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -82412,7 +82412,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -82429,7 +82429,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -82446,7 +82446,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -82463,7 +82463,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -82480,7 +82480,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -82497,7 +82497,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -82514,7 +82514,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -82531,7 +82531,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -82548,7 +82548,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -82565,7 +82565,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -82582,7 +82582,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -82599,7 +82599,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -82616,7 +82616,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -82633,7 +82633,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -82650,7 +82650,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -82667,7 +82667,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -82684,7 +82684,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -82701,7 +82701,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -82718,7 +82718,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -82735,7 +82735,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -82752,7 +82752,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -82769,7 +82769,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -82785,7 +82785,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -82801,7 +82801,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -82817,7 +82817,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -82833,7 +82833,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -82853,7 +82853,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-mais",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-irlanda",
@@ -82865,7 +82865,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -82882,7 +82882,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -82899,7 +82899,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -82916,7 +82916,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -82933,7 +82933,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -82950,7 +82950,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -82967,7 +82967,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -82984,7 +82984,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -83001,7 +83001,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -83018,7 +83018,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -83035,7 +83035,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -83052,7 +83052,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -83069,7 +83069,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -83086,7 +83086,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -83103,7 +83103,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -83120,7 +83120,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -83137,7 +83137,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -83154,7 +83154,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -83171,7 +83171,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -83188,7 +83188,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -83205,7 +83205,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -83222,7 +83222,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -83239,7 +83239,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -83256,7 +83256,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -83273,7 +83273,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -83290,7 +83290,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -83307,7 +83307,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -83324,7 +83324,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -83341,7 +83341,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -83357,7 +83357,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -83373,7 +83373,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -83389,7 +83389,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -83405,7 +83405,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -83425,7 +83425,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-mais",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-polonia",
@@ -83437,7 +83437,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -83454,7 +83454,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -83471,7 +83471,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -83488,7 +83488,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -83505,7 +83505,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -83522,7 +83522,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -83539,7 +83539,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -83556,7 +83556,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -83573,7 +83573,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -83590,7 +83590,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -83607,7 +83607,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -83624,7 +83624,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -83641,7 +83641,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -83658,7 +83658,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -83675,7 +83675,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -83692,7 +83692,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -83709,7 +83709,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -83726,7 +83726,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -83743,7 +83743,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -83760,7 +83760,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -83777,7 +83777,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -83794,7 +83794,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -83811,7 +83811,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -83828,7 +83828,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -83845,7 +83845,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -83862,7 +83862,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -83879,7 +83879,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -83896,7 +83896,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -83913,7 +83913,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -83929,7 +83929,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -83945,7 +83945,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -83961,7 +83961,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -83977,7 +83977,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -83997,7 +83997,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-mais",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-suica",
@@ -84009,7 +84009,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -84026,7 +84026,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -84043,7 +84043,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -84060,7 +84060,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -84077,7 +84077,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -84094,7 +84094,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -84111,7 +84111,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -84128,7 +84128,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -84145,7 +84145,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -84162,7 +84162,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -84179,7 +84179,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -84196,7 +84196,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -84213,7 +84213,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -84230,7 +84230,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -84247,7 +84247,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -84264,7 +84264,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -84281,7 +84281,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -84298,7 +84298,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -84315,7 +84315,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -84332,7 +84332,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -84349,7 +84349,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -84366,7 +84366,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -84383,7 +84383,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -84400,7 +84400,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -84417,7 +84417,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -84434,7 +84434,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -84451,7 +84451,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -84468,7 +84468,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -84485,7 +84485,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -84501,7 +84501,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -84517,7 +84517,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -84533,7 +84533,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -84549,7 +84549,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -84569,7 +84569,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-mais",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-bangladesh",
@@ -84581,7 +84581,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -84598,7 +84598,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -84615,7 +84615,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -84632,7 +84632,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -84649,7 +84649,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -84666,7 +84666,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -84683,7 +84683,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -84700,7 +84700,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -84717,7 +84717,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -84734,7 +84734,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -84751,7 +84751,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -84768,7 +84768,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -84785,7 +84785,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -84802,7 +84802,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -84819,7 +84819,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -84836,7 +84836,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -84853,7 +84853,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -84870,7 +84870,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -84887,7 +84887,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -84904,7 +84904,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -84921,7 +84921,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -84938,7 +84938,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -84955,7 +84955,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -84972,7 +84972,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -84989,7 +84989,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -85006,7 +85006,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -85023,7 +85023,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -85040,7 +85040,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -85057,7 +85057,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -85073,7 +85073,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -85089,7 +85089,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -85105,7 +85105,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -85121,7 +85121,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -85141,7 +85141,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-asia",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-indonesia",
@@ -85153,7 +85153,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -85170,7 +85170,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -85187,7 +85187,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -85204,7 +85204,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -85221,7 +85221,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -85238,7 +85238,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -85255,7 +85255,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -85272,7 +85272,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -85289,7 +85289,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -85306,7 +85306,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -85323,7 +85323,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -85340,7 +85340,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -85357,7 +85357,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -85374,7 +85374,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -85391,7 +85391,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -85408,7 +85408,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -85425,7 +85425,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -85442,7 +85442,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -85459,7 +85459,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -85476,7 +85476,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -85493,7 +85493,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -85510,7 +85510,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -85527,7 +85527,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -85544,7 +85544,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -85561,7 +85561,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -85578,7 +85578,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -85595,7 +85595,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -85612,7 +85612,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -85629,7 +85629,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -85645,7 +85645,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -85661,7 +85661,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -85677,7 +85677,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -85693,7 +85693,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -85713,7 +85713,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-asia",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-irao",
@@ -85725,7 +85725,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -85742,7 +85742,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -85759,7 +85759,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -85776,7 +85776,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -85793,7 +85793,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -85810,7 +85810,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -85827,7 +85827,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -85844,7 +85844,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -85861,7 +85861,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -85878,7 +85878,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -85895,7 +85895,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -85912,7 +85912,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -85929,7 +85929,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -85946,7 +85946,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -85963,7 +85963,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -85980,7 +85980,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -85997,7 +85997,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -86014,7 +86014,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -86031,7 +86031,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -86048,7 +86048,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -86065,7 +86065,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -86082,7 +86082,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -86099,7 +86099,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -86116,7 +86116,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -86133,7 +86133,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -86150,7 +86150,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -86167,7 +86167,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -86184,7 +86184,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -86201,7 +86201,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -86217,7 +86217,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -86233,7 +86233,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -86249,7 +86249,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -86265,7 +86265,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -86285,7 +86285,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-asia",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-malasia",
@@ -86297,7 +86297,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -86314,7 +86314,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -86331,7 +86331,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -86348,7 +86348,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -86365,7 +86365,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -86382,7 +86382,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -86399,7 +86399,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -86416,7 +86416,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -86433,7 +86433,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -86450,7 +86450,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -86467,7 +86467,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -86484,7 +86484,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -86501,7 +86501,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -86518,7 +86518,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -86535,7 +86535,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -86552,7 +86552,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -86569,7 +86569,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -86586,7 +86586,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -86603,7 +86603,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -86620,7 +86620,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -86637,7 +86637,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -86654,7 +86654,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -86671,7 +86671,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -86688,7 +86688,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -86705,7 +86705,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -86722,7 +86722,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -86739,7 +86739,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -86756,7 +86756,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -86773,7 +86773,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -86789,7 +86789,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -86805,7 +86805,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -86821,7 +86821,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -86837,7 +86837,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -86857,7 +86857,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-asia",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-nepal",
@@ -86869,7 +86869,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -86886,7 +86886,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -86903,7 +86903,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -86920,7 +86920,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -86937,7 +86937,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -86954,7 +86954,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -86971,7 +86971,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -86988,7 +86988,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -87005,7 +87005,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -87022,7 +87022,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -87039,7 +87039,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -87056,7 +87056,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -87073,7 +87073,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -87090,7 +87090,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -87107,7 +87107,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -87124,7 +87124,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -87141,7 +87141,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -87158,7 +87158,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -87175,7 +87175,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -87192,7 +87192,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -87209,7 +87209,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -87226,7 +87226,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -87243,7 +87243,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -87260,7 +87260,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -87277,7 +87277,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -87294,7 +87294,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -87311,7 +87311,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -87328,7 +87328,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -87345,7 +87345,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -87361,7 +87361,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -87377,7 +87377,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -87393,7 +87393,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -87409,7 +87409,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -87429,7 +87429,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-asia",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-filipinas",
@@ -87441,7 +87441,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -87458,7 +87458,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -87475,7 +87475,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -87492,7 +87492,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -87509,7 +87509,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -87526,7 +87526,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -87543,7 +87543,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -87560,7 +87560,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -87577,7 +87577,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -87594,7 +87594,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -87611,7 +87611,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -87628,7 +87628,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -87645,7 +87645,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -87662,7 +87662,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -87679,7 +87679,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -87696,7 +87696,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -87713,7 +87713,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -87730,7 +87730,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -87747,7 +87747,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -87764,7 +87764,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -87781,7 +87781,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -87798,7 +87798,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -87815,7 +87815,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -87832,7 +87832,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -87849,7 +87849,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -87866,7 +87866,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -87883,7 +87883,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -87900,7 +87900,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -87917,7 +87917,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -87933,7 +87933,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -87949,7 +87949,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -87965,7 +87965,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -87981,7 +87981,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -88001,7 +88001,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-asia",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-tailandia",
@@ -88013,7 +88013,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -88030,7 +88030,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -88047,7 +88047,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -88064,7 +88064,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -88081,7 +88081,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -88098,7 +88098,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -88115,7 +88115,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -88132,7 +88132,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -88149,7 +88149,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -88166,7 +88166,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -88183,7 +88183,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -88200,7 +88200,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -88217,7 +88217,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -88234,7 +88234,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -88251,7 +88251,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -88268,7 +88268,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -88285,7 +88285,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -88302,7 +88302,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -88319,7 +88319,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -88336,7 +88336,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -88353,7 +88353,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -88370,7 +88370,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -88387,7 +88387,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -88404,7 +88404,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -88421,7 +88421,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -88438,7 +88438,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -88455,7 +88455,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -88472,7 +88472,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -88489,7 +88489,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -88505,7 +88505,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -88521,7 +88521,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -88537,7 +88537,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -88553,7 +88553,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -88573,7 +88573,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-asia",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-filmes-pais-vietname",
@@ -88585,7 +88585,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -88602,7 +88602,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -88619,7 +88619,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -88636,7 +88636,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -88653,7 +88653,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -88670,7 +88670,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -88687,7 +88687,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -88704,7 +88704,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -88721,7 +88721,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -88738,7 +88738,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -88755,7 +88755,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -88772,7 +88772,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -88789,7 +88789,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -88806,7 +88806,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -88823,7 +88823,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -88840,7 +88840,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -88857,7 +88857,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -88874,7 +88874,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -88891,7 +88891,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -88908,7 +88908,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -88925,7 +88925,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -88942,7 +88942,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -88959,7 +88959,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -88976,7 +88976,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -88993,7 +88993,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -89010,7 +89010,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -89027,7 +89027,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -89044,7 +89044,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -89061,7 +89061,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -89077,7 +89077,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -89093,7 +89093,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -89109,7 +89109,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -89125,7 +89125,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -89145,11 +89145,12 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-asia",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             }
         ],
         "showAllTab": false,
-        "viewMode": "TABBED_GRID"
+        "viewMode": "TABBED_GRID",
+        "backdropImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
     },
     {
         "id": "collection-series-paises-pt",
@@ -89165,7 +89166,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2027,
@@ -89182,7 +89183,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2026,
@@ -89199,7 +89200,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2025,
@@ -89216,7 +89217,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2024,
@@ -89233,7 +89234,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2023,
@@ -89250,7 +89251,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2022,
@@ -89267,7 +89268,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2021,
@@ -89284,7 +89285,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2020,
@@ -89301,7 +89302,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2019,
@@ -89318,7 +89319,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2018,
@@ -89335,7 +89336,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2017,
@@ -89352,7 +89353,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2016,
@@ -89369,7 +89370,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2015,
@@ -89386,7 +89387,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2014,
@@ -89403,7 +89404,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2013,
@@ -89420,7 +89421,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2012,
@@ -89437,7 +89438,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2011,
@@ -89454,7 +89455,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2010,
@@ -89471,7 +89472,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2009,
@@ -89488,7 +89489,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2008,
@@ -89505,7 +89506,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2007,
@@ -89522,7 +89523,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2006,
@@ -89539,7 +89540,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2005,
@@ -89556,7 +89557,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2004,
@@ -89573,7 +89574,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2003,
@@ -89590,7 +89591,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2002,
@@ -89607,7 +89608,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2001,
@@ -89624,7 +89625,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "year": 2000,
@@ -89641,7 +89642,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
@@ -89657,7 +89658,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
@@ -89673,7 +89674,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
@@ -89689,7 +89690,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
@@ -89705,7 +89706,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ja",
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
@@ -89725,7 +89726,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-japones.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-china",
@@ -89737,7 +89738,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2027,
@@ -89754,7 +89755,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2026,
@@ -89771,7 +89772,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2025,
@@ -89788,7 +89789,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2024,
@@ -89805,7 +89806,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2023,
@@ -89822,7 +89823,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2022,
@@ -89839,7 +89840,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2021,
@@ -89856,7 +89857,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2020,
@@ -89873,7 +89874,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2019,
@@ -89890,7 +89891,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2018,
@@ -89907,7 +89908,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2017,
@@ -89924,7 +89925,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2016,
@@ -89941,7 +89942,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2015,
@@ -89958,7 +89959,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2014,
@@ -89975,7 +89976,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2013,
@@ -89992,7 +89993,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2012,
@@ -90009,7 +90010,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2011,
@@ -90026,7 +90027,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2010,
@@ -90043,7 +90044,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2009,
@@ -90060,7 +90061,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2008,
@@ -90077,7 +90078,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2007,
@@ -90094,7 +90095,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2006,
@@ -90111,7 +90112,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2005,
@@ -90128,7 +90129,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2004,
@@ -90145,7 +90146,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2003,
@@ -90162,7 +90163,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2002,
@@ -90179,7 +90180,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2001,
@@ -90196,7 +90197,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "year": 2000,
@@ -90213,7 +90214,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
@@ -90229,7 +90230,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
@@ -90245,7 +90246,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
@@ -90261,7 +90262,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
@@ -90277,7 +90278,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "zh",
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
@@ -90297,7 +90298,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-chines.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-coreia-do-sul",
@@ -90309,7 +90310,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2027,
@@ -90326,7 +90327,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2026,
@@ -90343,7 +90344,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2025,
@@ -90360,7 +90361,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2024,
@@ -90377,7 +90378,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2023,
@@ -90394,7 +90395,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2022,
@@ -90411,7 +90412,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2021,
@@ -90428,7 +90429,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2020,
@@ -90445,7 +90446,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2019,
@@ -90462,7 +90463,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2018,
@@ -90479,7 +90480,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2017,
@@ -90496,7 +90497,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2016,
@@ -90513,7 +90514,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2015,
@@ -90530,7 +90531,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2014,
@@ -90547,7 +90548,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2013,
@@ -90564,7 +90565,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2012,
@@ -90581,7 +90582,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2011,
@@ -90598,7 +90599,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2010,
@@ -90615,7 +90616,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2009,
@@ -90632,7 +90633,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2008,
@@ -90649,7 +90650,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2007,
@@ -90666,7 +90667,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2006,
@@ -90683,7 +90684,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2005,
@@ -90700,7 +90701,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2004,
@@ -90717,7 +90718,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2003,
@@ -90734,7 +90735,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2002,
@@ -90751,7 +90752,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2001,
@@ -90768,7 +90769,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "year": 2000,
@@ -90785,7 +90786,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
@@ -90801,7 +90802,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
@@ -90817,7 +90818,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
@@ -90833,7 +90834,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
@@ -90849,7 +90850,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "ko",
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
@@ -90869,7 +90870,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-coreano.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-india",
@@ -90881,7 +90882,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2027,
@@ -90898,7 +90899,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2026,
@@ -90915,7 +90916,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2025,
@@ -90932,7 +90933,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2024,
@@ -90949,7 +90950,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2023,
@@ -90966,7 +90967,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2022,
@@ -90983,7 +90984,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2021,
@@ -91000,7 +91001,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2020,
@@ -91017,7 +91018,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2019,
@@ -91034,7 +91035,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2018,
@@ -91051,7 +91052,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2017,
@@ -91068,7 +91069,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2016,
@@ -91085,7 +91086,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2015,
@@ -91102,7 +91103,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2014,
@@ -91119,7 +91120,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2013,
@@ -91136,7 +91137,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2012,
@@ -91153,7 +91154,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2011,
@@ -91170,7 +91171,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2010,
@@ -91187,7 +91188,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2009,
@@ -91204,7 +91205,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2008,
@@ -91221,7 +91222,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2007,
@@ -91238,7 +91239,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2006,
@@ -91255,7 +91256,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2005,
@@ -91272,7 +91273,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2004,
@@ -91289,7 +91290,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2003,
@@ -91306,7 +91307,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2002,
@@ -91323,7 +91324,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2001,
@@ -91340,7 +91341,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "year": 2000,
@@ -91357,7 +91358,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
@@ -91373,7 +91374,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
@@ -91389,7 +91390,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
@@ -91405,7 +91406,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
@@ -91421,7 +91422,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "hi|ta|te|ml|bn|mr|kn",
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
@@ -91441,7 +91442,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-indiano.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-espanha",
@@ -91453,7 +91454,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2027,
@@ -91470,7 +91471,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2026,
@@ -91487,7 +91488,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2025,
@@ -91504,7 +91505,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2024,
@@ -91521,7 +91522,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2023,
@@ -91538,7 +91539,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2022,
@@ -91555,7 +91556,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2021,
@@ -91572,7 +91573,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2020,
@@ -91589,7 +91590,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2019,
@@ -91606,7 +91607,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2018,
@@ -91623,7 +91624,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2017,
@@ -91640,7 +91641,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2016,
@@ -91657,7 +91658,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2015,
@@ -91674,7 +91675,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2014,
@@ -91691,7 +91692,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2013,
@@ -91708,7 +91709,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2012,
@@ -91725,7 +91726,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2011,
@@ -91742,7 +91743,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2010,
@@ -91759,7 +91760,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2009,
@@ -91776,7 +91777,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2008,
@@ -91793,7 +91794,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2007,
@@ -91810,7 +91811,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2006,
@@ -91827,7 +91828,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2005,
@@ -91844,7 +91845,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2004,
@@ -91861,7 +91862,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2003,
@@ -91878,7 +91879,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2002,
@@ -91895,7 +91896,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2001,
@@ -91912,7 +91913,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "year": 2000,
@@ -91929,7 +91930,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
@@ -91945,7 +91946,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
@@ -91961,7 +91962,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
@@ -91977,7 +91978,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
@@ -91993,7 +91994,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "es",
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
@@ -92013,7 +92014,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-espanhol.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-franca",
@@ -92025,7 +92026,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2027,
@@ -92042,7 +92043,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2026,
@@ -92059,7 +92060,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2025,
@@ -92076,7 +92077,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2024,
@@ -92093,7 +92094,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2023,
@@ -92110,7 +92111,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2022,
@@ -92127,7 +92128,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2021,
@@ -92144,7 +92145,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2020,
@@ -92161,7 +92162,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2019,
@@ -92178,7 +92179,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2018,
@@ -92195,7 +92196,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2017,
@@ -92212,7 +92213,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2016,
@@ -92229,7 +92230,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2015,
@@ -92246,7 +92247,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2014,
@@ -92263,7 +92264,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2013,
@@ -92280,7 +92281,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2012,
@@ -92297,7 +92298,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2011,
@@ -92314,7 +92315,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2010,
@@ -92331,7 +92332,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2009,
@@ -92348,7 +92349,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2008,
@@ -92365,7 +92366,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2007,
@@ -92382,7 +92383,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2006,
@@ -92399,7 +92400,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2005,
@@ -92416,7 +92417,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2004,
@@ -92433,7 +92434,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2003,
@@ -92450,7 +92451,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2002,
@@ -92467,7 +92468,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2001,
@@ -92484,7 +92485,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "year": 2000,
@@ -92501,7 +92502,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
@@ -92517,7 +92518,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
@@ -92533,7 +92534,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
@@ -92549,7 +92550,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
@@ -92565,7 +92566,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "fr",
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
@@ -92585,7 +92586,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-frances.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-paises-nordicos",
@@ -92597,7 +92598,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2027,
@@ -92614,7 +92615,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2026,
@@ -92631,7 +92632,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2025,
@@ -92648,7 +92649,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2024,
@@ -92665,7 +92666,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2023,
@@ -92682,7 +92683,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2022,
@@ -92699,7 +92700,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2021,
@@ -92716,7 +92717,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2020,
@@ -92733,7 +92734,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2019,
@@ -92750,7 +92751,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2018,
@@ -92767,7 +92768,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2017,
@@ -92784,7 +92785,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2016,
@@ -92801,7 +92802,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2015,
@@ -92818,7 +92819,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2014,
@@ -92835,7 +92836,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2013,
@@ -92852,7 +92853,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2012,
@@ -92869,7 +92870,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2011,
@@ -92886,7 +92887,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2010,
@@ -92903,7 +92904,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2009,
@@ -92920,7 +92921,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2008,
@@ -92937,7 +92938,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2007,
@@ -92954,7 +92955,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2006,
@@ -92971,7 +92972,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2005,
@@ -92988,7 +92989,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2004,
@@ -93005,7 +93006,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2003,
@@ -93022,7 +93023,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2002,
@@ -93039,7 +93040,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2001,
@@ -93056,7 +93057,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "year": 2000,
@@ -93073,7 +93074,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
@@ -93089,7 +93090,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
@@ -93105,7 +93106,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
@@ -93121,7 +93122,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
@@ -93137,7 +93138,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "da|fi|is|no|sv",
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
@@ -93157,7 +93158,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-nordico.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-portugal",
@@ -93169,7 +93170,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2027,
@@ -93186,7 +93187,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2026,
@@ -93203,7 +93204,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2025,
@@ -93220,7 +93221,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2024,
@@ -93237,7 +93238,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2023,
@@ -93254,7 +93255,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2022,
@@ -93271,7 +93272,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2021,
@@ -93288,7 +93289,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2020,
@@ -93305,7 +93306,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2019,
@@ -93322,7 +93323,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2018,
@@ -93339,7 +93340,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2017,
@@ -93356,7 +93357,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2016,
@@ -93373,7 +93374,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2015,
@@ -93390,7 +93391,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2014,
@@ -93407,7 +93408,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2013,
@@ -93424,7 +93425,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2012,
@@ -93441,7 +93442,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2011,
@@ -93458,7 +93459,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2010,
@@ -93475,7 +93476,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2009,
@@ -93492,7 +93493,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2008,
@@ -93509,7 +93510,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2007,
@@ -93526,7 +93527,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2006,
@@ -93543,7 +93544,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2005,
@@ -93560,7 +93561,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2004,
@@ -93577,7 +93578,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2003,
@@ -93594,7 +93595,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2002,
@@ -93611,7 +93612,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2001,
@@ -93628,7 +93629,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "year": 2000,
@@ -93645,7 +93646,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
@@ -93661,7 +93662,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
@@ -93677,7 +93678,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
@@ -93693,7 +93694,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
@@ -93709,7 +93710,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "withOriginalLanguage": "pt",
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
@@ -93729,7 +93730,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/extra-cinema-portugues-30.jpg?v=20260812-capas-v2",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-alemanha",
@@ -93741,7 +93742,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -93758,7 +93759,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -93775,7 +93776,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -93792,7 +93793,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -93809,7 +93810,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -93826,7 +93827,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -93843,7 +93844,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -93860,7 +93861,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -93877,7 +93878,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -93894,7 +93895,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -93911,7 +93912,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -93928,7 +93929,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -93945,7 +93946,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -93962,7 +93963,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -93979,7 +93980,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -93996,7 +93997,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -94013,7 +94014,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -94030,7 +94031,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -94047,7 +94048,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -94064,7 +94065,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -94081,7 +94082,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -94098,7 +94099,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -94115,7 +94116,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -94132,7 +94133,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -94149,7 +94150,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -94166,7 +94167,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -94183,7 +94184,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -94200,7 +94201,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -94217,7 +94218,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -94233,7 +94234,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -94249,7 +94250,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -94265,7 +94266,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -94281,7 +94282,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -94301,7 +94302,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-argentina",
@@ -94313,7 +94314,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -94330,7 +94331,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -94347,7 +94348,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -94364,7 +94365,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -94381,7 +94382,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -94398,7 +94399,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -94415,7 +94416,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -94432,7 +94433,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -94449,7 +94450,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -94466,7 +94467,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -94483,7 +94484,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -94500,7 +94501,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -94517,7 +94518,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -94534,7 +94535,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -94551,7 +94552,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -94568,7 +94569,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -94585,7 +94586,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -94602,7 +94603,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -94619,7 +94620,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -94636,7 +94637,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -94653,7 +94654,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -94670,7 +94671,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -94687,7 +94688,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -94704,7 +94705,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -94721,7 +94722,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -94738,7 +94739,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -94755,7 +94756,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -94772,7 +94773,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -94789,7 +94790,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -94805,7 +94806,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -94821,7 +94822,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -94837,7 +94838,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -94853,7 +94854,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -94873,7 +94874,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-australia",
@@ -94885,7 +94886,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -94902,7 +94903,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -94919,7 +94920,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -94936,7 +94937,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -94953,7 +94954,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -94970,7 +94971,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -94987,7 +94988,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -95004,7 +95005,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -95021,7 +95022,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -95038,7 +95039,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -95055,7 +95056,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -95072,7 +95073,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -95089,7 +95090,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -95106,7 +95107,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -95123,7 +95124,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -95140,7 +95141,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -95157,7 +95158,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -95174,7 +95175,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -95191,7 +95192,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -95208,7 +95209,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -95225,7 +95226,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -95242,7 +95243,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -95259,7 +95260,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -95276,7 +95277,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -95293,7 +95294,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -95310,7 +95311,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -95327,7 +95328,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -95344,7 +95345,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -95361,7 +95362,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -95377,7 +95378,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -95393,7 +95394,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -95409,7 +95410,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -95425,7 +95426,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -95445,7 +95446,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-brasil",
@@ -95457,7 +95458,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -95474,7 +95475,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -95491,7 +95492,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -95508,7 +95509,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -95525,7 +95526,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -95542,7 +95543,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -95559,7 +95560,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -95576,7 +95577,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -95593,7 +95594,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -95610,7 +95611,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -95627,7 +95628,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -95644,7 +95645,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -95661,7 +95662,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -95678,7 +95679,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -95695,7 +95696,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -95712,7 +95713,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -95729,7 +95730,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -95746,7 +95747,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -95763,7 +95764,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -95780,7 +95781,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -95797,7 +95798,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -95814,7 +95815,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -95831,7 +95832,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -95848,7 +95849,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -95865,7 +95866,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -95882,7 +95883,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -95899,7 +95900,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -95916,7 +95917,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -95933,7 +95934,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -95949,7 +95950,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -95965,7 +95966,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -95981,7 +95982,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -95997,7 +95998,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -96017,7 +96018,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-canada",
@@ -96029,7 +96030,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -96046,7 +96047,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -96063,7 +96064,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -96080,7 +96081,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -96097,7 +96098,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -96114,7 +96115,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -96131,7 +96132,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -96148,7 +96149,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -96165,7 +96166,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -96182,7 +96183,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -96199,7 +96200,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -96216,7 +96217,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -96233,7 +96234,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -96250,7 +96251,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -96267,7 +96268,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -96284,7 +96285,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -96301,7 +96302,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -96318,7 +96319,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -96335,7 +96336,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -96352,7 +96353,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -96369,7 +96370,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -96386,7 +96387,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -96403,7 +96404,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -96420,7 +96421,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -96437,7 +96438,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -96454,7 +96455,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -96471,7 +96472,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -96488,7 +96489,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -96505,7 +96506,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -96521,7 +96522,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -96537,7 +96538,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -96553,7 +96554,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -96569,7 +96570,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -96589,7 +96590,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-estados-unidos",
@@ -96601,7 +96602,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -96618,7 +96619,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -96635,7 +96636,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -96652,7 +96653,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -96669,7 +96670,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -96686,7 +96687,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -96703,7 +96704,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -96720,7 +96721,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -96737,7 +96738,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -96754,7 +96755,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -96771,7 +96772,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -96788,7 +96789,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -96805,7 +96806,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -96822,7 +96823,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -96839,7 +96840,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -96856,7 +96857,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -96873,7 +96874,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -96890,7 +96891,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -96907,7 +96908,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -96924,7 +96925,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -96941,7 +96942,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -96958,7 +96959,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -96975,7 +96976,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -96992,7 +96993,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -97009,7 +97010,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -97026,7 +97027,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -97043,7 +97044,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -97060,7 +97061,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -97077,7 +97078,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -97093,7 +97094,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -97109,7 +97110,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -97125,7 +97126,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -97141,7 +97142,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -97161,7 +97162,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-italia",
@@ -97173,7 +97174,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -97190,7 +97191,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -97207,7 +97208,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -97224,7 +97225,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -97241,7 +97242,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -97258,7 +97259,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -97275,7 +97276,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -97292,7 +97293,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -97309,7 +97310,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -97326,7 +97327,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -97343,7 +97344,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -97360,7 +97361,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -97377,7 +97378,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -97394,7 +97395,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -97411,7 +97412,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -97428,7 +97429,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -97445,7 +97446,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -97462,7 +97463,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -97479,7 +97480,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -97496,7 +97497,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -97513,7 +97514,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -97530,7 +97531,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -97547,7 +97548,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -97564,7 +97565,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -97581,7 +97582,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -97598,7 +97599,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -97615,7 +97616,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -97632,7 +97633,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -97649,7 +97650,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -97665,7 +97666,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -97681,7 +97682,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -97697,7 +97698,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -97713,7 +97714,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -97733,7 +97734,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-reino-unido",
@@ -97745,7 +97746,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -97762,7 +97763,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -97779,7 +97780,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -97796,7 +97797,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -97813,7 +97814,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -97830,7 +97831,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -97847,7 +97848,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -97864,7 +97865,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -97881,7 +97882,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -97898,7 +97899,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -97915,7 +97916,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -97932,7 +97933,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -97949,7 +97950,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -97966,7 +97967,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -97983,7 +97984,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -98000,7 +98001,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -98017,7 +98018,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -98034,7 +98035,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -98051,7 +98052,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -98068,7 +98069,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -98085,7 +98086,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -98102,7 +98103,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -98119,7 +98120,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -98136,7 +98137,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -98153,7 +98154,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -98170,7 +98171,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -98187,7 +98188,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -98204,7 +98205,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -98221,7 +98222,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -98237,7 +98238,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -98253,7 +98254,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -98269,7 +98270,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -98285,7 +98286,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -98305,7 +98306,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-austria",
@@ -98317,7 +98318,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -98334,7 +98335,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -98351,7 +98352,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -98368,7 +98369,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -98385,7 +98386,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -98402,7 +98403,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -98419,7 +98420,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -98436,7 +98437,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -98453,7 +98454,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -98470,7 +98471,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -98487,7 +98488,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -98504,7 +98505,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -98521,7 +98522,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -98538,7 +98539,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -98555,7 +98556,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -98572,7 +98573,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -98589,7 +98590,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -98606,7 +98607,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -98623,7 +98624,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -98640,7 +98641,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -98657,7 +98658,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -98674,7 +98675,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -98691,7 +98692,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -98708,7 +98709,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -98725,7 +98726,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -98742,7 +98743,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -98759,7 +98760,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -98776,7 +98777,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -98793,7 +98794,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -98809,7 +98810,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -98825,7 +98826,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -98841,7 +98842,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -98857,7 +98858,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -98877,7 +98878,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-mais",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-belgica",
@@ -98889,7 +98890,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -98906,7 +98907,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -98923,7 +98924,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -98940,7 +98941,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -98957,7 +98958,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -98974,7 +98975,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -98991,7 +98992,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -99008,7 +99009,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -99025,7 +99026,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -99042,7 +99043,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -99059,7 +99060,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -99076,7 +99077,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -99093,7 +99094,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -99110,7 +99111,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -99127,7 +99128,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -99144,7 +99145,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -99161,7 +99162,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -99178,7 +99179,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -99195,7 +99196,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -99212,7 +99213,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -99229,7 +99230,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -99246,7 +99247,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -99263,7 +99264,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -99280,7 +99281,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -99297,7 +99298,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -99314,7 +99315,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -99331,7 +99332,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -99348,7 +99349,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -99365,7 +99366,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -99381,7 +99382,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -99397,7 +99398,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -99413,7 +99414,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -99429,7 +99430,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -99449,7 +99450,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-mais",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-chile",
@@ -99461,7 +99462,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -99478,7 +99479,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -99495,7 +99496,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -99512,7 +99513,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -99529,7 +99530,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -99546,7 +99547,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -99563,7 +99564,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -99580,7 +99581,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -99597,7 +99598,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -99614,7 +99615,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -99631,7 +99632,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -99648,7 +99649,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -99665,7 +99666,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -99682,7 +99683,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -99699,7 +99700,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -99716,7 +99717,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -99733,7 +99734,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -99750,7 +99751,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -99767,7 +99768,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -99784,7 +99785,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -99801,7 +99802,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -99818,7 +99819,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -99835,7 +99836,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -99852,7 +99853,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -99869,7 +99870,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -99886,7 +99887,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -99903,7 +99904,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -99920,7 +99921,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -99937,7 +99938,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -99953,7 +99954,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -99969,7 +99970,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -99985,7 +99986,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -100001,7 +100002,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -100021,7 +100022,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-mais",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-colombia",
@@ -100033,7 +100034,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -100050,7 +100051,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -100067,7 +100068,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -100084,7 +100085,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -100101,7 +100102,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -100118,7 +100119,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -100135,7 +100136,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -100152,7 +100153,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -100169,7 +100170,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -100186,7 +100187,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -100203,7 +100204,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -100220,7 +100221,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -100237,7 +100238,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -100254,7 +100255,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -100271,7 +100272,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -100288,7 +100289,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -100305,7 +100306,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -100322,7 +100323,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -100339,7 +100340,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -100356,7 +100357,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -100373,7 +100374,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -100390,7 +100391,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -100407,7 +100408,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -100424,7 +100425,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -100441,7 +100442,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -100458,7 +100459,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -100475,7 +100476,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -100492,7 +100493,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -100509,7 +100510,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -100525,7 +100526,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -100541,7 +100542,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -100557,7 +100558,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -100573,7 +100574,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -100593,7 +100594,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-mais",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-grecia",
@@ -100605,7 +100606,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -100622,7 +100623,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -100639,7 +100640,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -100656,7 +100657,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -100673,7 +100674,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -100690,7 +100691,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -100707,7 +100708,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -100724,7 +100725,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -100741,7 +100742,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -100758,7 +100759,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -100775,7 +100776,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -100792,7 +100793,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -100809,7 +100810,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -100826,7 +100827,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -100843,7 +100844,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -100860,7 +100861,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -100877,7 +100878,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -100894,7 +100895,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -100911,7 +100912,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -100928,7 +100929,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -100945,7 +100946,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -100962,7 +100963,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -100979,7 +100980,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -100996,7 +100997,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -101013,7 +101014,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -101030,7 +101031,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -101047,7 +101048,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -101064,7 +101065,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -101081,7 +101082,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -101097,7 +101098,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -101113,7 +101114,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -101129,7 +101130,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -101145,7 +101146,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -101165,7 +101166,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-mais",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-irlanda",
@@ -101177,7 +101178,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -101194,7 +101195,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -101211,7 +101212,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -101228,7 +101229,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -101245,7 +101246,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -101262,7 +101263,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -101279,7 +101280,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -101296,7 +101297,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -101313,7 +101314,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -101330,7 +101331,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -101347,7 +101348,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -101364,7 +101365,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -101381,7 +101382,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -101398,7 +101399,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -101415,7 +101416,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -101432,7 +101433,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -101449,7 +101450,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -101466,7 +101467,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -101483,7 +101484,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -101500,7 +101501,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -101517,7 +101518,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -101534,7 +101535,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -101551,7 +101552,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -101568,7 +101569,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -101585,7 +101586,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -101602,7 +101603,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -101619,7 +101620,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -101636,7 +101637,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -101653,7 +101654,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -101669,7 +101670,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -101685,7 +101686,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -101701,7 +101702,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -101717,7 +101718,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -101737,7 +101738,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-mais",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-polonia",
@@ -101749,7 +101750,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -101766,7 +101767,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -101783,7 +101784,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -101800,7 +101801,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -101817,7 +101818,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -101834,7 +101835,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -101851,7 +101852,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -101868,7 +101869,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -101885,7 +101886,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -101902,7 +101903,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -101919,7 +101920,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -101936,7 +101937,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -101953,7 +101954,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -101970,7 +101971,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -101987,7 +101988,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -102004,7 +102005,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -102021,7 +102022,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -102038,7 +102039,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -102055,7 +102056,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -102072,7 +102073,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -102089,7 +102090,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -102106,7 +102107,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -102123,7 +102124,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -102140,7 +102141,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -102157,7 +102158,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -102174,7 +102175,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -102191,7 +102192,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -102208,7 +102209,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -102225,7 +102226,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -102241,7 +102242,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -102257,7 +102258,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -102273,7 +102274,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -102289,7 +102290,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -102309,7 +102310,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-mais",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-suica",
@@ -102321,7 +102322,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -102338,7 +102339,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -102355,7 +102356,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -102372,7 +102373,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -102389,7 +102390,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -102406,7 +102407,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -102423,7 +102424,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -102440,7 +102441,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -102457,7 +102458,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -102474,7 +102475,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -102491,7 +102492,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -102508,7 +102509,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -102525,7 +102526,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -102542,7 +102543,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -102559,7 +102560,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -102576,7 +102577,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -102593,7 +102594,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -102610,7 +102611,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -102627,7 +102628,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -102644,7 +102645,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -102661,7 +102662,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -102678,7 +102679,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -102695,7 +102696,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -102712,7 +102713,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -102729,7 +102730,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -102746,7 +102747,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -102763,7 +102764,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -102780,7 +102781,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -102797,7 +102798,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -102813,7 +102814,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -102829,7 +102830,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -102845,7 +102846,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -102861,7 +102862,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -102881,7 +102882,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-mais",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-bangladesh",
@@ -102893,7 +102894,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -102910,7 +102911,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -102927,7 +102928,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -102944,7 +102945,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -102961,7 +102962,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -102978,7 +102979,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -102995,7 +102996,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -103012,7 +103013,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -103029,7 +103030,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -103046,7 +103047,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -103063,7 +103064,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -103080,7 +103081,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -103097,7 +103098,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -103114,7 +103115,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -103131,7 +103132,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -103148,7 +103149,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -103165,7 +103166,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -103182,7 +103183,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -103199,7 +103200,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -103216,7 +103217,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -103233,7 +103234,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -103250,7 +103251,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -103267,7 +103268,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -103284,7 +103285,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -103301,7 +103302,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -103318,7 +103319,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -103335,7 +103336,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -103352,7 +103353,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -103369,7 +103370,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -103385,7 +103386,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -103401,7 +103402,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -103417,7 +103418,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -103433,7 +103434,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -103453,7 +103454,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-asia",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-indonesia",
@@ -103465,7 +103466,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -103482,7 +103483,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -103499,7 +103500,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -103516,7 +103517,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -103533,7 +103534,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -103550,7 +103551,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -103567,7 +103568,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -103584,7 +103585,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -103601,7 +103602,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -103618,7 +103619,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -103635,7 +103636,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -103652,7 +103653,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -103669,7 +103670,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -103686,7 +103687,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -103703,7 +103704,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -103720,7 +103721,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -103737,7 +103738,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -103754,7 +103755,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -103771,7 +103772,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -103788,7 +103789,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -103805,7 +103806,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -103822,7 +103823,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -103839,7 +103840,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -103856,7 +103857,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -103873,7 +103874,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -103890,7 +103891,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -103907,7 +103908,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -103924,7 +103925,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -103941,7 +103942,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -103957,7 +103958,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -103973,7 +103974,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -103989,7 +103990,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -104005,7 +104006,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -104025,7 +104026,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-asia",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-irao",
@@ -104037,7 +104038,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -104054,7 +104055,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -104071,7 +104072,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -104088,7 +104089,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -104105,7 +104106,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -104122,7 +104123,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -104139,7 +104140,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -104156,7 +104157,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -104173,7 +104174,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -104190,7 +104191,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -104207,7 +104208,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -104224,7 +104225,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -104241,7 +104242,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -104258,7 +104259,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -104275,7 +104276,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -104292,7 +104293,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -104309,7 +104310,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -104326,7 +104327,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -104343,7 +104344,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -104360,7 +104361,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -104377,7 +104378,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -104394,7 +104395,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -104411,7 +104412,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -104428,7 +104429,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -104445,7 +104446,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -104462,7 +104463,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -104479,7 +104480,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -104496,7 +104497,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -104513,7 +104514,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -104529,7 +104530,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -104545,7 +104546,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -104561,7 +104562,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -104577,7 +104578,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -104597,7 +104598,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-asia",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-malasia",
@@ -104609,7 +104610,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -104626,7 +104627,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -104643,7 +104644,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -104660,7 +104661,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -104677,7 +104678,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -104694,7 +104695,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -104711,7 +104712,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -104728,7 +104729,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -104745,7 +104746,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -104762,7 +104763,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -104779,7 +104780,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -104796,7 +104797,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -104813,7 +104814,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -104830,7 +104831,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -104847,7 +104848,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -104864,7 +104865,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -104881,7 +104882,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -104898,7 +104899,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -104915,7 +104916,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -104932,7 +104933,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -104949,7 +104950,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -104966,7 +104967,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -104983,7 +104984,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -105000,7 +105001,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -105017,7 +105018,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -105034,7 +105035,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -105051,7 +105052,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -105068,7 +105069,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -105085,7 +105086,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -105101,7 +105102,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -105117,7 +105118,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -105133,7 +105134,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -105149,7 +105150,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -105169,7 +105170,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-asia",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-nepal",
@@ -105181,7 +105182,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -105198,7 +105199,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -105215,7 +105216,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -105232,7 +105233,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -105249,7 +105250,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -105266,7 +105267,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -105283,7 +105284,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -105300,7 +105301,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -105317,7 +105318,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -105334,7 +105335,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -105351,7 +105352,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -105368,7 +105369,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -105385,7 +105386,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -105402,7 +105403,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -105419,7 +105420,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -105436,7 +105437,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -105453,7 +105454,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -105470,7 +105471,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -105487,7 +105488,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -105504,7 +105505,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -105521,7 +105522,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -105538,7 +105539,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -105555,7 +105556,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -105572,7 +105573,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -105589,7 +105590,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -105606,7 +105607,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -105623,7 +105624,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -105640,7 +105641,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -105657,7 +105658,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -105673,7 +105674,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -105689,7 +105690,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -105705,7 +105706,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -105721,7 +105722,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -105741,7 +105742,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-asia",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-filipinas",
@@ -105753,7 +105754,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -105770,7 +105771,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -105787,7 +105788,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -105804,7 +105805,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -105821,7 +105822,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -105838,7 +105839,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -105855,7 +105856,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -105872,7 +105873,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -105889,7 +105890,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -105906,7 +105907,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -105923,7 +105924,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -105940,7 +105941,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -105957,7 +105958,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -105974,7 +105975,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -105991,7 +105992,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -106008,7 +106009,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -106025,7 +106026,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -106042,7 +106043,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -106059,7 +106060,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -106076,7 +106077,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -106093,7 +106094,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -106110,7 +106111,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -106127,7 +106128,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -106144,7 +106145,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -106161,7 +106162,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -106178,7 +106179,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -106195,7 +106196,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -106212,7 +106213,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -106229,7 +106230,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -106245,7 +106246,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -106261,7 +106262,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -106277,7 +106278,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -106293,7 +106294,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -106313,7 +106314,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-asia",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-tailandia",
@@ -106325,7 +106326,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -106342,7 +106343,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -106359,7 +106360,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -106376,7 +106377,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -106393,7 +106394,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -106410,7 +106411,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -106427,7 +106428,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -106444,7 +106445,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -106461,7 +106462,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -106478,7 +106479,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -106495,7 +106496,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -106512,7 +106513,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -106529,7 +106530,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -106546,7 +106547,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -106563,7 +106564,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -106580,7 +106581,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -106597,7 +106598,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -106614,7 +106615,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -106631,7 +106632,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -106648,7 +106649,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -106665,7 +106666,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -106682,7 +106683,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -106699,7 +106700,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -106716,7 +106717,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -106733,7 +106734,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -106750,7 +106751,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -106767,7 +106768,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -106784,7 +106785,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -106801,7 +106802,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -106817,7 +106818,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -106833,7 +106834,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -106849,7 +106850,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -106865,7 +106866,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -106885,7 +106886,7 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-asia",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             },
             {
                 "id": "folder-series-pais-vietname",
@@ -106897,7 +106898,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2027,
                             "releaseDateGte": "2027-01-01",
@@ -106914,7 +106915,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2026,
                             "releaseDateGte": "2026-01-01",
@@ -106931,7 +106932,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2025,
                             "releaseDateGte": "2025-01-01",
@@ -106948,7 +106949,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2024,
                             "releaseDateGte": "2024-01-01",
@@ -106965,7 +106966,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2023,
                             "releaseDateGte": "2023-01-01",
@@ -106982,7 +106983,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2022,
                             "releaseDateGte": "2022-01-01",
@@ -106999,7 +107000,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2021,
                             "releaseDateGte": "2021-01-01",
@@ -107016,7 +107017,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2020,
                             "releaseDateGte": "2020-01-01",
@@ -107033,7 +107034,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2019,
                             "releaseDateGte": "2019-01-01",
@@ -107050,7 +107051,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2018,
                             "releaseDateGte": "2018-01-01",
@@ -107067,7 +107068,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2017,
                             "releaseDateGte": "2017-01-01",
@@ -107084,7 +107085,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2016,
                             "releaseDateGte": "2016-01-01",
@@ -107101,7 +107102,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2015,
                             "releaseDateGte": "2015-01-01",
@@ -107118,7 +107119,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2014,
                             "releaseDateGte": "2014-01-01",
@@ -107135,7 +107136,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2013,
                             "releaseDateGte": "2013-01-01",
@@ -107152,7 +107153,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2012,
                             "releaseDateGte": "2012-01-01",
@@ -107169,7 +107170,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2011,
                             "releaseDateGte": "2011-01-01",
@@ -107186,7 +107187,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2010,
                             "releaseDateGte": "2010-01-01",
@@ -107203,7 +107204,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2009,
                             "releaseDateGte": "2009-01-01",
@@ -107220,7 +107221,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2008,
                             "releaseDateGte": "2008-01-01",
@@ -107237,7 +107238,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2007,
                             "releaseDateGte": "2007-01-01",
@@ -107254,7 +107255,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2006,
                             "releaseDateGte": "2006-01-01",
@@ -107271,7 +107272,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2005,
                             "releaseDateGte": "2005-01-01",
@@ -107288,7 +107289,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2004,
                             "releaseDateGte": "2004-01-01",
@@ -107305,7 +107306,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2003,
                             "releaseDateGte": "2003-01-01",
@@ -107322,7 +107323,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2002,
                             "releaseDateGte": "2002-01-01",
@@ -107339,7 +107340,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2001,
                             "releaseDateGte": "2001-01-01",
@@ -107356,7 +107357,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "year": 2000,
                             "releaseDateGte": "2000-01-01",
@@ -107373,7 +107374,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1990-01-01",
                             "releaseDateLte": "1999-12-31",
@@ -107389,7 +107390,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1980-01-01",
                             "releaseDateLte": "1989-12-31",
@@ -107405,7 +107406,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1970-01-01",
                             "releaseDateLte": "1979-12-31",
@@ -107421,7 +107422,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1960-01-01",
                             "releaseDateLte": "1969-12-31",
@@ -107437,7 +107438,7 @@
                         "tmdbId": null,
                         "filters": {
                             "watchRegion": "PT",
-                            "includeAdult": false,
+                            "includeAdult": true,
                             "voteCountGte": 5,
                             "releaseDateGte": "1950-01-01",
                             "releaseDateLte": "1959-12-31",
@@ -107457,10 +107458,11 @@
                 "coverImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg?v=20260911-paises-asia",
                 "catalogSources": null,
                 "focusGifEnabled": false,
-                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/base.jpg"
+                "heroBackdropUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
             }
         ],
         "showAllTab": false,
-        "viewMode": "TABBED_GRID"
+        "viewMode": "TABBED_GRID",
+        "backdropImageUrl": "https://raw.githubusercontent.com/sofiarsilva07-cpu/nuvio-colecao-pt/main/explorar-categorias-background.jpg?v=20260911-paises-background"
     }
 ]
