@@ -10,7 +10,8 @@ Pacote declarativo de colecções para o Nuvio. O catálogo usa fontes TMDB Disc
 - secções separadas `Explorar Filmes por categoria` e `Explorar Séries por categoria`; usam 19 categorias de filmes e as 16 categorias oficiais de séries, mais `Fantasia`, por ordem alfabética;
 - secções separadas `Explorar Filmes por País` e `Explorar Séries por País`, com 32 países e 33 fontes anuais por país; os países acrescentados usam o filtro exacto de país TMDB;
 - as duas secções por país permitem conteúdo adulto (`includeAdult: true`); as restantes colecções continuam protegidas com `includeAdult: false`;
-- ambas as secções por país usam `explorar-categorias-background.jpg` como fundo da secção e das páginas de país;
+- as fontes por país não têm `voteCountGte` nem mínimo de votos; todos os títulos devolvidos pelo TMDB podem aparecer;
+- ambas as secções por país usam `explorar-categorias-background.jpg` como fundo da secção, dos cartões e das páginas de país; os nomes dos países são apresentados pelos próprios cartões;
 - nas séries, `Fantasia` e `Ficção científica e fantasia` usam o género TV combinado do TMDB (`10765`), porque o TMDB não disponibiliza IDs separados para estes dois géneros;
 - fontes com `includeAdult: false` no catálogo geral para excluir conteúdos adultos;
 - categorias sem corte mínimo de votos, para que o Nuvio possa continuar a carregar resultados do TMDB;
